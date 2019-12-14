@@ -1,19 +1,6 @@
-# Saudi-Arabia-Regions-Cities-and-Districts
-Saudi Arabia Regions, Cities and Districts.
+this a fork from [Saudi-Arabia-Regions-Cities-and-Districts](https://github.com/homaily/Saudi-Arabia-Regions-Cities-and-Districts). I just rearranged cities to be based on region which was already there but wasn't in tree based structure (I think its better for my case and also its better for IO so I don't have to iterate though all cities every time).
 
-* The data is public data collected from https://maps.address.gov.sa/
-* All coordinates in (Lat, Lon) aka (Y, X) format and 8 decimal points.
-* Data points include:
-  - Regions, Cities and Districts.
-  - Names (Arabic & English).
-  - Regions capital city, population & center point.
-  - Regions boundaries.
-  - Districts boundaries.
+### My Case:
+I've a dropdown of Saudi cities which I needed them to be shown based on selected region.
 
-
-## Contributing
-All contributions are welcome! 😊
-
-
-## License
-[GPL-2.0](https://github.com/homaily/Saudi-Arabia-Regions-Cities-and-Districts/blob/master/LICENSE)
+big thanks to @homaily.
