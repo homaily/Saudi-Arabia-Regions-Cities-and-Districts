@@ -13,7 +13,7 @@ real_cities = set(map(lambda district: district['city_id'], districts))
 cities = list(filter(lambda city: city['city_id'] in real_cities, cities))
 
 # update cities file
-with open('./json/cities.json', 'w') as cities_file:
+with open('./json/light_cities.json', 'w') as cities_file:
     cities_file.write(json.dumps(cities, ensure_ascii=False))
 
 
