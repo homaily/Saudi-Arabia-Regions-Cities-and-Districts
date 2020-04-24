@@ -2485,8 +2485,8 @@
     "name_ar": "فودة",
     "name_en": "Fudah",
     "center": [
-      25.95273002,
-      49.50091987
+      25.94468953,
+      49.49754315
     ]
   },
   {
@@ -3435,8 +3435,8 @@
     "name_ar": "المردمة",
     "name_en": "Al Mardamah",
     "center": [
-      23.68034276,
-      43.12266437
+      23.67269749,
+      43.13022278
     ]
   },
   {
@@ -6235,8 +6235,8 @@
     "name_ar": "السنارية",
     "name_en": "As Sinnariyah",
     "center": [
-      25.29049002,
-      44.15788998
+      25.28150997,
+      44.15240921
     ]
   },
   {
@@ -8562,7 +8562,7 @@
   {
     "city_id": 857,
     "region_id": 4,
-    "name_ar": "أبو سديرة",
+    "name_ar": "ابو سديرة",
     "name_en": "Abu Sudairah",
     "center": [
       25.47695496,
@@ -8815,8 +8815,8 @@
     "name_ar": "سنام",
     "name_en": "Sanam",
     "center": [
-      23.67571995,
-      44.77699006
+      23.65080171,
+      44.73916478
     ]
   },
   {
@@ -13132,7 +13132,7 @@
   {
     "city_id": 1314,
     "region_id": 4,
-    "name_ar": "مطربه",
+    "name_ar": "مطربة",
     "name_en": "Mutrabah",
     "center": [
       25.48626938,
@@ -15307,16 +15307,6 @@
     "center": [
       19.84112005,
       41.56252003
-    ]
-  },
-  {
-    "city_id": 1532,
-    "region_id": 8,
-    "name_ar": "مزارع اولاد مرزوق‎",
-    "name_en": "Mazarie 'awlad Marzuq",
-    "center": [
-      25.91673652,
-      40.34908277
     ]
   },
   {
@@ -21293,7 +21283,7 @@
     "city_id": 2134,
     "region_id": 2,
     "name_ar": "الفريع",
-    "name_en": "Al Furay'",
+    "name_en": "Al Furay",
     "center": [
       22.62078002,
       40.55289004
@@ -21655,8 +21645,8 @@
     "name_ar": "الجش",
     "name_en": "Al Jish",
     "center": [
-      26.49849998,
-      50.01076983
+      26.51381322,
+      49.99045039
     ]
   },
   {
@@ -21695,8 +21685,8 @@
     "name_ar": "الملاحة",
     "name_en": "Al Milahah",
     "center": [
-      26.51683004,
-      50.01418981
+      26.51228857,
+      50.00101063
     ]
   },
   {
@@ -23915,8 +23905,8 @@
     "name_ar": "ضليع رشيد",
     "name_en": "Dulay' Rashid",
     "center": [
-      25.50685003,
-      42.83010999
+      25.4976657,
+      42.84069852
     ]
   },
   {
@@ -25012,8 +25002,8 @@
   {
     "city_id": 2509,
     "region_id": 4,
-    "name_ar": "الغضياء",
-    "name_en": "Al Ghadya",
+    "name_ar": "الغضياء والسلمات",
+    "name_en": "Al Ghadya And Salmat",
     "center": [
       25.57634002,
       42.71319995
@@ -26425,8 +26415,8 @@
     "name_ar": "الغويبة",
     "name_en": "Al Ghuwaybah",
     "center": [
-      25.25828001,
-      49.73478991
+      25.26613559,
+      49.7147965
     ]
   },
   {
@@ -26435,8 +26425,8 @@
     "name_ar": "مريطبة",
     "name_en": "Muraytibah",
     "center": [
-      25.29559003,
-      49.81133991
+      25.27905697,
+      49.77402063
     ]
   },
   {
@@ -26445,8 +26435,8 @@
     "name_ar": "سوده",
     "name_en": "Sudah",
     "center": [
-      25.27467997,
-      49.79007982
+      25.27382714,
+      49.75937267
     ]
   },
   {
@@ -26812,11 +26802,11 @@
   {
     "city_id": 2689,
     "region_id": 8,
-    "name_ar": "الشعيلاء",
-    "name_en": "Ash Shu'ayla",
+    "name_ar": "شعيلا المصع",
+    "name_en": "Shuayla Al Masae",
     "center": [
-      26.57816995,
-      40.46439006
+      26.56518333,
+      40.48713333
     ]
   },
   {
@@ -27415,8 +27405,8 @@
     "name_ar": "الجليجلة",
     "name_en": "Al Julijlah",
     "center": [
-      25.51278,
-      49.60790984
+      25.5035864,
+      49.59994131
     ]
   },
   {
@@ -27493,7 +27483,7 @@
     "city_id": 2759,
     "region_id": 5,
     "name_ar": "التويثير",
-    "name_en": "At Tuwaythir",
+    "name_en": "Al Tuwaythir",
     "center": [
       25.42170004,
       49.69604985
@@ -29862,8 +29852,8 @@
   {
     "city_id": 2996,
     "region_id": 4,
-    "name_ar": "مباري",
-    "name_en": "Mibari",
+    "name_ar": "امباري",
+    "name_en": "Embary",
     "center": [
       26.05959976,
       42.23439039
@@ -30112,7 +30102,7 @@
   {
     "city_id": 3021,
     "region_id": 4,
-    "name_ar": "أبو طلح",
+    "name_ar": "ابو طلح",
     "name_en": "Abu Talh",
     "center": [
       25.43383333,
@@ -34913,7 +34903,7 @@
     "city_id": 3501,
     "region_id": 10,
     "name_ar": "الشقيري",
-    "name_en": "Ash Shuqairi",
+    "name_en": "Alshuqayri",
     "center": [
       17.13001004,
       42.82402
@@ -36516,7 +36506,7 @@
     "name_en": "As Sahi",
     "center": [
       16.51721339,
-      42.82780842
+      42.82780841
     ]
   },
   {
@@ -37060,6 +37050,16 @@
     ]
   },
   {
+    "city_id": 4080,
+    "region_id": 1,
+    "name_ar": "الراجحية",
+    "name_en": "Al Rajhiyah",
+    "center": [
+      25.29482202,
+      44.15417935
+    ]
+  },
+  {
     "city_id": 4088,
     "region_id": 1,
     "name_ar": "السيح",
@@ -37230,6 +37230,16 @@
     ]
   },
   {
+    "city_id": 4841,
+    "region_id": 1,
+    "name_ar": "الروضة",
+    "name_en": "Al Rawdah",
+    "center": [
+      24.21108333,
+      42.92111667
+    ]
+  },
+  {
     "city_id": 4848,
     "region_id": 1,
     "name_ar": "النزهة",
@@ -37257,6 +37267,16 @@
     "center": [
       24.39933333,
       43.26886667
+    ]
+  },
+  {
+    "city_id": 4910,
+    "region_id": 1,
+    "name_ar": "دارة المردمة",
+    "name_en": "Darat Al Mardamah",
+    "center": [
+      23.68236974,
+      43.11667128
     ]
   },
   {
@@ -37310,6 +37330,16 @@
     ]
   },
   {
+    "city_id": 5080,
+    "region_id": 2,
+    "name_ar": "الغبان",
+    "name_en": "Al Ghobban",
+    "center": [
+      21.48006667,
+      40.09956667
+    ]
+  },
+  {
     "city_id": 5164,
     "region_id": 2,
     "name_ar": "الصدر",
@@ -37320,6 +37350,16 @@
     ]
   },
   {
+    "city_id": 5181,
+    "region_id": 2,
+    "name_ar": "المربع",
+    "name_en": "Al Murabba",
+    "center": [
+      21.47961667,
+      40.08815
+    ]
+  },
+  {
     "city_id": 5730,
     "region_id": 2,
     "name_ar": "العقيق",
@@ -37327,6 +37367,16 @@
     "center": [
       22.18369809,
       40.8040586
+    ]
+  },
+  {
+    "city_id": 5731,
+    "region_id": 2,
+    "name_ar": "دغبج",
+    "name_en": "Dughbaj",
+    "center": [
+      22.37856667,
+      40.71233333
     ]
   },
   {
@@ -37350,6 +37400,16 @@
     ]
   },
   {
+    "city_id": 6778,
+    "region_id": 2,
+    "name_ar": "حفار",
+    "name_en": "Haffar",
+    "center": [
+      19.71695,
+      40.86106667
+    ]
+  },
+  {
     "city_id": 7035,
     "region_id": 2,
     "name_ar": "غران",
@@ -37370,6 +37430,16 @@
     ]
   },
   {
+    "city_id": 8749,
+    "region_id": 2,
+    "name_ar": "مشرف",
+    "name_en": "Mushrif",
+    "center": [
+      19.42468333,
+      41.84778333
+    ]
+  },
+  {
     "city_id": 9594,
     "region_id": 3,
     "name_ar": "الرذايا",
@@ -37387,6 +37457,26 @@
     "center": [
       24.01064515,
       38.26633335
+    ]
+  },
+  {
+    "city_id": 9936,
+    "region_id": 3,
+    "name_ar": "الروزه",
+    "name_en": "Al Roozah",
+    "center": [
+      23.31146667,
+      40.25726667
+    ]
+  },
+  {
+    "city_id": 10064,
+    "region_id": 3,
+    "name_ar": "السريحية",
+    "name_en": "Al Suraihiyah",
+    "center": [
+      23.89023333,
+      42.05705
     ]
   },
   {
@@ -37553,7 +37643,7 @@
     "city_id": 10832,
     "region_id": 4,
     "name_ar": "فيضة السلمات",
-    "name_en": "Faidat Al Salamat",
+    "name_en": "Faidat Al Salmat",
     "center": [
       25.58458333,
       42.81866667
@@ -37590,6 +37680,16 @@
     ]
   },
   {
+    "city_id": 10843,
+    "region_id": 4,
+    "name_ar": "الجحفه",
+    "name_en": "Al Jihfah",
+    "center": [
+      25.42911667,
+      42.81008333
+    ]
+  },
+  {
     "city_id": 10852,
     "region_id": 4,
     "name_ar": "الديرية",
@@ -37597,6 +37697,26 @@
     "center": [
       25.25741667,
       42.8366
+    ]
+  },
+  {
+    "city_id": 10867,
+    "region_id": 4,
+    "name_ar": "اباالحياص",
+    "name_en": "Aba Al Hayas",
+    "center": [
+      25.5245,
+      42.8319
+    ]
+  },
+  {
+    "city_id": 10868,
+    "region_id": 4,
+    "name_ar": "ابو طرفاء",
+    "name_en": "Abu Tarfa",
+    "center": [
+      25.514,
+      42.85358333
     ]
   },
   {
@@ -37670,6 +37790,16 @@
     ]
   },
   {
+    "city_id": 10953,
+    "region_id": 4,
+    "name_ar": "فيضة الريشية",
+    "name_en": "Faidat Al Resheyah",
+    "center": [
+      25.05105,
+      42.38533333
+    ]
+  },
+  {
     "city_id": 11040,
     "region_id": 5,
     "name_ar": "هجرة فضيلة",
@@ -37687,6 +37817,16 @@
     "center": [
       24.35393333,
       49.40768333
+    ]
+  },
+  {
+    "city_id": 11050,
+    "region_id": 5,
+    "name_ar": "مدينة الملك خالد العسكرية",
+    "name_en": "King Khalid Military City",
+    "center": [
+      27.96691667,
+      45.54083333
     ]
   },
   {
@@ -37737,6 +37877,16 @@
     "center": [
       27.80536667,
       47.1997
+    ]
+  },
+  {
+    "city_id": 11075,
+    "region_id": 5,
+    "name_ar": "ام الحمام",
+    "name_en": "Umm Al Hamam",
+    "center": [
+      26.52359297,
+      49.99823735
     ]
   },
   {
@@ -37810,6 +37960,16 @@
     ]
   },
   {
+    "city_id": 11565,
+    "region_id": 6,
+    "name_ar": "مندرمربة",
+    "name_en": "Mandir Marabah",
+    "center": [
+      17.89553333,
+      42.3863
+    ]
+  },
+  {
     "city_id": 11641,
     "region_id": 6,
     "name_ar": "مصاولي",
@@ -37820,6 +37980,16 @@
     ]
   },
   {
+    "city_id": 12199,
+    "region_id": 6,
+    "name_ar": "مخطط ال شبوه",
+    "name_en": "Al Shabwah Subdivision",
+    "center": [
+      20.20378333,
+      42.73575
+    ]
+  },
+  {
     "city_id": 12351,
     "region_id": 6,
     "name_ar": "الشقيريه",
@@ -37827,6 +37997,46 @@
     "center": [
       20.37321667,
       42.12215
+    ]
+  },
+  {
+    "city_id": 12915,
+    "region_id": 6,
+    "name_ar": "المصبح",
+    "name_en": "Al Musbah",
+    "center": [
+      18.68986667,
+      42.00993333
+    ]
+  },
+  {
+    "city_id": 12919,
+    "region_id": 6,
+    "name_ar": "ترقش",
+    "name_en": "Turqesh",
+    "center": [
+      18.66225,
+      42.0161
+    ]
+  },
+  {
+    "city_id": 13050,
+    "region_id": 6,
+    "name_ar": "قرن هادي",
+    "name_en": "Qarn Hadi",
+    "center": [
+      18.70138333,
+      41.6561
+    ]
+  },
+  {
+    "city_id": 13660,
+    "region_id": 6,
+    "name_ar": "المليحة",
+    "name_en": "Al Maleehah",
+    "center": [
+      18.70848333,
+      41.65678333
     ]
   },
   {
@@ -37847,6 +38057,26 @@
     "center": [
       19.47171667,
       41.97353333
+    ]
+  },
+  {
+    "city_id": 16303,
+    "region_id": 6,
+    "name_ar": "آل خجيم",
+    "name_en": "Al Khujaim",
+    "center": [
+      18.72108333,
+      43.19168333
+    ]
+  },
+  {
+    "city_id": 16787,
+    "region_id": 6,
+    "name_ar": "غوافل",
+    "name_en": "Ghavafil",
+    "center": [
+      18.83225,
+      42.03733333
     ]
   },
   {
@@ -37980,6 +38210,16 @@
     ]
   },
   {
+    "city_id": 17488,
+    "region_id": 8,
+    "name_ar": "السناف",
+    "name_en": "Al Sanaf",
+    "center": [
+      26.492,
+      40.90383333
+    ]
+  },
+  {
     "city_id": 17491,
     "region_id": 8,
     "name_ar": "بدائع العليا",
@@ -37987,6 +38227,16 @@
     "center": [
       26.85368333,
       41.46708333
+    ]
+  },
+  {
+    "city_id": 17492,
+    "region_id": 8,
+    "name_ar": "بدائع المحمي",
+    "name_en": "Badaie Al Mahmi",
+    "center": [
+      26.86408333,
+      41.4687
     ]
   },
   {
@@ -38040,6 +38290,16 @@
     ]
   },
   {
+    "city_id": 17608,
+    "region_id": 8,
+    "name_ar": "النظيم واللجاوي",
+    "name_en": "Nadhim And Lajawi",
+    "center": [
+      27.64586667,
+      40.37776667
+    ]
+  },
+  {
     "city_id": 17613,
     "region_id": 8,
     "name_ar": "الغانمية",
@@ -38070,6 +38330,16 @@
     ]
   },
   {
+    "city_id": 17647,
+    "region_id": 8,
+    "name_ar": "ثويليل",
+    "name_en": "Thuwayleel",
+    "center": [
+      25.9583,
+      40.55171667
+    ]
+  },
+  {
     "city_id": 17648,
     "region_id": 8,
     "name_ar": "أبو سويسيات",
@@ -38080,6 +38350,16 @@
     ]
   },
   {
+    "city_id": 17652,
+    "region_id": 8,
+    "name_ar": "القوينية",
+    "name_en": "Al Quwainiyah",
+    "center": [
+      26.05988333,
+      40.85325
+    ]
+  },
+  {
     "city_id": 17662,
     "region_id": 8,
     "name_ar": "الدحوه",
@@ -38087,6 +38367,16 @@
     "center": [
       26.49798333,
       40.23626667
+    ]
+  },
+  {
+    "city_id": 17667,
+    "region_id": 8,
+    "name_ar": "الشعيلاء",
+    "name_en": "Al Shuayla",
+    "center": [
+      26.40113333,
+      40.72118333
     ]
   },
   {
@@ -38117,6 +38407,16 @@
     "center": [
       25.89281667,
       40.8562
+    ]
+  },
+  {
+    "city_id": 17728,
+    "region_id": 8,
+    "name_ar": "الملوي",
+    "name_en": "Al Malvi",
+    "center": [
+      25.35030482,
+      40.37773546
     ]
   },
   {
@@ -38220,6 +38520,16 @@
     ]
   },
   {
+    "city_id": 17782,
+    "region_id": 8,
+    "name_ar": "عيال عبيد",
+    "name_en": "Eyal Obeid",
+    "center": [
+      25.94508333,
+      40.79071667
+    ]
+  },
+  {
     "city_id": 17791,
     "region_id": 8,
     "name_ar": "المغار",
@@ -38247,6 +38557,16 @@
     "center": [
       26.30363333,
       40.87411667
+    ]
+  },
+  {
+    "city_id": 17849,
+    "region_id": 8,
+    "name_ar": "الدفينة",
+    "name_en": "Al Dufaynah",
+    "center": [
+      26.35083333,
+      40.82181667
     ]
   },
   {
@@ -39290,6 +39610,16 @@
     ]
   },
   {
+    "city_id": 18289,
+    "region_id": 10,
+    "name_ar": "خضيرة عياش",
+    "name_en": "Khudayrat Ayash",
+    "center": [
+      16.90916667,
+      42.92283333
+    ]
+  },
+  {
     "city_id": 18436,
     "region_id": 10,
     "name_ar": "الواسط",
@@ -39297,6 +39627,16 @@
     "center": [
       16.54351667,
       42.85856667
+    ]
+  },
+  {
+    "city_id": 19913,
+    "region_id": 10,
+    "name_ar": "عذيبه",
+    "name_en": "Udhaibah",
+    "center": [
+      16.8393,
+      42.83841667
     ]
   },
   {
@@ -39327,6 +39667,26 @@
     "center": [
       16.81521667,
       42.81475
+    ]
+  },
+  {
+    "city_id": 19963,
+    "region_id": 10,
+    "name_ar": "المحازره",
+    "name_en": "Al Mahazirah",
+    "center": [
+      16.84223333,
+      42.84261667
+    ]
+  },
+  {
+    "city_id": 19966,
+    "region_id": 10,
+    "name_ar": "العقدة",
+    "name_en": "Al Uqdah",
+    "center": [
+      16.81115,
+      42.73536667
     ]
   },
   {
@@ -39387,6 +39747,56 @@
     "center": [
       20.36519096,
       41.27738294
+    ]
+  },
+  {
+    "city_id": 22816,
+    "region_id": 12,
+    "name_ar": "الحبشه",
+    "name_en": "Al Habashah",
+    "center": [
+      20.28016667,
+      41.32663333
+    ]
+  },
+  {
+    "city_id": 22909,
+    "region_id": 12,
+    "name_ar": "الفقهاء",
+    "name_en": "Al Fuqaha",
+    "center": [
+      20.1281,
+      41.3454
+    ]
+  },
+  {
+    "city_id": 22916,
+    "region_id": 12,
+    "name_ar": "الغرباء والاثمة",
+    "name_en": "Al Gharaba Wal Athimmah",
+    "center": [
+      20.12841667,
+      41.35186667
+    ]
+  },
+  {
+    "city_id": 22920,
+    "region_id": 12,
+    "name_ar": "الصدر",
+    "name_en": "Al Sadr",
+    "center": [
+      20.11776667,
+      41.35101667
+    ]
+  },
+  {
+    "city_id": 22921,
+    "region_id": 12,
+    "name_ar": "الشريق",
+    "name_en": "Al Shareeq",
+    "center": [
+      20.12401667,
+      41.34871667
     ]
   },
   {
