@@ -9,6 +9,7 @@ Saudi Arabia Regions, Cities and Districts.
   - Regions capital city, population & center point.
   - Regions boundaries.
   - Districts boundaries.
+* Lite version includes all data points except GIS data (center point & boundaries).
 
 
 ## Contributing
