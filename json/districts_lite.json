@@ -347,7 +347,7 @@
     "city_id": 3,
     "region_id": 1,
     "name_ar": "حي الصالحية",
-    "name_en": "Al Salhiyah Dist."
+    "name_en": "As Salhiyah Dist."
   },
   {
     "district_id": 10100003051,
@@ -3245,7 +3245,7 @@
     "city_id": 1351,
     "region_id": 1,
     "name_ar": "حي الصالحية",
-    "name_en": "Al Salihiyyah Dist."
+    "name_en": "As Salhiyah Dist."
   },
   {
     "district_id": 10101351026,
@@ -8897,6 +8897,13 @@
     "name_en": "Al Hazm Dist."
   },
   {
+    "district_id": 10401986004,
+    "city_id": 1986,
+    "region_id": 4,
+    "name_ar": "حي الفهيد",
+    "name_en": "Al Fuhaid Dist."
+  },
+  {
     "district_id": 10401999001,
     "city_id": 1999,
     "region_id": 4,
@@ -14287,6 +14294,13 @@
     "name_en": "Al Harir Dist."
   },
   {
+    "district_id": 10600062046,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي الجامعيين",
+    "name_en": "Al Jamiyin Dist."
+  },
+  {
     "district_id": 10600065001,
     "city_id": 65,
     "region_id": 6,
@@ -15543,8 +15557,8 @@
     "district_id": 10700001021,
     "city_id": 1,
     "region_id": 7,
-    "name_ar": "حي المروج",
-    "name_en": "Al Muruj Dist."
+    "name_ar": "حي المروج الثاني",
+    "name_en": "Al Muruj 2 Dist."
   },
   {
     "district_id": 10700001022,
@@ -15769,6 +15783,83 @@
     "region_id": 7,
     "name_ar": "حي الياسمين",
     "name_en": "Al Yasmin Dist."
+  },
+  {
+    "district_id": 10700001054,
+    "city_id": 1,
+    "region_id": 7,
+    "name_ar": "حي السليمانية",
+    "name_en": "Al Sulimaniyah Dist."
+  },
+  {
+    "district_id": 10700001055,
+    "city_id": 1,
+    "region_id": 7,
+    "name_ar": "حي الاشرافية",
+    "name_en": "Al Ishrafiyah Dist."
+  },
+  {
+    "district_id": 10700001056,
+    "city_id": 1,
+    "region_id": 7,
+    "name_ar": "حي السلام",
+    "name_en": "Al Salam Dist."
+  },
+  {
+    "district_id": 10700001057,
+    "city_id": 1,
+    "region_id": 7,
+    "name_ar": "حي قرطبة",
+    "name_en": "Qurtubah Dist."
+  },
+  {
+    "district_id": 10700001058,
+    "city_id": 1,
+    "region_id": 7,
+    "name_ar": "حي المروج الثالث",
+    "name_en": "Al Muruj 3 Dist."
+  },
+  {
+    "district_id": 10700001059,
+    "city_id": 1,
+    "region_id": 7,
+    "name_ar": "حي المروج الاول",
+    "name_en": "Al Muruj 1 Dist."
+  },
+  {
+    "district_id": 10700001060,
+    "city_id": 1,
+    "region_id": 7,
+    "name_ar": "حي الربوة",
+    "name_en": "Al Rabwah  Dist."
+  },
+  {
+    "district_id": 10700001061,
+    "city_id": 1,
+    "region_id": 7,
+    "name_ar": "حي المهرجان أ",
+    "name_en": "Al Mahrajan A Dist."
+  },
+  {
+    "district_id": 10700001062,
+    "city_id": 1,
+    "region_id": 7,
+    "name_ar": "حي المهرجان ب",
+    "name_en": "Al Mahrajan B Dist."
+  },
+  {
+    "district_id": 10700001063,
+    "city_id": 1,
+    "region_id": 7,
+    "name_ar": "حي الصالحية",
+    "name_en": "As Salhiyah Dist."
+  },
+  {
+    "district_id": 10700001064,
+    "city_id": 1,
+    "region_id": 7,
+    "name_ar": "حي العزيزية القديمة",
+    "name_en": "Al Aziziyah Al Qadimah Dist."
   },
   {
     "district_id": 10700036001,
@@ -18330,7 +18421,7 @@
     "city_id": 2522,
     "region_id": 11,
     "name_ar": "حي الصالحية",
-    "name_en": "As Salihiyyah Dist."
+    "name_en": "As Salihiyah Dist."
   },
   {
     "district_id": 11102522002,
@@ -19016,7 +19107,7 @@
     "city_id": 1542,
     "region_id": 12,
     "name_ar": "حي المرتفعات",
-    "name_en": "Al Muratafaah Dist."
+    "name_en": "Al Murtafat Dist."
   },
   {
     "district_id": 11201542013,
@@ -19919,7 +20010,7 @@
     "city_id": 2240,
     "region_id": 13,
     "name_ar": "حي الصالحية",
-    "name_en": "Al Salhiyah Dist."
+    "name_en": "As Salhiyah Dist."
   },
   {
     "district_id": 11302240024,
