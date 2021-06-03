@@ -4,8 +4,8 @@ import os
 from geojson_rewind import rewind
 
 SOURCE_JSON_FILES = [
-    "json/cities.json", "json/districts.json", "json/regions.json"]
-OUTPUT_GEOJSON_DIR = "geojson/"
+    "../json/cities.json", "../json/districts.json", "../json/regions.json"]
+OUTPUT_GEOJSON_DIR = "../geojson/"
 
 
 def convert_cities_to_geojson_feature_collection(cities):
