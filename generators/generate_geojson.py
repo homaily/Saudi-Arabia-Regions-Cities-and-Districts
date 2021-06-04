@@ -21,10 +21,10 @@ def convert_cities_to_geojson_feature_collection(cities):
 # Convert from (latitude, longitude) to (longitude, latitude) format
 # Supports any level of nesting
 def __flip_coordinates__(coords_array):
-    for i in range(len(coords_array)):
-        for j in range(len(coords_array[i])):
-            coords_array[i][j] = [coords_array[i][j][1], coords_array[i][j][0]]
-    return coords_array
+    if len(coords_array) == 2 and \
+            (isinstance(coords_array[0], float) or isinstance(coords_array[0], int)):
+        return [coords_array[1], coords_array[0]]
+    return [__flip_coordinates__(nested_arr) for nested_arr in coords_array]
 
 
 def convert_districts_to_geojson_feature_collection(districts):
