@@ -92,6 +92,10 @@ def convert_embedded_regions_to_geojson_feature_collection(embedded_regions_json
 
 
 for source_json_file in SOURCE_JSON_FILES:
+    if not os.path.exists(source_json_file):
+        print(f"{source_json_file} does not exist. Skipping ...")
+        continue
+    print(f"Converting {source_json_file} to geojson...")
     with open(source_json_file) as json_f:
         json_obj = json.load(json_f)
         file_name = os.path.basename(source_json_file)
