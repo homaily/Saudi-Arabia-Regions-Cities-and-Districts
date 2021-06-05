@@ -22,8 +22,8 @@ def find_cities_and_capital_city_for_region(p_region_source, cities_source):
             if city["city_id"] == capital_city_id:
                 capital_city = __remove_id_fields(city)
             cities_under_region.append(__remove_id_fields(city))
-
-    assert len(cities_under_region) > 0 and capital_city
+    assert len(cities_under_region) > 0
+    assert capital_city
     return cities_under_region, capital_city
 
 
