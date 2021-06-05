@@ -4,7 +4,8 @@ import os
 from geojson_rewind import rewind
 
 SOURCE_JSON_FILES = [
-    "../json/cities.json", "../json/districts.json", "../json/regions.json"]
+    "../json/cities.json", "../json/districts.json", "../json/regions.json", "../json/embedded_regions.json"
+]
 OUTPUT_GEOJSON_DIR = "../geojson/"
 
 
@@ -51,43 +52,23 @@ def convert_regions_to_geojson_feature_collection(regions):
 
 
 def convert_embedded_regions_to_geojson_feature_collection(embedded_regions_json):
-    # - Feature Collection:
-    #   - Properties of region
-    #   - Geometry collection of
-    #       - Region Polygon
-    #       - Feature Collection of cities
-    #           - Properties of cities
-    #           - Geometry collection of
-    #               - Capital city point
-    #               - Feature collection of districts
-    #                   - Properties of districts
-    #                   - District polygon
     geojson_features = []
     for region in embedded_regions_json:
-        region_center_point = geojson.Point((region["center"][1], region["center"][0]))
-        region_properties = {k: v for k, v in region.items() if k in ["code", "name_ar", "name_en", "population"]}
-        region_properties["center"] = __flip_coordinates__(region["center"])
-        top_geometry_collection = [region_center_point,
-                                   rewind(geojson.Polygon(__flip_coordinates__(region["boundaries"])))]
-
-        cities_features = []
+        top_geometry_collection = [
+            rewind(geojson.Polygon(__flip_coordinates__(region["boundaries"])))
+        ]
+        region_cities_cords = []
+        cities_districts = []
         for city in region["cities"]:
-            city_properties = {k: v for k, v in city.items() if k in ["name_ar", "name_en"]}
-            city_properties["center"] = __flip_coordinates__(city["center"])
-            center_point = geojson.Point((city_properties["center"][0], city_properties["center"][1]))
-            districts_features = []
-            for district in city["districts"]:
-                district_properties = {k: v for k, v in district.items() if k in ["name_ar", "name_en"]}
-                district_polygon = rewind(geojson.Polygon(__flip_coordinates__(district["boundaries"])))
-                districts_features.append(geojson.Feature(properties=district_properties, geometry=district_polygon))
-            districts_feature_collection = geojson.FeatureCollection(districts_features)
-            city_geometry_collection = geojson.GeometryCollection([center_point, districts_feature_collection])
-            cities_features.append(
-                geojson.Feature(properties=city_properties, geometry=city_geometry_collection))
-        top_geometry_collection.append(geojson.FeatureCollection(cities_features))
+            cords_flipped = __flip_coordinates__(city["center"])
+            region_cities_cords.append((cords_flipped[0], cords_flipped[1]))
+            cities_districts += [__flip_coordinates__(district["boundaries"]) for district in city["districts"]]
 
-        geojson_features.append(
-            geojson.Feature(properties=region_properties, geometry=geojson.GeometryCollection(top_geometry_collection)))
+        top_geometry_collection.append(geojson.MultiPoint(region_cities_cords))
+        top_geometry_collection.append(rewind(geojson.MultiPolygon(cities_districts)))
+        geojson_features.append(geojson.Feature(geometry=geojson.GeometryCollection(top_geometry_collection)))
+        # break
+
     return geojson.FeatureCollection(geojson_features)
 
 
