@@ -2,7 +2,7 @@
 Saudi Arabia Regions, Cities and Districts.
 
 * The data is public data collected from https://maps.address.gov.sa/
-* All coordinates in (Lat, Lon) aka (Y, X) format and 8 decimal points, except for mysql files
+* All coordinates in (Lat, Lon) aka (Y, X) format and 8 decimal points, except for mysql and geojson files
 * Geojson and Mysql files coordinates are reversed (Lon, Lat) aka (X, Y) due to the way MySQL and geojson parsers expect it
 * Data points include:
   - Regions, Cities and Districts.
