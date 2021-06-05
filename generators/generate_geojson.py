@@ -8,6 +8,15 @@ SOURCE_JSON_FILES = [
 OUTPUT_GEOJSON_DIR = "../geojson/"
 
 
+# Convert from (latitude, longitude) to (longitude, latitude) format
+# Supports any level of nesting
+def __flip_coordinates__(coords_array):
+    if len(coords_array) == 2 and \
+            (isinstance(coords_array[0], float) or isinstance(coords_array[0], int)):
+        return [coords_array[1], coords_array[0]]
+    return [__flip_coordinates__(nested_arr) for nested_arr in coords_array]
+
+
 def convert_cities_to_geojson_feature_collection(cities):
     geojson_features = []
     for city in cities:
@@ -16,15 +25,6 @@ def convert_cities_to_geojson_feature_collection(cities):
         feature = geojson.Feature(geometry=center_point, properties=city)
         geojson_features.append(feature)
     return geojson.FeatureCollection(geojson_features)
-
-
-# Convert from (latitude, longitude) to (longitude, latitude) format
-# Supports any level of nesting
-def __flip_coordinates__(coords_array):
-    if len(coords_array) == 2 and \
-            (isinstance(coords_array[0], float) or isinstance(coords_array[0], int)):
-        return [coords_array[1], coords_array[0]]
-    return [__flip_coordinates__(nested_arr) for nested_arr in coords_array]
 
 
 def convert_districts_to_geojson_feature_collection(districts):
