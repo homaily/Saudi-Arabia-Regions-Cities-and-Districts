@@ -88,7 +88,7 @@
     "city_id": 3,
     "region_id": 1,
     "name_ar": "حي الرحمانية",
-    "name_en": "Al Rahmaniyah Dist."
+    "name_en": "Ar Rahmaniyah Dist."
   },
   {
     "district_id": 10100003014,
@@ -102,7 +102,7 @@
     "city_id": 3,
     "region_id": 1,
     "name_ar": "حي الرفيعة",
-    "name_en": "Al Rafeah Dist."
+    "name_en": "Ar Rafiah Dist."
   },
   {
     "district_id": 10100003016,
@@ -193,7 +193,7 @@
     "city_id": 3,
     "region_id": 1,
     "name_ar": "المدينة الصناعية الثانية",
-    "name_en": "2Nd Industrial City"
+    "name_en": "2nd Industrial City"
   },
   {
     "district_id": 10100003029,
@@ -326,7 +326,7 @@
     "city_id": 3,
     "region_id": 1,
     "name_ar": "حي الربوة",
-    "name_en": "Al Rabwah Dist."
+    "name_en": "Ar Rabwah Dist."
   },
   {
     "district_id": 10100003048,
@@ -494,7 +494,7 @@
     "city_id": 3,
     "region_id": 1,
     "name_ar": "حي البديعة",
-    "name_en": "Al Badeah Dist."
+    "name_en": "Al Badiah Dist."
   },
   {
     "district_id": 10100003072,
@@ -725,7 +725,7 @@
     "city_id": 3,
     "region_id": 1,
     "name_ar": "حي الربيع",
-    "name_en": "Al Rabie Dist."
+    "name_en": "Ar Rabie Dist."
   },
   {
     "district_id": 10100003105,
@@ -998,7 +998,7 @@
     "city_id": 3,
     "region_id": 1,
     "name_ar": "حي حطين",
-    "name_en": "Hitteen Dist."
+    "name_en": "Hiteen Dist."
   },
   {
     "district_id": 10100003145,
@@ -1162,6 +1162,13 @@
     "name_en": "Al Nadwah Dist."
   },
   {
+    "district_id": 10100003171,
+    "city_id": 3,
+    "region_id": 1,
+    "name_ar": "حي الرابية",
+    "name_en": "Al Rabiyah Dist."
+  },
+  {
     "district_id": 10100003172,
     "city_id": 3,
     "region_id": 1,
@@ -1180,7 +1187,7 @@
     "city_id": 3,
     "region_id": 1,
     "name_ar": "حي التضامن",
-    "name_en": "Al Tadamon Dist."
+    "name_en": "Al Tadamun Dist."
   },
   {
     "district_id": 10100003176,
@@ -1190,11 +1197,18 @@
     "name_en": "King Abdullah City For Energy"
   },
   {
+    "district_id": 10100003177,
+    "city_id": 3,
+    "region_id": 1,
+    "name_ar": "حي البساتين",
+    "name_en": "Al Basatin Dist."
+  },
+  {
     "district_id": 10100003178,
     "city_id": 3,
     "region_id": 1,
     "name_ar": "حي الرحاب",
-    "name_en": "Al Rihab Dist."
+    "name_en": "Al Rehab Dist."
   },
   {
     "district_id": 10100003179,
@@ -1421,6 +1435,223 @@
     "name_en": "Ar Rafiah Dist."
   },
   {
+    "district_id": 10100162001,
+    "city_id": 162,
+    "region_id": 1,
+    "name_ar": "حي البلد القديمة",
+    "name_en": "Al Balad Al Qadimah Dist."
+  },
+  {
+    "district_id": 10100162002,
+    "city_id": 162,
+    "region_id": 1,
+    "name_ar": "حي الملك فهد",
+    "name_en": "King Fahd Dist."
+  },
+  {
+    "district_id": 10100162003,
+    "city_id": 162,
+    "region_id": 1,
+    "name_ar": "حي السمرية",
+    "name_en": "Al Samriyah Dist."
+  },
+  {
+    "district_id": 10100162004,
+    "city_id": 162,
+    "region_id": 1,
+    "name_ar": "حي القري",
+    "name_en": "Al Qari Dist."
+  },
+  {
+    "district_id": 10100162005,
+    "city_id": 162,
+    "region_id": 1,
+    "name_ar": "حي الصناعية",
+    "name_en": "Industrial Dist."
+  },
+  {
+    "district_id": 10100162006,
+    "city_id": 162,
+    "region_id": 1,
+    "name_ar": "حي الملك فيصل",
+    "name_en": "King Faisal Dist."
+  },
+  {
+    "district_id": 10100162007,
+    "city_id": 162,
+    "region_id": 1,
+    "name_ar": "حي المرقب",
+    "name_en": "Al Marqab Dist."
+  },
+  {
+    "district_id": 10100162008,
+    "city_id": 162,
+    "region_id": 1,
+    "name_ar": "حي شراف",
+    "name_en": "Shiraf Dist."
+  },
+  {
+    "district_id": 10100162009,
+    "city_id": 162,
+    "region_id": 1,
+    "name_ar": "حي النموذجية",
+    "name_en": "An Namudhajiyah Dist."
+  },
+  {
+    "district_id": 10100162010,
+    "city_id": 162,
+    "region_id": 1,
+    "name_ar": "حي الجزر",
+    "name_en": "Al Jazur Dist."
+  },
+  {
+    "district_id": 10100162011,
+    "city_id": 162,
+    "region_id": 1,
+    "name_ar": "حي الصناعية الجديدة",
+    "name_en": "New Industrial Dist."
+  },
+  {
+    "district_id": 10100162012,
+    "city_id": 162,
+    "region_id": 1,
+    "name_ar": "حي الشعيبة",
+    "name_en": "Al Shuaibah Dist."
+  },
+  {
+    "district_id": 10100162013,
+    "city_id": 162,
+    "region_id": 1,
+    "name_ar": "حي الوسطة",
+    "name_en": "Al Wusta Dist."
+  },
+  {
+    "district_id": 10100162014,
+    "city_id": 162,
+    "region_id": 1,
+    "name_ar": "حي الشمالية",
+    "name_en": "Al Shamalia Dist."
+  },
+  {
+    "district_id": 10100165001,
+    "city_id": 165,
+    "region_id": 1,
+    "name_ar": "حي الياسمين",
+    "name_en": "Al Yasmin Dist."
+  },
+  {
+    "district_id": 10100165002,
+    "city_id": 165,
+    "region_id": 1,
+    "name_ar": "حي الشبيلية",
+    "name_en": "Ash Shibilyah Dist."
+  },
+  {
+    "district_id": 10100165003,
+    "city_id": 165,
+    "region_id": 1,
+    "name_ar": "حي العزيزية",
+    "name_en": "Al Aziziyah Dist."
+  },
+  {
+    "district_id": 10100165004,
+    "city_id": 165,
+    "region_id": 1,
+    "name_ar": "حي الربعة",
+    "name_en": "Ar Rabah Dist."
+  },
+  {
+    "district_id": 10100165005,
+    "city_id": 165,
+    "region_id": 1,
+    "name_ar": "حي الدوائر الحكومية",
+    "name_en": "Goverment Departments Dist."
+  },
+  {
+    "district_id": 10100165006,
+    "city_id": 165,
+    "region_id": 1,
+    "name_ar": "حي القادسية",
+    "name_en": "Al Qadisiyah Dist."
+  },
+  {
+    "district_id": 10100165007,
+    "city_id": 165,
+    "region_id": 1,
+    "name_ar": "حي بدر",
+    "name_en": "Badr Dist."
+  },
+  {
+    "district_id": 10100165008,
+    "city_id": 165,
+    "region_id": 1,
+    "name_ar": "حي الشفا",
+    "name_en": "Ash Shifa Dist."
+  },
+  {
+    "district_id": 10100165009,
+    "city_id": 165,
+    "region_id": 1,
+    "name_ar": "حي النزهة",
+    "name_en": "An Nuzhah Dist."
+  },
+  {
+    "district_id": 10100165010,
+    "city_id": 165,
+    "region_id": 1,
+    "name_ar": "حي المصيف",
+    "name_en": "Al Masif Dist."
+  },
+  {
+    "district_id": 10100165011,
+    "city_id": 165,
+    "region_id": 1,
+    "name_ar": "حي الحلة الطالعية",
+    "name_en": "Al Halah At Taliyah Dist."
+  },
+  {
+    "district_id": 10100165012,
+    "city_id": 165,
+    "region_id": 1,
+    "name_ar": "حي الفتح",
+    "name_en": "Al Fath Dist."
+  },
+  {
+    "district_id": 10100165013,
+    "city_id": 165,
+    "region_id": 1,
+    "name_ar": "حي النخيل",
+    "name_en": "Al Nakhil Dist."
+  },
+  {
+    "district_id": 10100165014,
+    "city_id": 165,
+    "region_id": 1,
+    "name_ar": "حي المروج",
+    "name_en": "Al Muruj Dist."
+  },
+  {
+    "district_id": 10100165015,
+    "city_id": 165,
+    "region_id": 1,
+    "name_ar": "حي اليرموك",
+    "name_en": "Al Yarmuk Dist."
+  },
+  {
+    "district_id": 10100165016,
+    "city_id": 165,
+    "region_id": 1,
+    "name_ar": "حي النهضة",
+    "name_en": "An Nahdah Dist."
+  },
+  {
+    "district_id": 10100165017,
+    "city_id": 165,
+    "region_id": 1,
+    "name_ar": "حي الزهور",
+    "name_en": "Az Zuhur Dist."
+  },
+  {
     "district_id": 10100167001,
     "city_id": 167,
     "region_id": 1,
@@ -1505,11 +1736,109 @@
     "name_en": "Ar Rawdah Dist."
   },
   {
+    "district_id": 10100167014,
+    "city_id": 167,
+    "region_id": 1,
+    "name_ar": "حي اليرموك",
+    "name_en": "Al Yarmuk Dist."
+  },
+  {
+    "district_id": 10100167015,
+    "city_id": 167,
+    "region_id": 1,
+    "name_ar": "حي الملك عبدالعزيز",
+    "name_en": "King Abdulaziz Dist."
+  },
+  {
     "district_id": 10100167016,
     "city_id": 167,
     "region_id": 1,
     "name_ar": "حي صناعية تمير",
     "name_en": "Tumair Industrial Dist."
+  },
+  {
+    "district_id": 10100168001,
+    "city_id": 168,
+    "region_id": 1,
+    "name_ar": "حي سلطانة",
+    "name_en": "Sultanah Dist."
+  },
+  {
+    "district_id": 10100168002,
+    "city_id": 168,
+    "region_id": 1,
+    "name_ar": "حي الفيحاء",
+    "name_en": "Al Fayha Dist."
+  },
+  {
+    "district_id": 10100168003,
+    "city_id": 168,
+    "region_id": 1,
+    "name_ar": "حي الروضه",
+    "name_en": "Ar Rawdah Dist."
+  },
+  {
+    "district_id": 10100168004,
+    "city_id": 168,
+    "region_id": 1,
+    "name_ar": "حي السعاده",
+    "name_en": "Al Saadah Dist."
+  },
+  {
+    "district_id": 10100168005,
+    "city_id": 168,
+    "region_id": 1,
+    "name_ar": "حي النهضه",
+    "name_en": "Al Nahdah Dist."
+  },
+  {
+    "district_id": 10100168006,
+    "city_id": 168,
+    "region_id": 1,
+    "name_ar": "حي الورود",
+    "name_en": "Al Wurud Dist."
+  },
+  {
+    "district_id": 10100168007,
+    "city_id": 168,
+    "region_id": 1,
+    "name_ar": "حي الأندلس",
+    "name_en": "Al Andalus Dist."
+  },
+  {
+    "district_id": 10100168008,
+    "city_id": 168,
+    "region_id": 1,
+    "name_ar": "حي الفيصلية",
+    "name_en": "Al Faisaliyah Dist."
+  },
+  {
+    "district_id": 10100168009,
+    "city_id": 168,
+    "region_id": 1,
+    "name_ar": "حي المصيف",
+    "name_en": "Al Masif Dist."
+  },
+  {
+    "district_id": 10100168010,
+    "city_id": 168,
+    "region_id": 1,
+    "name_ar": "حي الخليج",
+    "name_en": "Al Khalij Dist."
+  },
+  {
+    "district_id": 10100168011,
+    "city_id": 168,
+    "region_id": 1,
+    "name_ar": "حي النخيل",
+    "name_en": "Al Nakhil Dist."
+  },
+  {
+    "district_id": 10100168012,
+    "city_id": 168,
+    "region_id": 1,
+    "name_ar": "حي الغدير",
+    "name_en": "Al Ghadir Dist."
   },
   {
     "district_id": 10100270001,
@@ -1565,7 +1894,7 @@
     "city_id": 270,
     "region_id": 1,
     "name_ar": "حي الربوة",
-    "name_en": "Al Rabwah Dist."
+    "name_en": "Ar Rabwah Dist."
   },
   {
     "district_id": 10100270009,
@@ -1638,13 +1967,6 @@
     "name_en": "Al Yarmok Dist."
   },
   {
-    "district_id": 10100270019,
-    "city_id": 270,
-    "region_id": 1,
-    "name_ar": "حي الفالح",
-    "name_en": "Al Falih Dist."
-  },
-  {
     "district_id": 10100270020,
     "city_id": 270,
     "region_id": 1,
@@ -1706,6 +2028,160 @@
     "region_id": 1,
     "name_ar": "حي عريعرة",
     "name_en": "Urierah Dist."
+  },
+  {
+    "district_id": 10100270029,
+    "city_id": 270,
+    "region_id": 1,
+    "name_ar": "حي الورود",
+    "name_en": "Al Wurud Dist."
+  },
+  {
+    "district_id": 10100270030,
+    "city_id": 270,
+    "region_id": 1,
+    "name_ar": "حي الملك عبدالله",
+    "name_en": "King Abdullah Dist."
+  },
+  {
+    "district_id": 10100270031,
+    "city_id": 270,
+    "region_id": 1,
+    "name_ar": "حي الواحة",
+    "name_en": "Al Wahah Dist."
+  },
+  {
+    "district_id": 10100270032,
+    "city_id": 270,
+    "region_id": 1,
+    "name_ar": "حي الازدهار",
+    "name_en": "Al Izdihar Dist."
+  },
+  {
+    "district_id": 10100270033,
+    "city_id": 270,
+    "region_id": 1,
+    "name_ar": "حي الحمراء",
+    "name_en": "Al Hamra Dist."
+  },
+  {
+    "district_id": 10100270034,
+    "city_id": 270,
+    "region_id": 1,
+    "name_ar": "حي اشبيليا",
+    "name_en": "Ishbiliya Dist."
+  },
+  {
+    "district_id": 10100270035,
+    "city_id": 270,
+    "region_id": 1,
+    "name_ar": "حي غرناطة",
+    "name_en": "Ghirnatah Dist."
+  },
+  {
+    "district_id": 10100270036,
+    "city_id": 270,
+    "region_id": 1,
+    "name_ar": "حي الياسمين",
+    "name_en": "Al Yasmin Dist."
+  },
+  {
+    "district_id": 10100270037,
+    "city_id": 270,
+    "region_id": 1,
+    "name_ar": "حي الربيع",
+    "name_en": "Ar Rabie Dist."
+  },
+  {
+    "district_id": 10100270038,
+    "city_id": 270,
+    "region_id": 1,
+    "name_ar": "حي السعادة",
+    "name_en": "As Saadah Dist."
+  },
+  {
+    "district_id": 10100270039,
+    "city_id": 270,
+    "region_id": 1,
+    "name_ar": "حي النور",
+    "name_en": "An Nur Dist."
+  },
+  {
+    "district_id": 10100270040,
+    "city_id": 270,
+    "region_id": 1,
+    "name_ar": "حي الخزامى",
+    "name_en": "Al Khuzama Dist."
+  },
+  {
+    "district_id": 10100270041,
+    "city_id": 270,
+    "region_id": 1,
+    "name_ar": "حي النفل",
+    "name_en": "An Naql Dist."
+  },
+  {
+    "district_id": 10100270042,
+    "city_id": 270,
+    "region_id": 1,
+    "name_ar": "حي الخليج",
+    "name_en": "Al Khalij Dist."
+  },
+  {
+    "district_id": 10100270043,
+    "city_id": 270,
+    "region_id": 1,
+    "name_ar": "حي الفردوس",
+    "name_en": "Al Fardus Dist."
+  },
+  {
+    "district_id": 10100270044,
+    "city_id": 270,
+    "region_id": 1,
+    "name_ar": "حي المنار",
+    "name_en": "Al Manar Dist."
+  },
+  {
+    "district_id": 10100270045,
+    "city_id": 270,
+    "region_id": 1,
+    "name_ar": "حي القادسية",
+    "name_en": "Al Qadisiyah Dist."
+  },
+  {
+    "district_id": 10100270046,
+    "city_id": 270,
+    "region_id": 1,
+    "name_ar": "حي الندى",
+    "name_en": "An Nada Dist."
+  },
+  {
+    "district_id": 10100270047,
+    "city_id": 270,
+    "region_id": 1,
+    "name_ar": "حي الفروسية",
+    "name_en": "Al Frosyah Dist."
+  },
+  {
+    "district_id": 10100270048,
+    "city_id": 270,
+    "region_id": 1,
+    "name_ar": "حي السيح",
+    "name_en": "As Sieh Dist."
+  },
+  {
+    "district_id": 10100270049,
+    "city_id": 270,
+    "region_id": 1,
+    "name_ar": "الجوى",
+    "name_en": "Al Jawa"
+  },
+  {
+    "district_id": 10100270050,
+    "city_id": 270,
+    "region_id": 1,
+    "name_ar": "حي الملك سلمان",
+    "name_en": "King Salman Dist."
   },
   {
     "district_id": 10100306001,
@@ -1831,7 +2307,7 @@
     "city_id": 418,
     "region_id": 1,
     "name_ar": "حي الملك فهد",
-    "name_en": "King Fahd  Dist."
+    "name_en": "King Fahd Dist."
   },
   {
     "district_id": 10100418005,
@@ -1999,7 +2475,7 @@
     "city_id": 500,
     "region_id": 1,
     "name_ar": "حي الملك فهد",
-    "name_en": "King Fahd  Dist."
+    "name_en": "King Fahd Dist."
   },
   {
     "district_id": 10100500006,
@@ -2027,7 +2503,77 @@
     "city_id": 500,
     "region_id": 1,
     "name_ar": "حي الرحبة",
-    "name_en": "Ar Rahbah Dist."
+    "name_en": "Al Rehab Dist."
+  },
+  {
+    "district_id": 10100574001,
+    "city_id": 574,
+    "region_id": 1,
+    "name_ar": "حي الخالدية",
+    "name_en": "Al Khalidiyah Dist."
+  },
+  {
+    "district_id": 10100574002,
+    "city_id": 574,
+    "region_id": 1,
+    "name_ar": "حي العزيزية",
+    "name_en": "Al Aziziyah Dist."
+  },
+  {
+    "district_id": 10100574003,
+    "city_id": 574,
+    "region_id": 1,
+    "name_ar": "حي الياسمين",
+    "name_en": "Al Yasmin Dist."
+  },
+  {
+    "district_id": 10100574004,
+    "city_id": 574,
+    "region_id": 1,
+    "name_ar": "حي النزهة",
+    "name_en": "An Nuzhah Dist."
+  },
+  {
+    "district_id": 10100574005,
+    "city_id": 574,
+    "region_id": 1,
+    "name_ar": "حي الصناعية",
+    "name_en": "As Sinaiyah Dist."
+  },
+  {
+    "district_id": 10100574006,
+    "city_id": 574,
+    "region_id": 1,
+    "name_ar": "حي الديرة",
+    "name_en": "Ad Dirah Dist."
+  },
+  {
+    "district_id": 10100574007,
+    "city_id": 574,
+    "region_id": 1,
+    "name_ar": "حي الفيصلية",
+    "name_en": "Al Faisaliyah Dist."
+  },
+  {
+    "district_id": 10100574008,
+    "city_id": 574,
+    "region_id": 1,
+    "name_ar": "حي الشرفية",
+    "name_en": "Ash Sharafiyah Dist."
+  },
+  {
+    "district_id": 10100574009,
+    "city_id": 574,
+    "region_id": 1,
+    "name_ar": "حي النهضة",
+    "name_en": "An Nahdah Dist."
+  },
+  {
+    "district_id": 10100574010,
+    "city_id": 574,
+    "region_id": 1,
+    "name_ar": "حي الشفا",
+    "name_en": "Ash Shifa Dist."
   },
   {
     "district_id": 10100669001,
@@ -2184,6 +2730,258 @@
     "name_en": "Musaddah Dist."
   },
   {
+    "district_id": 10100684001,
+    "city_id": 684,
+    "region_id": 1,
+    "name_ar": "حي الشمالي",
+    "name_en": "Al Shamali Dist."
+  },
+  {
+    "district_id": 10100684002,
+    "city_id": 684,
+    "region_id": 1,
+    "name_ar": "حى الخزان",
+    "name_en": "Al Khazzan Dist."
+  },
+  {
+    "district_id": 10100684003,
+    "city_id": 684,
+    "region_id": 1,
+    "name_ar": "حي السعادة",
+    "name_en": "As Saadah Dist."
+  },
+  {
+    "district_id": 10100684004,
+    "city_id": 684,
+    "region_id": 1,
+    "name_ar": "حي الشفاء",
+    "name_en": "Ash Shifa Dist."
+  },
+  {
+    "district_id": 10100684005,
+    "city_id": 684,
+    "region_id": 1,
+    "name_ar": "حي النهضة",
+    "name_en": "An Nahdah Dist."
+  },
+  {
+    "district_id": 10100684006,
+    "city_id": 684,
+    "region_id": 1,
+    "name_ar": "حي العزيزية",
+    "name_en": "Al Aziziyah Dist."
+  },
+  {
+    "district_id": 10100684007,
+    "city_id": 684,
+    "region_id": 1,
+    "name_ar": "حي الفيحاء",
+    "name_en": "Al Fayha Dist."
+  },
+  {
+    "district_id": 10100684008,
+    "city_id": 684,
+    "region_id": 1,
+    "name_ar": "حي الشهداء",
+    "name_en": "Ash Shuhada Dist."
+  },
+  {
+    "district_id": 10100701001,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي الصناعية",
+    "name_en": "Al Sinaiyah Dist."
+  },
+  {
+    "district_id": 10100701002,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي فيضة الفوازين",
+    "name_en": "Faydat Al Fawazin Dist."
+  },
+  {
+    "district_id": 10100701003,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي التسعين",
+    "name_en": "Al Teseen Dist."
+  },
+  {
+    "district_id": 10100701004,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي الذيابية",
+    "name_en": "Al Diyabiyah Dist."
+  },
+  {
+    "district_id": 10100701005,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي برزان",
+    "name_en": "Barzan Dist."
+  },
+  {
+    "district_id": 10100701006,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي الياسمين",
+    "name_en": "Al Yasmin Dist."
+  },
+  {
+    "district_id": 10100701007,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي العقيشية",
+    "name_en": "Al Aqishiyah Dist."
+  },
+  {
+    "district_id": 10100701008,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي البلد",
+    "name_en": "Al Balad Dist."
+  },
+  {
+    "district_id": 10100701009,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي الملك فهد",
+    "name_en": "King Fahd Dist."
+  },
+  {
+    "district_id": 10100701010,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي المسلخ",
+    "name_en": "Al Maslakh Dist."
+  },
+  {
+    "district_id": 10100701011,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي المثوية",
+    "name_en": "Al Mathawiyah Dist."
+  },
+  {
+    "district_id": 10100701012,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي التضامن",
+    "name_en": "Al Tadamun Dist."
+  },
+  {
+    "district_id": 10100701013,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي مركز الشرارة",
+    "name_en": "Markaz Al Shararh Dist."
+  },
+  {
+    "district_id": 10100701014,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي الرفيعة",
+    "name_en": "Ar Rafiah Dist."
+  },
+  {
+    "district_id": 10100701015,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي الصالحية",
+    "name_en": "As Salhiyah Dist."
+  },
+  {
+    "district_id": 10100701016,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي مشرفة",
+    "name_en": "Mishrifah Dist."
+  },
+  {
+    "district_id": 10100701017,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي الملك فيصل",
+    "name_en": "King Faisal Dist."
+  },
+  {
+    "district_id": 10100701018,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي صقرة",
+    "name_en": "Saqrah Dist."
+  },
+  {
+    "district_id": 10100701019,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي صقرة الشمالي",
+    "name_en": "Saqrah Northern Dist."
+  },
+  {
+    "district_id": 10100701020,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي الرديفة",
+    "name_en": "Al Radifah Dist."
+  },
+  {
+    "district_id": 10100701021,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي البديعة",
+    "name_en": "Al Badiah Dist."
+  },
+  {
+    "district_id": 10100701022,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي الزعيبة",
+    "name_en": "Al Zuaibah Dist."
+  },
+  {
+    "district_id": 10100701023,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي الامير سلطان",
+    "name_en": "Prince Sultan Dist."
+  },
+  {
+    "district_id": 10100701024,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي الفيصلية",
+    "name_en": "Al Faisaliyah Dist."
+  },
+  {
+    "district_id": 10100701025,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي صحارى",
+    "name_en": "Sahara Dist."
+  },
+  {
+    "district_id": 10100701026,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي العلوات",
+    "name_en": "Al Alawat Dist."
+  },
+  {
+    "district_id": 10100701027,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي الشتينية",
+    "name_en": "Al Shatiniyyah"
+  },
+  {
+    "district_id": 10100701028,
+    "city_id": 701,
+    "region_id": 1,
+    "name_ar": "حي القسيمة",
+    "name_en": "Al Qassima Dist."
+  },
+  {
     "district_id": 10100795001,
     "city_id": 795,
     "region_id": 1,
@@ -2224,6 +3022,13 @@
     "region_id": 1,
     "name_ar": "حي الحزم",
     "name_en": "Al Hazm Dist."
+  },
+  {
+    "district_id": 10100828001,
+    "city_id": 828,
+    "region_id": 1,
+    "name_ar": "حي الملقاه",
+    "name_en": "Al Malqah Dist."
   },
   {
     "district_id": 10100828002,
@@ -2273,13 +3078,6 @@
     "region_id": 1,
     "name_ar": "حي العاصمة",
     "name_en": "Al Asemah Dist."
-  },
-  {
-    "district_id": 10100828009,
-    "city_id": 828,
-    "region_id": 1,
-    "name_ar": "حي الدرعية الجديدة",
-    "name_en": "Al Diriyah Al Jadidah Dist."
   },
   {
     "district_id": 10100828010,
@@ -2336,6 +3134,97 @@
     "region_id": 1,
     "name_ar": "سلطانة",
     "name_en": "Sultanah"
+  },
+  {
+    "district_id": 10100828018,
+    "city_id": 828,
+    "region_id": 1,
+    "name_ar": "حي ظهرة العودة شرق",
+    "name_en": "East Dhahrat Al Oudah Dist."
+  },
+  {
+    "district_id": 10100830001,
+    "city_id": 830,
+    "region_id": 1,
+    "name_ar": "حي العين",
+    "name_en": "Al Ain Dist."
+  },
+  {
+    "district_id": 10100830002,
+    "city_id": 830,
+    "region_id": 1,
+    "name_ar": "حي سلام",
+    "name_en": "Salam Dist."
+  },
+  {
+    "district_id": 10100830003,
+    "city_id": 830,
+    "region_id": 1,
+    "name_ar": "حي العدل",
+    "name_en": "Al Adel Dist."
+  },
+  {
+    "district_id": 10100830004,
+    "city_id": 830,
+    "region_id": 1,
+    "name_ar": "الكلية الحربية",
+    "name_en": "Military College"
+  },
+  {
+    "district_id": 10100830005,
+    "city_id": 830,
+    "region_id": 1,
+    "name_ar": "حي عقرباء",
+    "name_en": "Aqraba Dist."
+  },
+  {
+    "district_id": 10100830006,
+    "city_id": 830,
+    "region_id": 1,
+    "name_ar": "حي الواحة",
+    "name_en": "Al Wahah Dist."
+  },
+  {
+    "district_id": 10100830007,
+    "city_id": 830,
+    "region_id": 1,
+    "name_ar": "حي الشهداء",
+    "name_en": "Ash Shuhada Dist."
+  },
+  {
+    "district_id": 10100830008,
+    "city_id": 830,
+    "region_id": 1,
+    "name_ar": "حي الوصيل",
+    "name_en": "Al Waseel Dist."
+  },
+  {
+    "district_id": 10100830009,
+    "city_id": 830,
+    "region_id": 1,
+    "name_ar": "حي الوادي",
+    "name_en": "Al Wadi Dist."
+  },
+  {
+    "district_id": 10100830010,
+    "city_id": 830,
+    "region_id": 1,
+    "name_ar": "حي هجرة بوضة",
+    "name_en": "Bawdah Dist."
+  },
+  {
+    "district_id": 10100830011,
+    "city_id": 830,
+    "region_id": 1,
+    "name_ar": "حي نجد",
+    "name_en": "Najd Dist."
+  },
+  {
+    "district_id": 10100830012,
+    "city_id": 830,
+    "region_id": 1,
+    "name_ar": "حي الامير سلطان",
+    "name_en": "Prince Sultan Dist."
   },
   {
     "district_id": 10100839001,
@@ -2594,7 +3483,7 @@
     "city_id": 885,
     "region_id": 1,
     "name_ar": "حي النزهة",
-    "name_en": "Al  Nuzhah Dist."
+    "name_en": "Al Nuzhah Dist."
   },
   {
     "district_id": 10100885013,
@@ -2678,35 +3567,329 @@
     "city_id": 885,
     "region_id": 1,
     "name_ar": "مخطط ج3",
-    "name_en": "Subdivision Plan 3C"
+    "name_en": "Subdivision Plan 3c"
   },
   {
     "district_id": 10100885025,
     "city_id": 885,
     "region_id": 1,
     "name_ar": "مخطط ج1",
-    "name_en": "Subdivision Plan 1C"
+    "name_en": "Subdivision Plan 1c"
   },
   {
     "district_id": 10100885026,
     "city_id": 885,
     "region_id": 1,
     "name_ar": "مخطط ج2",
-    "name_en": "Subdivision Plan 2C"
+    "name_en": "Subdivision Plan 2c"
   },
   {
     "district_id": 10100885027,
     "city_id": 885,
     "region_id": 1,
     "name_ar": "مخطط ج4",
-    "name_en": "Subdivision Plan 4C"
+    "name_en": "Subdivision Plan 4c"
+  },
+  {
+    "district_id": 10100959001,
+    "city_id": 959,
+    "region_id": 1,
+    "name_ar": "حي ام طلحة",
+    "name_en": "Um Talha Dist."
+  },
+  {
+    "district_id": 10100962001,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي نجد",
+    "name_en": "Najd Dist."
+  },
+  {
+    "district_id": 10100962002,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي ال هويمل",
+    "name_en": "Al Hoymel Dist."
+  },
+  {
+    "district_id": 10100962003,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي الهفوف",
+    "name_en": "Al Hufuf Dist."
+  },
+  {
+    "district_id": 10100962004,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي الوسيطا",
+    "name_en": "Al Wusayta Dist."
+  },
+  {
+    "district_id": 10100962005,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي الرين الاعلى",
+    "name_en": "Ar Rayn Al Aala Dist."
+  },
+  {
+    "district_id": 10100962006,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي المعيزيله",
+    "name_en": "Al Muayzeleh Dist."
+  },
+  {
+    "district_id": 10100962007,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي العمار",
+    "name_en": "Al Amar Dist."
+  },
+  {
+    "district_id": 10100962008,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي المعتلا",
+    "name_en": "Al Maatala Dist."
+  },
+  {
+    "district_id": 10100962009,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي قبيبان",
+    "name_en": "Qubeiban Dist."
+  },
+  {
+    "district_id": 10100962010,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي الملك فيصل",
+    "name_en": "King Faisal Dist."
+  },
+  {
+    "district_id": 10100962011,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي عشيرة",
+    "name_en": "Ashayra Dist."
+  },
+  {
+    "district_id": 10100962012,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي الغريبية",
+    "name_en": "Al Gharibiya Dist."
+  },
+  {
+    "district_id": 10100962013,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي الملك فهد",
+    "name_en": "King Fahd Dist."
+  },
+  {
+    "district_id": 10100962014,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي الفتح",
+    "name_en": "Al Fath Dist."
+  },
+  {
+    "district_id": 10100962015,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي القميش",
+    "name_en": "Al Qumish Dist."
+  },
+  {
+    "district_id": 10100962016,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي الرفايع",
+    "name_en": "Ar Rafayie Dist."
+  },
+  {
+    "district_id": 10100962017,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي الرجع",
+    "name_en": "Al Rajai Dist."
+  },
+  {
+    "district_id": 10100962018,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي الوسطى",
+    "name_en": "Al Wusta Dist."
+  },
+  {
+    "district_id": 10100962019,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي عبلية",
+    "name_en": "Ableya Dist."
+  },
+  {
+    "district_id": 10100962020,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي النور",
+    "name_en": "An Noor Dist."
+  },
+  {
+    "district_id": 10100962021,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي القادسية",
+    "name_en": "Al Qadisiyah Dist."
+  },
+  {
+    "district_id": 10100962022,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي الشعيفان",
+    "name_en": "Al Shaeifan Dist."
+  },
+  {
+    "district_id": 10100962023,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي الريعانية",
+    "name_en": "Al Rayaniyah Dist."
+  },
+  {
+    "district_id": 10100962024,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي الحنو",
+    "name_en": "Al Hano Dist."
+  },
+  {
+    "district_id": 10100962025,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي الرواما",
+    "name_en": "Al Rawama Dist."
+  },
+  {
+    "district_id": 10100962026,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي المثناه",
+    "name_en": "Al Muthanna Dist."
+  },
+  {
+    "district_id": 10100962027,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي الفرعة",
+    "name_en": "Al Fara Dist."
+  },
+  {
+    "district_id": 10100962028,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي الفردوس",
+    "name_en": "Al Fardus Dist."
+  },
+  {
+    "district_id": 10100962029,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي الرفاع",
+    "name_en": "Ar Rifaa Dist."
+  },
+  {
+    "district_id": 10100962030,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي الناصفه",
+    "name_en": "Al Nasfah Dist."
+  },
+  {
+    "district_id": 10100962031,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي اليمامة",
+    "name_en": "Al Yamamah Dist."
+  },
+  {
+    "district_id": 10100962032,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي المعترضة",
+    "name_en": "Al Mutarida Dist."
+  },
+  {
+    "district_id": 10100962033,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي احد",
+    "name_en": "Uhud Dist."
+  },
+  {
+    "district_id": 10100962034,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي النقيعه",
+    "name_en": "Al Naqiea Dist."
+  },
+  {
+    "district_id": 10100962035,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي البدائع",
+    "name_en": "Al Badayi Dist."
+  },
+  {
+    "district_id": 10100962036,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي الصفا",
+    "name_en": "As Safa Dist."
+  },
+  {
+    "district_id": 10100962037,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي اليرموك",
+    "name_en": "Al Yarmuk Dist."
+  },
+  {
+    "district_id": 10100962038,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي الشموع",
+    "name_en": "Al Shumua Dist."
+  },
+  {
+    "district_id": 10100962039,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي الرفيعة",
+    "name_en": "Ar Rafiah Dist."
+  },
+  {
+    "district_id": 10100962040,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي غرناطة",
+    "name_en": "Ghirnatah Dist."
+  },
+  {
+    "district_id": 10100962041,
+    "city_id": 962,
+    "region_id": 1,
+    "name_ar": "حي الرين القديم",
+    "name_en": "Ar Rayn Al Qadim Dist."
   },
   {
     "district_id": 10100990001,
     "city_id": 990,
     "region_id": 1,
     "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah Dist."
+    "name_en": "Al Sinaiyah Dist."
   },
   {
     "district_id": 10100990002,
@@ -2720,7 +3903,7 @@
     "city_id": 990,
     "region_id": 1,
     "name_ar": "حي الصقورية",
-    "name_en": "As Suquriyyah Dist."
+    "name_en": "Al Suquriyyah Dist."
   },
   {
     "district_id": 10100990004,
@@ -2770,6 +3953,111 @@
     "region_id": 1,
     "name_ar": "حي العليا",
     "name_en": "Al Olaya Dist."
+  },
+  {
+    "district_id": 10100990011,
+    "city_id": 990,
+    "region_id": 1,
+    "name_ar": "حي نواره",
+    "name_en": "Nawarah Dist."
+  },
+  {
+    "district_id": 10100990012,
+    "city_id": 990,
+    "region_id": 1,
+    "name_ar": "حي وسيلة",
+    "name_en": "Waselah Dist."
+  },
+  {
+    "district_id": 10100990013,
+    "city_id": 990,
+    "region_id": 1,
+    "name_ar": "حي اللؤلؤة",
+    "name_en": "Al Luluah Dist."
+  },
+  {
+    "district_id": 10100990014,
+    "city_id": 990,
+    "region_id": 1,
+    "name_ar": "حي الراشدية",
+    "name_en": "Al Rashidiyah Dist."
+  },
+  {
+    "district_id": 10100990015,
+    "city_id": 990,
+    "region_id": 1,
+    "name_ar": "حي الغطغط",
+    "name_en": "Al Ghtght Dist."
+  },
+  {
+    "district_id": 10100990016,
+    "city_id": 990,
+    "region_id": 1,
+    "name_ar": "حي الريف",
+    "name_en": "Al Rif Dist."
+  },
+  {
+    "district_id": 10100990018,
+    "city_id": 990,
+    "region_id": 1,
+    "name_ar": "حي المحمدية",
+    "name_en": "Al Muhammadiyah Dist."
+  },
+  {
+    "district_id": 10100990019,
+    "city_id": 990,
+    "region_id": 1,
+    "name_ar": "حي الواحة",
+    "name_en": "Al Wahah Dist."
+  },
+  {
+    "district_id": 10100990020,
+    "city_id": 990,
+    "region_id": 1,
+    "name_ar": "حي الحزم",
+    "name_en": "Al Hazm Dist."
+  },
+  {
+    "district_id": 10100990021,
+    "city_id": 990,
+    "region_id": 1,
+    "name_ar": "حي مشيرفة",
+    "name_en": "Al Musherfah Dist."
+  },
+  {
+    "district_id": 10100990022,
+    "city_id": 990,
+    "region_id": 1,
+    "name_ar": "حي الجامعة",
+    "name_en": "Al Jamiah Dist."
+  },
+  {
+    "district_id": 10100990023,
+    "city_id": 990,
+    "region_id": 1,
+    "name_ar": "حي الورود",
+    "name_en": "Al Wurud Dist."
+  },
+  {
+    "district_id": 10100990024,
+    "city_id": 990,
+    "region_id": 1,
+    "name_ar": "حي الياسمين",
+    "name_en": "Al Yasmin Dist."
+  },
+  {
+    "district_id": 10100990025,
+    "city_id": 990,
+    "region_id": 1,
+    "name_ar": "حي الشلال",
+    "name_en": "Al Shlal Dist."
+  },
+  {
+    "district_id": 10101061001,
+    "city_id": 1061,
+    "region_id": 1,
+    "name_ar": "حي المصانع",
+    "name_en": "Al Masani Dist."
   },
   {
     "district_id": 10101061002,
@@ -2996,6 +4284,76 @@
     "name_en": "Prince Sultan Air Base"
   },
   {
+    "district_id": 10101061034,
+    "city_id": 1061,
+    "region_id": 1,
+    "name_ar": "حي الجامعة",
+    "name_en": "Al Jamiah Dist."
+  },
+  {
+    "district_id": 10101061035,
+    "city_id": 1061,
+    "region_id": 1,
+    "name_ar": "حي جوهرة الخرج",
+    "name_en": "Jawharat Al Kharj Dist."
+  },
+  {
+    "district_id": 10101061036,
+    "city_id": 1061,
+    "region_id": 1,
+    "name_ar": "حي المروج",
+    "name_en": "Al Muruj Dist."
+  },
+  {
+    "district_id": 10101061037,
+    "city_id": 1061,
+    "region_id": 1,
+    "name_ar": "حي السحاب",
+    "name_en": "As Sahab Dist."
+  },
+  {
+    "district_id": 10101061038,
+    "city_id": 1061,
+    "region_id": 1,
+    "name_ar": "حي اليرموك",
+    "name_en": "Al Yarmuk Dist."
+  },
+  {
+    "district_id": 10101061039,
+    "city_id": 1061,
+    "region_id": 1,
+    "name_ar": "حي الاخضر",
+    "name_en": "Al Akhdar Dist."
+  },
+  {
+    "district_id": 10101061040,
+    "city_id": 1061,
+    "region_id": 1,
+    "name_ar": "حي الروابي",
+    "name_en": "Ar Rawabi Dist."
+  },
+  {
+    "district_id": 10101061041,
+    "city_id": 1061,
+    "region_id": 1,
+    "name_ar": "حي قرطبة",
+    "name_en": "Qurtubah Dist."
+  },
+  {
+    "district_id": 10101061042,
+    "city_id": 1061,
+    "region_id": 1,
+    "name_ar": "حي الهدا",
+    "name_en": "Al Hada Dist."
+  },
+  {
+    "district_id": 10101061043,
+    "city_id": 1061,
+    "region_id": 1,
+    "name_ar": "حي الحمراء",
+    "name_en": "Al Hamra Dist."
+  },
+  {
     "district_id": 10101073001,
     "city_id": 1073,
     "region_id": 1,
@@ -3071,6 +4429,20 @@
     "region_id": 1,
     "name_ar": "حي الناصرية",
     "name_en": "An Nasriyah Dist."
+  },
+  {
+    "district_id": 10101073012,
+    "city_id": 1073,
+    "region_id": 1,
+    "name_ar": "حي زميقة",
+    "name_en": "Zamiqa Dist."
+  },
+  {
+    "district_id": 10101073013,
+    "city_id": 1073,
+    "region_id": 1,
+    "name_ar": "حي النهضة",
+    "name_en": "An Nahdah Dist."
   },
   {
     "district_id": 10101351001,
@@ -3507,11 +4879,25 @@
     "name_en": "Al Hilah Dist."
   },
   {
+    "district_id": 10103165001,
+    "city_id": 3165,
+    "region_id": 1,
+    "name_ar": "الحلوة",
+    "name_en": "Al Hilwah"
+  },
+  {
+    "district_id": 10103165002,
+    "city_id": 3165,
+    "region_id": 1,
+    "name_ar": "حي الحزم",
+    "name_en": "Al Hazm Dist."
+  },
+  {
     "district_id": 10103174001,
     "city_id": 3174,
     "region_id": 1,
     "name_ar": "حي الملك فهد",
-    "name_en": "King Fahd  Dist."
+    "name_en": "King Fahd Dist."
   },
   {
     "district_id": 10103174002,
@@ -3882,7 +5268,7 @@
     "city_id": 5,
     "region_id": 2,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwah  Dist."
+    "name_en": "Ar Rabwah Dist."
   },
   {
     "district_id": 10200005043,
@@ -4281,7 +5667,7 @@
     "city_id": 5,
     "region_id": 2,
     "name_ar": "حي الحلقة الشرقية",
-    "name_en": "Asharqiyyah Dist."
+    "name_en": "Al Halqah Asharqiyyah Dist."
   },
   {
     "district_id": 10200005100,
@@ -4408,6 +5794,13 @@
     "region_id": 2,
     "name_ar": "حي القديرة",
     "name_en": "Al Qadirah Dist."
+  },
+  {
+    "district_id": 10200005118,
+    "city_id": 5,
+    "region_id": 2,
+    "name_ar": "حي سديرة",
+    "name_en": "Sudayrah Dist."
   },
   {
     "district_id": 10200006001,
@@ -4837,6 +6230,55 @@
     "name_en": "Al Usaylah Dist."
   },
   {
+    "district_id": 10200006062,
+    "city_id": 6,
+    "region_id": 2,
+    "name_ar": "حي جعرانة",
+    "name_en": "Jaranah Dist."
+  },
+  {
+    "district_id": 10200006063,
+    "city_id": 6,
+    "region_id": 2,
+    "name_ar": "حي البيعة",
+    "name_en": "Al Biyah Dist."
+  },
+  {
+    "district_id": 10200006064,
+    "city_id": 6,
+    "region_id": 2,
+    "name_ar": "حي المغمس",
+    "name_en": "Al Mughams Dist."
+  },
+  {
+    "district_id": 10200006065,
+    "city_id": 6,
+    "region_id": 2,
+    "name_ar": "حي التروية",
+    "name_en": "At Tarwiyah Dist."
+  },
+  {
+    "district_id": 10200006066,
+    "city_id": 6,
+    "region_id": 2,
+    "name_ar": "حي الشرائع",
+    "name_en": "Ash Sharia Dist."
+  },
+  {
+    "district_id": 10200006067,
+    "city_id": 6,
+    "region_id": 2,
+    "name_ar": "حي السلام",
+    "name_en": "As Salam Dist."
+  },
+  {
+    "district_id": 10200006068,
+    "city_id": 6,
+    "region_id": 2,
+    "name_ar": "حي الكوثر",
+    "name_en": "Al Kawthar Dist."
+  },
+  {
     "district_id": 10200018001,
     "city_id": 18,
     "region_id": 2,
@@ -4939,7 +6381,7 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "حي الرحمانية",
-    "name_en": "Ar Rahmanyah Dist."
+    "name_en": "Ar Rahmaniyah Dist."
   },
   {
     "district_id": 10200018016,
@@ -4966,8 +6408,8 @@
     "district_id": 10200018019,
     "city_id": 18,
     "region_id": 2,
-    "name_ar": "حي ام حبلين",
-    "name_en": "Um Hableen Dist."
+    "name_ar": "حي أم حبلين الغربية",
+    "name_en": "Um Hableen Al Gharbiyyah Dist."
   },
   {
     "district_id": 10200018020,
@@ -5523,13 +6965,6 @@
     "name_en": "Um Asalam Dist."
   },
   {
-    "district_id": 10200018099,
-    "city_id": 18,
-    "region_id": 2,
-    "name_ar": "مدينة الملك عبدالعزيز الطبية",
-    "name_en": "King Abdulaziz Medical City"
-  },
-  {
     "district_id": 10200018100,
     "city_id": 18,
     "region_id": 2,
@@ -5667,7 +7102,7 @@
     "city_id": 18,
     "region_id": 2,
     "name_ar": "المدينة الصناعية الثالثة",
-    "name_en": "Third Industrial City"
+    "name_en": "3rd Industrial City"
   },
   {
     "district_id": 10200018120,
@@ -5675,6 +7110,377 @@
     "region_id": 2,
     "name_ar": "حي الفنار",
     "name_en": "Al Fanar Dist."
+  },
+  {
+    "district_id": 10200018121,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي السهل",
+    "name_en": "Al Sahl Dist."
+  },
+  {
+    "district_id": 10200018122,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي الدرة",
+    "name_en": "Ad Durrah Dist."
+  },
+  {
+    "district_id": 10200018123,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي المنارات",
+    "name_en": "Al Manarat Dist."
+  },
+  {
+    "district_id": 10200018124,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي الربيع",
+    "name_en": "Ar Rabie Dist."
+  },
+  {
+    "district_id": 10200018125,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي الحجاز",
+    "name_en": "Al Hijaz Dist."
+  },
+  {
+    "district_id": 10200018126,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي المزيرعة",
+    "name_en": "Al Muzairah Dist."
+  },
+  {
+    "district_id": 10200018127,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي الصفوة",
+    "name_en": "Al Safwah Dist."
+  },
+  {
+    "district_id": 10200018128,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي المستقبل",
+    "name_en": "Al Mustaqbal Dist."
+  },
+  {
+    "district_id": 10200018129,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي النجمة",
+    "name_en": "An Najmah Dist."
+  },
+  {
+    "district_id": 10200018130,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي القوس",
+    "name_en": "Al Qus Dist."
+  },
+  {
+    "district_id": 10200018131,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي الحفنة",
+    "name_en": "Al Hafnah Dist."
+  },
+  {
+    "district_id": 10200018132,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي الجزيرة",
+    "name_en": "Al Jazirah Dist."
+  },
+  {
+    "district_id": 10200018133,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي الشويضي",
+    "name_en": "Al Shuwaidhi Dist."
+  },
+  {
+    "district_id": 10200018134,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي الشرقية",
+    "name_en": "Al Sharqiyyah Dist."
+  },
+  {
+    "district_id": 10200018135,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي العشيرية",
+    "name_en": "Al Ushayriyyah Dist."
+  },
+  {
+    "district_id": 10200018136,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي أبو جعالة",
+    "name_en": "Abu Jaalah Dist."
+  },
+  {
+    "district_id": 10200018137,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي كتانة",
+    "name_en": "Katanah Dist."
+  },
+  {
+    "district_id": 10200018138,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي التلال",
+    "name_en": "Al Talal Dist."
+  },
+  {
+    "district_id": 10200018139,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي الرمال",
+    "name_en": "Ar Rimal Dist."
+  },
+  {
+    "district_id": 10200018140,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي المرسي",
+    "name_en": "Al Mursi Dist."
+  },
+  {
+    "district_id": 10200018141,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي المروج",
+    "name_en": "Al Muruj Dist."
+  },
+  {
+    "district_id": 10200018142,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي الخليج",
+    "name_en": "Al Khalij Dist."
+  },
+  {
+    "district_id": 10200018143,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي البحيرات",
+    "name_en": "Al Buhayrat Dist."
+  },
+  {
+    "district_id": 10200018144,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي الموج",
+    "name_en": "Al Mawj Dist."
+  },
+  {
+    "district_id": 10200018145,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي الغربية",
+    "name_en": "Al Gharbiyyah Dist."
+  },
+  {
+    "district_id": 10200018146,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي الزهور",
+    "name_en": "Al Zahur Dist."
+  },
+  {
+    "district_id": 10200018147,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي الهزاعية",
+    "name_en": "Al Hazaiyah Dist."
+  },
+  {
+    "district_id": 10200018148,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي العسلاء",
+    "name_en": "Al Asla Dist."
+  },
+  {
+    "district_id": 10200018149,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي العسلاء",
+    "name_en": "Al Asla Dist."
+  },
+  {
+    "district_id": 10200018150,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي بلدة ذهبان",
+    "name_en": "Dhahban Town Dist."
+  },
+  {
+    "district_id": 10200018151,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حكومي",
+    "name_en": "Governmental"
+  },
+  {
+    "district_id": 10200018152,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي العقيق",
+    "name_en": "Al Aqiq Dist."
+  },
+  {
+    "district_id": 10200018153,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي النور",
+    "name_en": "Al Nur Dist."
+  },
+  {
+    "district_id": 10200018154,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي صناعي",
+    "name_en": "Industrial Dist."
+  },
+  {
+    "district_id": 10200018155,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حكومي",
+    "name_en": "Governmental"
+  },
+  {
+    "district_id": 10200018156,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي الغدير",
+    "name_en": "Al Ghadir Dist."
+  },
+  {
+    "district_id": 10200018157,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي الفرقان",
+    "name_en": "Al Furqan Dist."
+  },
+  {
+    "district_id": 10200018158,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي طابة",
+    "name_en": "Tabah Dist."
+  },
+  {
+    "district_id": 10200018159,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي الرواسي",
+    "name_en": "Al Rawasee Dist."
+  },
+  {
+    "district_id": 10200018160,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي أم حبلين الشرقية",
+    "name_en": "Um Hableen Al Sharqiyyah Dist."
+  },
+  {
+    "district_id": 10200018161,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي قباء",
+    "name_en": "Quba Dist."
+  },
+  {
+    "district_id": 10200018162,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي الرابية",
+    "name_en": "Al Rabiyah Dist."
+  },
+  {
+    "district_id": 10200018163,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي العليا",
+    "name_en": "Al 'Ulayya Dist."
+  },
+  {
+    "district_id": 10200018164,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي البدور",
+    "name_en": "Al Budur Dist."
+  },
+  {
+    "district_id": 10200018165,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي المجامع",
+    "name_en": "Al Majami Dist."
+  },
+  {
+    "district_id": 10200018166,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي المرسلات",
+    "name_en": "Al Mursalat Dist."
+  },
+  {
+    "district_id": 10200018167,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي الأثير",
+    "name_en": "Al Athir Dist."
+  },
+  {
+    "district_id": 10200018168,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي صناعي",
+    "name_en": "Industrial Dist."
+  },
+  {
+    "district_id": 10200018169,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي الصفحة",
+    "name_en": "Al Safhah Dist."
+  },
+  {
+    "district_id": 10200018170,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي اليسر",
+    "name_en": "Al Yusr Dist."
+  },
+  {
+    "district_id": 10200018171,
+    "city_id": 18,
+    "region_id": 2,
+    "name_ar": "حي العبير",
+    "name_en": "Al Abeer Dist."
+  },
+  {
+    "district_id": 10200377002,
+    "city_id": 377,
+    "region_id": 2,
+    "name_ar": "حي الشفاء",
+    "name_en": "Ash Shifa Dist."
+  },
+  {
+    "district_id": 10200377003,
+    "city_id": 377,
+    "region_id": 2,
+    "name_ar": "حي انكاس",
+    "name_en": "Inkas Dist."
   },
   {
     "district_id": 10200377005,
@@ -5689,6 +7495,13 @@
     "region_id": 2,
     "name_ar": "حي الصليب الغربي",
     "name_en": "As Silayyib Al Gharbi Dist."
+  },
+  {
+    "district_id": 10200377007,
+    "city_id": 377,
+    "region_id": 2,
+    "name_ar": "حي المرجانية",
+    "name_en": "Al Marjaniyah Dist."
   },
   {
     "district_id": 10200377008,
@@ -5995,8 +7808,8 @@
     "district_id": 10201257011,
     "city_id": 1257,
     "region_id": 2,
-    "name_ar": "حي القريات",
-    "name_en": "Al Quraiyat Dist."
+    "name_ar": "حي غزيات",
+    "name_en": "Ghaziyyat Dist."
   },
   {
     "district_id": 10201257012,
@@ -6018,6 +7831,83 @@
     "region_id": 2,
     "name_ar": "حي الشهداء",
     "name_en": "Ash Shuhada Dist."
+  },
+  {
+    "district_id": 10201390001,
+    "city_id": 1390,
+    "region_id": 2,
+    "name_ar": "حي رقم 7",
+    "name_en": "No 7 Dist."
+  },
+  {
+    "district_id": 10201390002,
+    "city_id": 1390,
+    "region_id": 2,
+    "name_ar": "حي ج1",
+    "name_en": "C 1 Dist."
+  },
+  {
+    "district_id": 10201390003,
+    "city_id": 1390,
+    "region_id": 2,
+    "name_ar": "حي رقم 3",
+    "name_en": "No 3 Dist."
+  },
+  {
+    "district_id": 10201390004,
+    "city_id": 1390,
+    "region_id": 2,
+    "name_ar": "حي رقم 5",
+    "name_en": "No 5 Dist."
+  },
+  {
+    "district_id": 10201390005,
+    "city_id": 1390,
+    "region_id": 2,
+    "name_ar": "حي رقم 4",
+    "name_en": "No 4 Dist."
+  },
+  {
+    "district_id": 10201390006,
+    "city_id": 1390,
+    "region_id": 2,
+    "name_ar": "حي رقم 2",
+    "name_en": "No 2 Dist."
+  },
+  {
+    "district_id": 10201390007,
+    "city_id": 1390,
+    "region_id": 2,
+    "name_ar": "حي رقم 9",
+    "name_en": "No 9 Dist."
+  },
+  {
+    "district_id": 10201390008,
+    "city_id": 1390,
+    "region_id": 2,
+    "name_ar": "حي رقم 1",
+    "name_en": "No 1 Dist."
+  },
+  {
+    "district_id": 10201390009,
+    "city_id": 1390,
+    "region_id": 2,
+    "name_ar": "حي رقم 8",
+    "name_en": "No 8 Dist."
+  },
+  {
+    "district_id": 10201390010,
+    "city_id": 1390,
+    "region_id": 2,
+    "name_ar": "حي رقم 10",
+    "name_en": "No10 Dist."
+  },
+  {
+    "district_id": 10201390011,
+    "city_id": 1390,
+    "region_id": 2,
+    "name_ar": "حي رقم 6",
+    "name_en": "No 6 Dist."
   },
   {
     "district_id": 10201625001,
@@ -6067,6 +7957,13 @@
     "region_id": 2,
     "name_ar": "حي الشامية",
     "name_en": "Ash Shamiyah Dist."
+  },
+  {
+    "district_id": 10201628001,
+    "city_id": 1628,
+    "region_id": 2,
+    "name_ar": "حي القوز",
+    "name_en": "Al Qawz Dist."
   },
   {
     "district_id": 10201879001,
@@ -6132,6 +8029,153 @@
     "name_en": "As Suq Dist."
   },
   {
+    "district_id": 10202800001,
+    "city_id": 2800,
+    "region_id": 2,
+    "name_ar": "حي الورود",
+    "name_en": "Al Wurud Dist."
+  },
+  {
+    "district_id": 10202800002,
+    "city_id": 2800,
+    "region_id": 2,
+    "name_ar": "حي الجدر",
+    "name_en": "Al Judr Dist."
+  },
+  {
+    "district_id": 10202800003,
+    "city_id": 2800,
+    "region_id": 2,
+    "name_ar": "حي الحزم",
+    "name_en": "Al Hazm Dist."
+  },
+  {
+    "district_id": 10202800004,
+    "city_id": 2800,
+    "region_id": 2,
+    "name_ar": "حي ملهي",
+    "name_en": "Milhi Dist."
+  },
+  {
+    "district_id": 10202800005,
+    "city_id": 2800,
+    "region_id": 2,
+    "name_ar": "حي الأغر",
+    "name_en": "Al Aghar Dist."
+  },
+  {
+    "district_id": 10202800006,
+    "city_id": 2800,
+    "region_id": 2,
+    "name_ar": "حي كويكب",
+    "name_en": "Kuaykib Dist."
+  },
+  {
+    "district_id": 10202800007,
+    "city_id": 2800,
+    "region_id": 2,
+    "name_ar": "حي الوزران",
+    "name_en": "Al Waziran Dist."
+  },
+  {
+    "district_id": 10202800008,
+    "city_id": 2800,
+    "region_id": 2,
+    "name_ar": "حي الدعيكة",
+    "name_en": "Al Daika Dist."
+  },
+  {
+    "district_id": 10202800009,
+    "city_id": 2800,
+    "region_id": 2,
+    "name_ar": "حي الجزء الشمالي",
+    "name_en": "Al Juzu Al Shamali Dist."
+  },
+  {
+    "district_id": 10202800010,
+    "city_id": 2800,
+    "region_id": 2,
+    "name_ar": "حي الملحة 1",
+    "name_en": "Al Mulha 1 Dist."
+  },
+  {
+    "district_id": 10202800011,
+    "city_id": 2800,
+    "region_id": 2,
+    "name_ar": "حى النطوف",
+    "name_en": "Al Natouf Dist."
+  },
+  {
+    "district_id": 10202800012,
+    "city_id": 2800,
+    "region_id": 2,
+    "name_ar": "حي البروج",
+    "name_en": "Al Burouj Dist."
+  },
+  {
+    "district_id": 10202800013,
+    "city_id": 2800,
+    "region_id": 2,
+    "name_ar": "حي السلم",
+    "name_en": "Al Silm Dist."
+  },
+  {
+    "district_id": 10202800014,
+    "city_id": 2800,
+    "region_id": 2,
+    "name_ar": "حى السلم القديم",
+    "name_en": "Al Silm Al Qadim Dist."
+  },
+  {
+    "district_id": 10202800015,
+    "city_id": 2800,
+    "region_id": 2,
+    "name_ar": "حي النزهة",
+    "name_en": "Al Nuzha Dist."
+  },
+  {
+    "district_id": 10202800016,
+    "city_id": 2800,
+    "region_id": 2,
+    "name_ar": "حي السوق القديم",
+    "name_en": "As Suq Al Qadim Dist."
+  },
+  {
+    "district_id": 10202800017,
+    "city_id": 2800,
+    "region_id": 2,
+    "name_ar": "حي الجدر الغربي",
+    "name_en": "Al Judr Al Gharbi Dist."
+  },
+  {
+    "district_id": 10202800018,
+    "city_id": 2800,
+    "region_id": 2,
+    "name_ar": "حي الملحة 2",
+    "name_en": "Al Mulha 2 Dist"
+  },
+  {
+    "district_id": 10202800019,
+    "city_id": 2800,
+    "region_id": 2,
+    "name_ar": "حي العزيزية",
+    "name_en": "Al Aziziyah Dist."
+  },
+  {
+    "district_id": 10202800020,
+    "city_id": 2800,
+    "region_id": 2,
+    "name_ar": "حي الصالحية",
+    "name_en": "As Salhiyah Dist."
+  },
+  {
+    "district_id": 10202800021,
+    "city_id": 2800,
+    "region_id": 2,
+    "name_ar": "حي الجدر الشرقي",
+    "name_en": "Al Judr Al Sharqi Dist."
+  },
+  {
     "district_id": 10203666001,
     "city_id": 3666,
     "region_id": 2,
@@ -6185,7 +8229,7 @@
     "city_id": 3666,
     "region_id": 2,
     "name_ar": "حي التلال",
-    "name_en": "Tilal Dist."
+    "name_en": "At Talal Dist."
   },
   {
     "district_id": 10203666009,
@@ -6291,6 +8335,83 @@
     "region_id": 2,
     "name_ar": "حي الورود",
     "name_en": "Al Wurud Dist."
+  },
+  {
+    "district_id": 10223642001,
+    "city_id": 23642,
+    "region_id": 2,
+    "name_ar": "حي الصبغان",
+    "name_en": "Al Sabghan Dist."
+  },
+  {
+    "district_id": 10223642002,
+    "city_id": 23642,
+    "region_id": 2,
+    "name_ar": "حي غليل",
+    "name_en": "Ghalil Dist."
+  },
+  {
+    "district_id": 10223642003,
+    "city_id": 23642,
+    "region_id": 2,
+    "name_ar": "حي نمره المخطط",
+    "name_en": "Nimra Al Mukhatat Dist."
+  },
+  {
+    "district_id": 10223642004,
+    "city_id": 23642,
+    "region_id": 2,
+    "name_ar": "حي المبنى الشمالي",
+    "name_en": "Al Mabna Al Shamali Dist."
+  },
+  {
+    "district_id": 10223642005,
+    "city_id": 23642,
+    "region_id": 2,
+    "name_ar": "حي البارك",
+    "name_en": "Al Bark Dist."
+  },
+  {
+    "district_id": 10223642006,
+    "city_id": 23642,
+    "region_id": 2,
+    "name_ar": "مخطط المدارات",
+    "name_en": "Al Madarat Subdivision Plan"
+  },
+  {
+    "district_id": 10223642007,
+    "city_id": 23642,
+    "region_id": 2,
+    "name_ar": "حي بني سهيم",
+    "name_en": "Bani Suhaym Dist."
+  },
+  {
+    "district_id": 10223642008,
+    "city_id": 23642,
+    "region_id": 2,
+    "name_ar": "حي الذنبه",
+    "name_en": "Al Dhanbh Dist."
+  },
+  {
+    "district_id": 10223642009,
+    "city_id": 23642,
+    "region_id": 2,
+    "name_ar": "مخطط جنوب نمره",
+    "name_en": "Janub Nimrah Dist."
+  },
+  {
+    "district_id": 10223642010,
+    "city_id": 23642,
+    "region_id": 2,
+    "name_ar": "حي المبنى الجنوبي",
+    "name_en": "Al Mabna Al Janubi Dist."
+  },
+  {
+    "district_id": 10223642011,
+    "city_id": 23642,
+    "region_id": 2,
+    "name_ar": "حي المستشفي",
+    "name_en": "Al Mustashfi Dist."
   },
   {
     "district_id": 10300014001,
@@ -6450,8 +8571,8 @@
     "district_id": 10300014023,
     "city_id": 14,
     "region_id": 3,
-    "name_ar": "حي مهزور",
-    "name_en": "Mahzur Dist."
+    "name_ar": "حي وادي مهزور",
+    "name_en": "Wadi Mahzur Dist."
   },
   {
     "district_id": 10300014024,
@@ -6464,8 +8585,8 @@
     "district_id": 10300014025,
     "city_id": 14,
     "region_id": 3,
-    "name_ar": "حي مذينب",
-    "name_en": "Mudhainib Dist."
+    "name_ar": "حي وادي مذينب",
+    "name_en": "Wadi Mudhainib Dist."
   },
   {
     "district_id": 10300014026,
@@ -6486,7 +8607,7 @@
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي الظاهرة",
-    "name_en": "Az Zahirah Dist."
+    "name_en": "Al Dhahirah Dist."
   },
   {
     "district_id": 10300014029,
@@ -6499,8 +8620,8 @@
     "district_id": 10300014030,
     "city_id": 14,
     "region_id": 3,
-    "name_ar": "حي ام خالد",
-    "name_en": "Umm Khalid Dist."
+    "name_ar": "حي جماء أم خالد",
+    "name_en": "Jima Um Khalid Dist."
   },
   {
     "district_id": 10300014031,
@@ -6534,15 +8655,15 @@
     "district_id": 10300014035,
     "city_id": 14,
     "region_id": 3,
-    "name_ar": "حي السكة الحديد",
-    "name_en": "As Sikkah Al Hadid Dist."
+    "name_ar": "حي سكة الحديد",
+    "name_en": "Sikkah Al Hadid Dist."
   },
   {
     "district_id": 10300014036,
     "city_id": 14,
     "region_id": 3,
-    "name_ar": "حي الوبرة",
-    "name_en": "Al Wabra Dist."
+    "name_ar": "حى حرة الوبرة",
+    "name_en": "Hura Al Wabra Dist."
   },
   {
     "district_id": 10300014037,
@@ -6563,7 +8684,7 @@
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي بني ظفر",
-    "name_en": "Bani Zafar Dist."
+    "name_en": "Bani Dhafir Dist."
   },
   {
     "district_id": 10300014040,
@@ -6598,7 +8719,7 @@
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي بضاعة",
-    "name_en": "Badaah Dist."
+    "name_en": "Badhaah Dist."
   },
   {
     "district_id": 10300014045,
@@ -6675,7 +8796,7 @@
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي شظاة",
-    "name_en": "Shizat Dist."
+    "name_en": "Shidhat Dist."
   },
   {
     "district_id": 10300014057,
@@ -6688,8 +8809,8 @@
     "district_id": 10300014058,
     "city_id": 14,
     "region_id": 3,
-    "name_ar": "حي القلعة",
-    "name_en": "Al Qalah Dist."
+    "name_ar": "حي التلعة",
+    "name_en": "Al Talaah Dist."
   },
   {
     "district_id": 10300014059,
@@ -6710,7 +8831,7 @@
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي العيون",
-    "name_en": "Al Uyun Dist."
+    "name_en": "Al Eyun Dist."
   },
   {
     "district_id": 10300014063,
@@ -6769,13 +8890,6 @@
     "name_en": "Al Ghabah Dist."
   },
   {
-    "district_id": 10300014071,
-    "city_id": 14,
-    "region_id": 3,
-    "name_ar": "حي النقس",
-    "name_en": "An Naqs Dist."
-  },
-  {
     "district_id": 10300014072,
     "city_id": 14,
     "region_id": 3,
@@ -6794,7 +8908,7 @@
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي العريض",
-    "name_en": "Al Ariyd Dist."
+    "name_en": "Al Ariydh Dist."
   },
   {
     "district_id": 10300014075,
@@ -6822,7 +8936,7 @@
     "city_id": 14,
     "region_id": 3,
     "name_ar": "حي مسجد الدرع",
-    "name_en": "Masjid Ad Dar Dist."
+    "name_en": "Masjid Ad Dara Dist."
   },
   {
     "district_id": 10300014079,
@@ -6832,11 +8946,11 @@
     "name_en": "As Suqya Dist."
   },
   {
-    "district_id": 10300014080,
+    "district_id": 10300014082,
     "city_id": 14,
     "region_id": 3,
-    "name_ar": "حي قلعة مخيط",
-    "name_en": "Qalat Makhit Dist."
+    "name_ar": "حي جبل عير",
+    "name_en": "Jabal Ayr Dist."
   },
   {
     "district_id": 10300014083,
@@ -6849,8 +8963,8 @@
     "district_id": 10300014084,
     "city_id": 14,
     "region_id": 3,
-    "name_ar": "حي سيد الشهداء",
-    "name_en": "Sayed Ash Shuhada Dist."
+    "name_ar": "حي الشهداء",
+    "name_en": "Ash Shuhada Dist."
   },
   {
     "district_id": 10300014085,
@@ -6881,13 +8995,6 @@
     "name_en": "Bani Muawiyah Dist."
   },
   {
-    "district_id": 10300014089,
-    "city_id": 14,
-    "region_id": 3,
-    "name_ar": "حي الحرم",
-    "name_en": "Al Haram Dist."
-  },
-  {
     "district_id": 10300014090,
     "city_id": 14,
     "region_id": 3,
@@ -6905,8 +9012,8 @@
     "district_id": 10300014092,
     "city_id": 14,
     "region_id": 3,
-    "name_ar": "المنطقة الصناعية",
-    "name_en": "Industrial Area"
+    "name_ar": "حي الصناعية",
+    "name_en": "Industrial Dist."
   },
   {
     "district_id": 10300014093,
@@ -6928,6 +9035,209 @@
     "region_id": 3,
     "name_ar": "حي وادي البطان",
     "name_en": "Wadi Al Battan Dist."
+  },
+  {
+    "district_id": 10300014096,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حي المليليح",
+    "name_en": "Al Mulaylih Dist."
+  },
+  {
+    "district_id": 10300014097,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حي الاناهي",
+    "name_en": "Al Anahi Dist."
+  },
+  {
+    "district_id": 10300014098,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حي وادي الحمض",
+    "name_en": "Wadi  Al Hamdh Dist."
+  },
+  {
+    "district_id": 10300014099,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حى الخضراء",
+    "name_en": "Al Khadhra Dist."
+  },
+  {
+    "district_id": 10300014100,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حي ابومرخة",
+    "name_en": "Abumarkha Dist."
+  },
+  {
+    "district_id": 10300014101,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حى الصهلوج",
+    "name_en": "Al Sahluj Dist."
+  },
+  {
+    "district_id": 10300014102,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حي المسبعة",
+    "name_en": "Al Masbah Dist."
+  },
+  {
+    "district_id": 10300014103,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حي الضميرية",
+    "name_en": "Al Dhamiria Dist."
+  },
+  {
+    "district_id": 10300014104,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حي ضعة",
+    "name_en": "Dhaea Dist."
+  },
+  {
+    "district_id": 10300014105,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حي ام السيوف",
+    "name_en": "Um Al Seouf Dist."
+  },
+  {
+    "district_id": 10300014106,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حي غراب",
+    "name_en": "Ghorab Dist."
+  },
+  {
+    "district_id": 10300014107,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حى حضوضاء",
+    "name_en": "Hadhawda Dist."
+  },
+  {
+    "district_id": 10300014108,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حي الشرائع",
+    "name_en": "Al Sharayie Dist."
+  },
+  {
+    "district_id": 10300014109,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حى الصهوة",
+    "name_en": "Al Sahwa Dist."
+  },
+  {
+    "district_id": 10300014110,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حي المندسة",
+    "name_en": "Al Mundasa Dist."
+  },
+  {
+    "district_id": 10300014111,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حى القبيبة",
+    "name_en": "Qubeiba Dist."
+  },
+  {
+    "district_id": 10300014112,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حي المزيين",
+    "name_en": "Al Muzayiyn Dist."
+  },
+  {
+    "district_id": 10300014113,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حى بني النجار",
+    "name_en": "Bani Al Najjar Dist."
+  },
+  {
+    "district_id": 10300014114,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حي حزرة الجنوب",
+    "name_en": "Hazrat Al Janoub Dist."
+  },
+  {
+    "district_id": 10300014115,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حى ابو سدر",
+    "name_en": "Abu Sidr Dist."
+  },
+  {
+    "district_id": 10300014116,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حى سد الغابة",
+    "name_en": "Sad Al Ghaba Dist."
+  },
+  {
+    "district_id": 10300014117,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حى الحساء",
+    "name_en": "Al Hisa Dist."
+  },
+  {
+    "district_id": 10300014118,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حي المدينة الصناعية",
+    "name_en": "Industrial City Dist."
+  },
+  {
+    "district_id": 10300014119,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حى المفرحات",
+    "name_en": "Al Mafrahat Dist."
+  },
+  {
+    "district_id": 10300014120,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حي الصويدرة",
+    "name_en": "As Suwaydra Dist."
+  },
+  {
+    "district_id": 10300014121,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حي ابيار الماشي",
+    "name_en": "Abyar Al Mashi Dist."
+  },
+  {
+    "district_id": 10300014122,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حي الفريش",
+    "name_en": "Al Furaysh Dist."
+  },
+  {
+    "district_id": 10300014123,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "حي الـنقـمى",
+    "name_en": "An Ngma Dist."
+  },
+  {
+    "district_id": 10300014124,
+    "city_id": 14,
+    "region_id": 3,
+    "name_ar": "الحرم الشريف",
+    "name_en": "Al Haram  Al Sharif"
   },
   {
     "district_id": 10300199001,
@@ -7019,6 +9329,160 @@
     "region_id": 3,
     "name_ar": "حي العزيزية",
     "name_en": "Al Aziziyah Dist."
+  },
+  {
+    "district_id": 10300288006,
+    "city_id": 288,
+    "region_id": 3,
+    "name_ar": "حى الغزوة",
+    "name_en": "Al Ghazwah Dist."
+  },
+  {
+    "district_id": 10300360001,
+    "city_id": 360,
+    "region_id": 3,
+    "name_ar": "حي المنتزهات",
+    "name_en": "Al Muntazahat Dist."
+  },
+  {
+    "district_id": 10300360002,
+    "city_id": 360,
+    "region_id": 3,
+    "name_ar": "حي الوادى",
+    "name_en": "Al Wadi Dist."
+  },
+  {
+    "district_id": 10300360003,
+    "city_id": 360,
+    "region_id": 3,
+    "name_ar": "حي الورود",
+    "name_en": "Al Wurud Dist."
+  },
+  {
+    "district_id": 10300360004,
+    "city_id": 360,
+    "region_id": 3,
+    "name_ar": "حي النسيم",
+    "name_en": "Al Naseem Dist."
+  },
+  {
+    "district_id": 10300360005,
+    "city_id": 360,
+    "region_id": 3,
+    "name_ar": "حي ج5",
+    "name_en": "C5 Dist."
+  },
+  {
+    "district_id": 10300360006,
+    "city_id": 360,
+    "region_id": 3,
+    "name_ar": "حي الرياض",
+    "name_en": "Ar Riyadh Dist."
+  },
+  {
+    "district_id": 10300360007,
+    "city_id": 360,
+    "region_id": 3,
+    "name_ar": "حي اللجين",
+    "name_en": "Al Lujain Dist."
+  },
+  {
+    "district_id": 10300360008,
+    "city_id": 360,
+    "region_id": 3,
+    "name_ar": "حي الصفا",
+    "name_en": "As Safa Dist."
+  },
+  {
+    "district_id": 10300360009,
+    "city_id": 360,
+    "region_id": 3,
+    "name_ar": "حي ج3",
+    "name_en": "C3 Dist."
+  },
+  {
+    "district_id": 10300360010,
+    "city_id": 360,
+    "region_id": 3,
+    "name_ar": "حي ج4",
+    "name_en": "C4 Dist."
+  },
+  {
+    "district_id": 10300360011,
+    "city_id": 360,
+    "region_id": 3,
+    "name_ar": "حي الشفا",
+    "name_en": "Ash Shifa  Dist."
+  },
+  {
+    "district_id": 10300360012,
+    "city_id": 360,
+    "region_id": 3,
+    "name_ar": "حي الفيصلية",
+    "name_en": "Al Faisaliyah Dist."
+  },
+  {
+    "district_id": 10300360013,
+    "city_id": 360,
+    "region_id": 3,
+    "name_ar": "حي الشروق",
+    "name_en": "Ash Shuruq Dist."
+  },
+  {
+    "district_id": 10300360014,
+    "city_id": 360,
+    "region_id": 3,
+    "name_ar": "حي النهضة",
+    "name_en": "An Nahdah Dist."
+  },
+  {
+    "district_id": 10300360015,
+    "city_id": 360,
+    "region_id": 3,
+    "name_ar": "حي الروضة",
+    "name_en": "Ar Rawdah Dist."
+  },
+  {
+    "district_id": 10300360016,
+    "city_id": 360,
+    "region_id": 3,
+    "name_ar": "حي الروابى",
+    "name_en": "Ar Rawabi Dist."
+  },
+  {
+    "district_id": 10300360017,
+    "city_id": 360,
+    "region_id": 3,
+    "name_ar": "حي السامر",
+    "name_en": "As Samir Dist."
+  },
+  {
+    "district_id": 10300360018,
+    "city_id": 360,
+    "region_id": 3,
+    "name_ar": "حي الخالدية",
+    "name_en": "Al Khalidiyah Dist."
+  },
+  {
+    "district_id": 10300360019,
+    "city_id": 360,
+    "region_id": 3,
+    "name_ar": "حي العلم",
+    "name_en": "Al Alam Dist."
+  },
+  {
+    "district_id": 10300360020,
+    "city_id": 360,
+    "region_id": 3,
+    "name_ar": "حي ج1",
+    "name_en": "C1 Dist."
+  },
+  {
+    "district_id": 10300360021,
+    "city_id": 360,
+    "region_id": 3,
+    "name_ar": "حي الذهب",
+    "name_en": "Al Dhahab Dist."
   },
   {
     "district_id": 10300483001,
@@ -7228,7 +9692,7 @@
     "city_id": 483,
     "region_id": 3,
     "name_ar": "حي الربيع",
-    "name_en": "Al Rabie Dist."
+    "name_en": "Ar Rabie Dist."
   },
   {
     "district_id": 10300483031,
@@ -7263,7 +9727,7 @@
     "city_id": 483,
     "region_id": 3,
     "name_ar": "حي الربوة",
-    "name_en": "Al Rabwah Dist."
+    "name_en": "Ar Rabwah Dist."
   },
   {
     "district_id": 10300483036,
@@ -7465,7 +9929,7 @@
     "district_id": 10300483064,
     "city_id": 483,
     "region_id": 3,
-    "name_ar": "منطقة صناعية",
+    "name_ar": "المنطقة الصناعية",
     "name_en": "Industrial Area"
   },
   {
@@ -7516,6 +9980,13 @@
     "region_id": 3,
     "name_ar": "حي الشاطئ",
     "name_en": "Al Shati Dist."
+  },
+  {
+    "district_id": 10300777001,
+    "city_id": 777,
+    "region_id": 3,
+    "name_ar": "المنطقة الصناعية",
+    "name_en": "Industrial Area"
   },
   {
     "district_id": 10301053001,
@@ -7627,7 +10098,7 @@
     "city_id": 9605,
     "region_id": 3,
     "name_ar": "حي البساتين",
-    "name_en": "Al Basateen Dist."
+    "name_en": "Al Basatin Dist."
   },
   {
     "district_id": 10309605010,
@@ -8047,7 +10518,7 @@
     "city_id": 11,
     "region_id": 4,
     "name_ar": "حي الربيع",
-    "name_en": "Ash Shafaq Dist."
+    "name_en": "Ar Rabie Dist."
   },
   {
     "district_id": 10400011041,
@@ -8229,7 +10700,7 @@
     "city_id": 11,
     "region_id": 4,
     "name_ar": "حي الرحاب",
-    "name_en": "Directions Dist."
+    "name_en": "Al Rehab Dist."
   },
   {
     "district_id": 10400011067,
@@ -8390,14 +10861,14 @@
     "city_id": 80,
     "region_id": 4,
     "name_ar": "المنطقة الصناعية الثانية",
-    "name_en": "2Nd Industrial Area"
+    "name_en": "2nd Industrial Area"
   },
   {
     "district_id": 10400080021,
     "city_id": 80,
     "region_id": 4,
     "name_ar": "المنطقة الصناعية الاولى",
-    "name_en": "1St Industrial Area"
+    "name_en": "1st Industrial Area"
   },
   {
     "district_id": 10400080022,
@@ -8587,13 +11058,6 @@
     "region_id": 4,
     "name_ar": "حي الفيحاء",
     "name_en": "Al Fayha Dist."
-  },
-  {
-    "district_id": 10400080049,
-    "city_id": 80,
-    "region_id": 4,
-    "name_ar": "حي الذهبي",
-    "name_en": "Ad Dahbi Dist."
   },
   {
     "district_id": 10400080050,
@@ -8841,13 +11305,6 @@
     "name_en": "Al Jawharah Dist."
   },
   {
-    "district_id": 10400080085,
-    "city_id": 80,
-    "region_id": 4,
-    "name_ar": "حي الخالدية",
-    "name_en": "Al Khalidiyah Dist."
-  },
-  {
     "district_id": 10400080086,
     "city_id": 80,
     "region_id": 4,
@@ -8895,6 +11352,111 @@
     "region_id": 4,
     "name_ar": "حي الحزم",
     "name_en": "Al Hazm Dist."
+  },
+  {
+    "district_id": 10400955001,
+    "city_id": 955,
+    "region_id": 4,
+    "name_ar": "حي البساتين",
+    "name_en": "Al Basatin Dist."
+  },
+  {
+    "district_id": 10400955002,
+    "city_id": 955,
+    "region_id": 4,
+    "name_ar": "حي المنتزة",
+    "name_en": "Al Montazah Dist."
+  },
+  {
+    "district_id": 10400955003,
+    "city_id": 955,
+    "region_id": 4,
+    "name_ar": "حي الروضة",
+    "name_en": "Al Rawdah Dist."
+  },
+  {
+    "district_id": 10400955004,
+    "city_id": 955,
+    "region_id": 4,
+    "name_ar": "حي الزهرة",
+    "name_en": "Al Zahrah Dist."
+  },
+  {
+    "district_id": 10400955005,
+    "city_id": 955,
+    "region_id": 4,
+    "name_ar": "حي العليا",
+    "name_en": "Al Olaya Dist."
+  },
+  {
+    "district_id": 10400955006,
+    "city_id": 955,
+    "region_id": 4,
+    "name_ar": "حي العزيزية",
+    "name_en": "Al Aziziyah Dist."
+  },
+  {
+    "district_id": 10400955007,
+    "city_id": 955,
+    "region_id": 4,
+    "name_ar": "حي الازهار",
+    "name_en": "Al Azhar Dist."
+  },
+  {
+    "district_id": 10400955008,
+    "city_id": 955,
+    "region_id": 4,
+    "name_ar": "حي النزهة",
+    "name_en": "Al Nuzhah Dist."
+  },
+  {
+    "district_id": 10400955009,
+    "city_id": 955,
+    "region_id": 4,
+    "name_ar": "حي الجزيرة",
+    "name_en": "Al Jazirah Dist."
+  },
+  {
+    "district_id": 10400955010,
+    "city_id": 955,
+    "region_id": 4,
+    "name_ar": "حي النهضة",
+    "name_en": "Al Nahdah Dist."
+  },
+  {
+    "district_id": 10400955011,
+    "city_id": 955,
+    "region_id": 4,
+    "name_ar": "حي الاستراحات",
+    "name_en": "Al Estrahat Dist."
+  },
+  {
+    "district_id": 10400955012,
+    "city_id": 955,
+    "region_id": 4,
+    "name_ar": "حي الربوة",
+    "name_en": "Ar Rabwah Dist."
+  },
+  {
+    "district_id": 10401986001,
+    "city_id": 1986,
+    "region_id": 4,
+    "name_ar": "حي السلام",
+    "name_en": "As Salam Dist."
+  },
+  {
+    "district_id": 10401986002,
+    "city_id": 1986,
+    "region_id": 4,
+    "name_ar": "حي خصيبة",
+    "name_en": "Khusayyibah Dist."
+  },
+  {
+    "district_id": 10401986003,
+    "city_id": 1986,
+    "region_id": 4,
+    "name_ar": "حي البرود",
+    "name_en": "Al Burud Dist."
   },
   {
     "district_id": 10401986004,
@@ -9013,7 +11575,7 @@
     "city_id": 2421,
     "region_id": 4,
     "name_ar": "حي الربوة",
-    "name_en": "Al Rabwah Dist."
+    "name_en": "Ar Rabwah Dist."
   },
   {
     "district_id": 10402421010,
@@ -9091,6 +11653,160 @@
     "region_id": 4,
     "name_ar": "حي الحوطة",
     "name_en": "Al Hutah Dist."
+  },
+  {
+    "district_id": 10402421021,
+    "city_id": 2421,
+    "region_id": 4,
+    "name_ar": "حي المدينة",
+    "name_en": "Al Madinah Dist."
+  },
+  {
+    "district_id": 10402421022,
+    "city_id": 2421,
+    "region_id": 4,
+    "name_ar": "حي النخيل",
+    "name_en": "Al Nakhil Dist."
+  },
+  {
+    "district_id": 10402421023,
+    "city_id": 2421,
+    "region_id": 4,
+    "name_ar": "حي الروابي",
+    "name_en": "Ar Rawabi Dist."
+  },
+  {
+    "district_id": 10402421024,
+    "city_id": 2421,
+    "region_id": 4,
+    "name_ar": "حي الجريف",
+    "name_en": "Al Juraif Dist."
+  },
+  {
+    "district_id": 10402421025,
+    "city_id": 2421,
+    "region_id": 4,
+    "name_ar": "حي الربيع",
+    "name_en": "Ar Rabie Dist."
+  },
+  {
+    "district_id": 10402421026,
+    "city_id": 2421,
+    "region_id": 4,
+    "name_ar": "حي السلام",
+    "name_en": "As Salam Dist."
+  },
+  {
+    "district_id": 10402421027,
+    "city_id": 2421,
+    "region_id": 4,
+    "name_ar": "حي المنار",
+    "name_en": "Al Manar Dist."
+  },
+  {
+    "district_id": 10402421028,
+    "city_id": 2421,
+    "region_id": 4,
+    "name_ar": "حي بهجة",
+    "name_en": "Bahjah Dist."
+  },
+  {
+    "district_id": 10402421029,
+    "city_id": 2421,
+    "region_id": 4,
+    "name_ar": "حي النهضة",
+    "name_en": "An Nahdah Dist."
+  },
+  {
+    "district_id": 10402421030,
+    "city_id": 2421,
+    "region_id": 4,
+    "name_ar": "حي الشنانة الشمالية",
+    "name_en": "Al Shinanah Ash Shamaliyyah Dist."
+  },
+  {
+    "district_id": 10402421031,
+    "city_id": 2421,
+    "region_id": 4,
+    "name_ar": "حي الحمراء",
+    "name_en": "Al Hamra Dist."
+  },
+  {
+    "district_id": 10402421032,
+    "city_id": 2421,
+    "region_id": 4,
+    "name_ar": "حي الالغربي",
+    "name_en": "Al Gharbi Dist."
+  },
+  {
+    "district_id": 10402421033,
+    "city_id": 2421,
+    "region_id": 4,
+    "name_ar": "حي الريان",
+    "name_en": "Ar Rayyan  Dist."
+  },
+  {
+    "district_id": 10402421034,
+    "city_id": 2421,
+    "region_id": 4,
+    "name_ar": "حي الواحة",
+    "name_en": "Al Wahah Dist."
+  },
+  {
+    "district_id": 10402421035,
+    "city_id": 2421,
+    "region_id": 4,
+    "name_ar": "حي سوق الماشيه الجديد",
+    "name_en": "Suq Mashiya Al Jadid Dist."
+  },
+  {
+    "district_id": 10402421036,
+    "city_id": 2421,
+    "region_id": 4,
+    "name_ar": "حي الخليج",
+    "name_en": "Al Khalij Dist."
+  },
+  {
+    "district_id": 10402421037,
+    "city_id": 2421,
+    "region_id": 4,
+    "name_ar": "حي المصيف",
+    "name_en": "Al Masif Dist."
+  },
+  {
+    "district_id": 10402421038,
+    "city_id": 2421,
+    "region_id": 4,
+    "name_ar": "حي الاندلس",
+    "name_en": "Al Andalus Dist."
+  },
+  {
+    "district_id": 10402421039,
+    "city_id": 2421,
+    "region_id": 4,
+    "name_ar": "حي المروج",
+    "name_en": "Al Muruj Dist."
+  },
+  {
+    "district_id": 10402421040,
+    "city_id": 2421,
+    "region_id": 4,
+    "name_ar": "حي الورود",
+    "name_en": "Al Wurud Dist."
+  },
+  {
+    "district_id": 10402421041,
+    "city_id": 2421,
+    "region_id": 4,
+    "name_ar": "حي الفيصلية",
+    "name_en": "Al Faisaliyah Dist."
+  },
+  {
+    "district_id": 10402421042,
+    "city_id": 2421,
+    "region_id": 4,
+    "name_ar": "حي الشنانة الجنوبية",
+    "name_en": "Al Shinanah Al Janubiyah Dist."
   },
   {
     "district_id": 10402448001,
@@ -9212,34 +11928,6 @@
     "name_en": "As Salhiyah Dist."
   },
   {
-    "district_id": 10402467001,
-    "city_id": 2467,
-    "region_id": 4,
-    "name_ar": "حي السلاح",
-    "name_en": "As Silah Dist."
-  },
-  {
-    "district_id": 10402467002,
-    "city_id": 2467,
-    "region_id": 4,
-    "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah Dist."
-  },
-  {
-    "district_id": 10402467003,
-    "city_id": 2467,
-    "region_id": 4,
-    "name_ar": "حي الرفيعة",
-    "name_en": "Ar Rafiah Dist."
-  },
-  {
-    "district_id": 10402467004,
-    "city_id": 2467,
-    "region_id": 4,
-    "name_ar": "حي السحابين الشمالي",
-    "name_en": "As Sahabin Ash Shamali Dist."
-  },
-  {
     "district_id": 10402467005,
     "city_id": 2467,
     "region_id": 4,
@@ -9289,74 +11977,11 @@
     "name_en": "Al Quds Dist."
   },
   {
-    "district_id": 10402467012,
-    "city_id": 2467,
-    "region_id": 4,
-    "name_ar": "حي الصناعية",
-    "name_en": "As Sinaiyah Dist."
-  },
-  {
     "district_id": 10402467013,
     "city_id": 2467,
     "region_id": 4,
     "name_ar": "حي الحزم",
     "name_en": "Al Hazm Dist."
-  },
-  {
-    "district_id": 10402467014,
-    "city_id": 2467,
-    "region_id": 4,
-    "name_ar": "حي المجد",
-    "name_en": "Al Majd Dist."
-  },
-  {
-    "district_id": 10402467015,
-    "city_id": 2467,
-    "region_id": 4,
-    "name_ar": "حي الربوة",
-    "name_en": "Al Rabwah Dist."
-  },
-  {
-    "district_id": 10402467016,
-    "city_id": 2467,
-    "region_id": 4,
-    "name_ar": "حي الياسمين",
-    "name_en": "Al Yasmin Dist."
-  },
-  {
-    "district_id": 10402467017,
-    "city_id": 2467,
-    "region_id": 4,
-    "name_ar": "حي القدس",
-    "name_en": "Al Quds Dist."
-  },
-  {
-    "district_id": 10402467018,
-    "city_id": 2467,
-    "region_id": 4,
-    "name_ar": "حي الربيع",
-    "name_en": "Ar Rabie Dist."
-  },
-  {
-    "district_id": 10402467019,
-    "city_id": 2467,
-    "region_id": 4,
-    "name_ar": "حي الريان",
-    "name_en": "Ar Rayyan Dist."
-  },
-  {
-    "district_id": 10402467020,
-    "city_id": 2467,
-    "region_id": 4,
-    "name_ar": "حي الاندلس",
-    "name_en": "Al Andalus Dist."
-  },
-  {
-    "district_id": 10402467021,
-    "city_id": 2467,
-    "region_id": 4,
-    "name_ar": "حي الخبراء القديمة",
-    "name_en": "Al Khabra Ash Shamali Dist."
   },
   {
     "district_id": 10402467022,
@@ -9369,8 +11994,8 @@
     "district_id": 10402467023,
     "city_id": 2467,
     "region_id": 4,
-    "name_ar": "حي السحابين الجنوبي",
-    "name_en": "As Sahabin Al Janubi Dist."
+    "name_ar": "حي النفل",
+    "name_en": "An Nafl Dist."
   },
   {
     "district_id": 10402481001,
@@ -9478,6 +12103,132 @@
     "name_en": "At Taalim Dist."
   },
   {
+    "district_id": 10402481016,
+    "city_id": 2481,
+    "region_id": 4,
+    "name_ar": "حي السلام",
+    "name_en": "As Salam Dist."
+  },
+  {
+    "district_id": 10402481017,
+    "city_id": 2481,
+    "region_id": 4,
+    "name_ar": "حي العبدلية",
+    "name_en": "Al Abdaliyah Dist."
+  },
+  {
+    "district_id": 10402481018,
+    "city_id": 2481,
+    "region_id": 4,
+    "name_ar": "حي الدحلة",
+    "name_en": "Ad Dahlah Dist."
+  },
+  {
+    "district_id": 10402486001,
+    "city_id": 2486,
+    "region_id": 4,
+    "name_ar": "حي السحابين الشمالي",
+    "name_en": "As Sahabin Ash Shamali Dist."
+  },
+  {
+    "district_id": 10402486002,
+    "city_id": 2486,
+    "region_id": 4,
+    "name_ar": "حي الخبراء القديمة",
+    "name_en": "Al Khabra Al Qadima Dist."
+  },
+  {
+    "district_id": 10402486003,
+    "city_id": 2486,
+    "region_id": 4,
+    "name_ar": "حي الياسمين",
+    "name_en": "Al Yasmin Dist."
+  },
+  {
+    "district_id": 10402486004,
+    "city_id": 2486,
+    "region_id": 4,
+    "name_ar": "حي النسيم",
+    "name_en": "Al Naseem Dist."
+  },
+  {
+    "district_id": 10402486005,
+    "city_id": 2486,
+    "region_id": 4,
+    "name_ar": "حي الورود",
+    "name_en": "Al Wurud Dist."
+  },
+  {
+    "district_id": 10402486006,
+    "city_id": 2486,
+    "region_id": 4,
+    "name_ar": "حي الأندلس",
+    "name_en": "Al Andalus Dist."
+  },
+  {
+    "district_id": 10402486007,
+    "city_id": 2486,
+    "region_id": 4,
+    "name_ar": "حي السحابين الجنوبي",
+    "name_en": "As Sahabin Al Janubi Dist."
+  },
+  {
+    "district_id": 10402486008,
+    "city_id": 2486,
+    "region_id": 4,
+    "name_ar": "حي الربوة",
+    "name_en": "Ar Rabwah Dist."
+  },
+  {
+    "district_id": 10402486009,
+    "city_id": 2486,
+    "region_id": 4,
+    "name_ar": "حي القدس",
+    "name_en": "Al Quds Dist."
+  },
+  {
+    "district_id": 10402486010,
+    "city_id": 2486,
+    "region_id": 4,
+    "name_ar": "حي الملاح",
+    "name_en": "Al Mallah Dist."
+  },
+  {
+    "district_id": 10402486011,
+    "city_id": 2486,
+    "region_id": 4,
+    "name_ar": "حى الرفيعة",
+    "name_en": "Ar Rafiah Dist."
+  },
+  {
+    "district_id": 10402486012,
+    "city_id": 2486,
+    "region_id": 4,
+    "name_ar": "حي الريان",
+    "name_en": "Ar Rayan Dist."
+  },
+  {
+    "district_id": 10402486013,
+    "city_id": 2486,
+    "region_id": 4,
+    "name_ar": "حي الروضة",
+    "name_en": "Ar Rawdah Dist."
+  },
+  {
+    "district_id": 10402486014,
+    "city_id": 2486,
+    "region_id": 4,
+    "name_ar": "حي الربيع",
+    "name_en": "Ar Rabie Dist."
+  },
+  {
+    "district_id": 10402486015,
+    "city_id": 2486,
+    "region_id": 4,
+    "name_ar": "حي الصناعية",
+    "name_en": "As Sinaiyah Dist."
+  },
+  {
     "district_id": 10402629001,
     "city_id": 2629,
     "region_id": 4,
@@ -9485,32 +12236,11 @@
     "name_en": "Al Baida Dist."
   },
   {
-    "district_id": 10402629002,
-    "city_id": 2629,
-    "region_id": 4,
-    "name_ar": "حي الهلالية",
-    "name_en": "Al Halaliyah Dist."
-  },
-  {
     "district_id": 10402629003,
     "city_id": 2629,
     "region_id": 4,
     "name_ar": "حي السلاح",
     "name_en": "As Silah Dist."
-  },
-  {
-    "district_id": 10402629004,
-    "city_id": 2629,
-    "region_id": 4,
-    "name_ar": "حي ابن خلدون",
-    "name_en": "Ibn Khaldun Dist."
-  },
-  {
-    "district_id": 10402630001,
-    "city_id": 2630,
-    "region_id": 4,
-    "name_ar": "حي الروضة",
-    "name_en": "Ar Rawdah Dist."
   },
   {
     "district_id": 10402630002,
@@ -9527,11 +12257,25 @@
     "name_en": "Al Aziziyah Dist."
   },
   {
+    "district_id": 10402630004,
+    "city_id": 2630,
+    "region_id": 4,
+    "name_ar": "حي الهلالية",
+    "name_en": "Al Halaliyah Dist."
+  },
+  {
     "district_id": 10402630005,
     "city_id": 2630,
     "region_id": 4,
-    "name_ar": "حي ابن خلدون",
-    "name_en": "Ibn Khaldun Dist."
+    "name_ar": "حي الخليج",
+    "name_en": "Al Khalij Dist."
+  },
+  {
+    "district_id": 10402630006,
+    "city_id": 2630,
+    "region_id": 4,
+    "name_ar": "حي الملك عبدالله",
+    "name_en": "King Abdullah Dist."
   },
   {
     "district_id": 10402630007,
@@ -9544,15 +12288,15 @@
     "district_id": 10402630008,
     "city_id": 2630,
     "region_id": 4,
-    "name_ar": "حي الفهد",
-    "name_en": "Al Fahd Dist."
+    "name_ar": "حي النخيل",
+    "name_en": "Al Nakhil Dist."
   },
   {
     "district_id": 10402630009,
     "city_id": 2630,
     "region_id": 4,
-    "name_ar": "حي البلد القديم",
-    "name_en": "Al Balad Al Qadim Dist."
+    "name_ar": "حي الاسكان",
+    "name_en": "Al Iskan Dist."
   },
   {
     "district_id": 10402630010,
@@ -9565,8 +12309,8 @@
     "district_id": 10402630011,
     "city_id": 2630,
     "region_id": 4,
-    "name_ar": "مخطط المحمدية",
-    "name_en": "Al Muhammadiyah Subdivision Plan"
+    "name_ar": "حي المحمدية",
+    "name_en": "Al Muhammadiyah Dist."
   },
   {
     "district_id": 10402630012,
@@ -9574,6 +12318,90 @@
     "region_id": 4,
     "name_ar": "حي القادسية",
     "name_en": "Al Qadisiyah Dist."
+  },
+  {
+    "district_id": 10402630013,
+    "city_id": 2630,
+    "region_id": 4,
+    "name_ar": "حي الصناعية",
+    "name_en": "As Sinaiyah Dist."
+  },
+  {
+    "district_id": 10402630014,
+    "city_id": 2630,
+    "region_id": 4,
+    "name_ar": "حي الريان",
+    "name_en": "Ar Rayyan Dist."
+  },
+  {
+    "district_id": 10402630015,
+    "city_id": 2630,
+    "region_id": 4,
+    "name_ar": "حي الامل",
+    "name_en": "Al Amal Dist."
+  },
+  {
+    "district_id": 10402630016,
+    "city_id": 2630,
+    "region_id": 4,
+    "name_ar": "حي الرياض",
+    "name_en": "Ar Riyadh Dist."
+  },
+  {
+    "district_id": 10402630017,
+    "city_id": 2630,
+    "region_id": 4,
+    "name_ar": "حي الديرة",
+    "name_en": "Al Dirah Dist."
+  },
+  {
+    "district_id": 10402630018,
+    "city_id": 2630,
+    "region_id": 4,
+    "name_ar": "حي المجد",
+    "name_en": "Al Majd Dist."
+  },
+  {
+    "district_id": 10402630019,
+    "city_id": 2630,
+    "region_id": 4,
+    "name_ar": "حي الربوة",
+    "name_en": "Ar Rabwah Dist."
+  },
+  {
+    "district_id": 10402630020,
+    "city_id": 2630,
+    "region_id": 4,
+    "name_ar": "حي الحمراء",
+    "name_en": "Al Hamra Dist."
+  },
+  {
+    "district_id": 10402630021,
+    "city_id": 2630,
+    "region_id": 4,
+    "name_ar": "حي الروابي",
+    "name_en": "Ar Rawabi Dist."
+  },
+  {
+    "district_id": 10402630022,
+    "city_id": 2630,
+    "region_id": 4,
+    "name_ar": "حي التقنية",
+    "name_en": "Al Taqniyah Dist."
+  },
+  {
+    "district_id": 10402630023,
+    "city_id": 2630,
+    "region_id": 4,
+    "name_ar": "حي المنتزة",
+    "name_en": "Al Montazah Dist."
+  },
+  {
+    "district_id": 10402777001,
+    "city_id": 2777,
+    "region_id": 4,
+    "name_ar": "حي الخبيب",
+    "name_en": "Al Khabib Dist."
   },
   {
     "district_id": 10402777002,
@@ -9595,6 +12423,13 @@
     "region_id": 4,
     "name_ar": "حي الشفاء",
     "name_en": "Ash Shifa Dist."
+  },
+  {
+    "district_id": 10402777005,
+    "city_id": 2777,
+    "region_id": 4,
+    "name_ar": "حي الشماس",
+    "name_en": "Al Shamas Dist."
   },
   {
     "district_id": 10402777006,
@@ -9688,6 +12523,160 @@
     "name_en": "Al Mutawakil Dist."
   },
   {
+    "district_id": 10402988001,
+    "city_id": 2988,
+    "region_id": 4,
+    "name_ar": "حي العزيزية",
+    "name_en": "Al Aziziyah Dist."
+  },
+  {
+    "district_id": 10402988002,
+    "city_id": 2988,
+    "region_id": 4,
+    "name_ar": "حي الاندلس",
+    "name_en": "Al Andalus Dist."
+  },
+  {
+    "district_id": 10402988003,
+    "city_id": 2988,
+    "region_id": 4,
+    "name_ar": "حي المصيف",
+    "name_en": "Al Masif Dist."
+  },
+  {
+    "district_id": 10402988004,
+    "city_id": 2988,
+    "region_id": 4,
+    "name_ar": "حي اليرموك",
+    "name_en": "Al Yarmuk Dist."
+  },
+  {
+    "district_id": 10402988005,
+    "city_id": 2988,
+    "region_id": 4,
+    "name_ar": "حي الروضة",
+    "name_en": "Ar Rawdah Dist."
+  },
+  {
+    "district_id": 10402988006,
+    "city_id": 2988,
+    "region_id": 4,
+    "name_ar": "حي الخليج",
+    "name_en": "Al Khalij Dist."
+  },
+  {
+    "district_id": 10402988007,
+    "city_id": 2988,
+    "region_id": 4,
+    "name_ar": "حي الفيحاء",
+    "name_en": "Al Fayha Dist."
+  },
+  {
+    "district_id": 10402988008,
+    "city_id": 2988,
+    "region_id": 4,
+    "name_ar": "حي الوادي",
+    "name_en": "Al Wadi Dist."
+  },
+  {
+    "district_id": 10402988009,
+    "city_id": 2988,
+    "region_id": 4,
+    "name_ar": "حي الربوة",
+    "name_en": "Ar Rabwah Dist."
+  },
+  {
+    "district_id": 10402988010,
+    "city_id": 2988,
+    "region_id": 4,
+    "name_ar": "حي المروج",
+    "name_en": "Al Muruj Dist."
+  },
+  {
+    "district_id": 10402988011,
+    "city_id": 2988,
+    "region_id": 4,
+    "name_ar": "حي الملك فهد",
+    "name_en": "King Fahd Dist."
+  },
+  {
+    "district_id": 10402988012,
+    "city_id": 2988,
+    "region_id": 4,
+    "name_ar": "حي الازدهار",
+    "name_en": "Al Izdihar Dist."
+  },
+  {
+    "district_id": 10402988013,
+    "city_id": 2988,
+    "region_id": 4,
+    "name_ar": "حي القدس",
+    "name_en": "Al Quds Dist."
+  },
+  {
+    "district_id": 10402988014,
+    "city_id": 2988,
+    "region_id": 4,
+    "name_ar": "حي السعادة",
+    "name_en": "As Saadah Dist."
+  },
+  {
+    "district_id": 10402988015,
+    "city_id": 2988,
+    "region_id": 4,
+    "name_ar": "حي الشفاء",
+    "name_en": "Ash Shifa Dist."
+  },
+  {
+    "district_id": 10402988016,
+    "city_id": 2988,
+    "region_id": 4,
+    "name_ar": "حي الياسمين",
+    "name_en": "Al Yasmin Dist."
+  },
+  {
+    "district_id": 10402988017,
+    "city_id": 2988,
+    "region_id": 4,
+    "name_ar": "حي الملك عبدالله",
+    "name_en": "King Abdullah Dist."
+  },
+  {
+    "district_id": 10402988018,
+    "city_id": 2988,
+    "region_id": 4,
+    "name_ar": "حي التعاون",
+    "name_en": "At Taawun Dist."
+  },
+  {
+    "district_id": 10402988019,
+    "city_id": 2988,
+    "region_id": 4,
+    "name_ar": "حي السلام",
+    "name_en": "As Salam Dist."
+  },
+  {
+    "district_id": 10402988020,
+    "city_id": 2988,
+    "region_id": 4,
+    "name_ar": "حي المنار",
+    "name_en": "Al Manar Dist."
+  },
+  {
+    "district_id": 10402988021,
+    "city_id": 2988,
+    "region_id": 4,
+    "name_ar": "حي الريان",
+    "name_en": "Ar Rayan Dist."
+  },
+  {
+    "district_id": 10402988022,
+    "city_id": 2988,
+    "region_id": 4,
+    "name_ar": "حي النهضة",
+    "name_en": "An Nahdah Dist."
+  },
+  {
     "district_id": 10403030001,
     "city_id": 3030,
     "region_id": 4,
@@ -9714,6 +12703,132 @@
     "region_id": 4,
     "name_ar": "كفت",
     "name_en": "Kofat"
+  },
+  {
+    "district_id": 10403151001,
+    "city_id": 3151,
+    "region_id": 4,
+    "name_ar": "حي الرابية",
+    "name_en": "Ar Rabiyah Dist."
+  },
+  {
+    "district_id": 10403151002,
+    "city_id": 3151,
+    "region_id": 4,
+    "name_ar": "حي السلام",
+    "name_en": "As Salam Dist."
+  },
+  {
+    "district_id": 10403151003,
+    "city_id": 3151,
+    "region_id": 4,
+    "name_ar": "حي النخيل",
+    "name_en": "Al Nakhil Dist."
+  },
+  {
+    "district_id": 10403151004,
+    "city_id": 3151,
+    "region_id": 4,
+    "name_ar": "حي الربوة",
+    "name_en": "Ar Rabwah Dist."
+  },
+  {
+    "district_id": 10403151005,
+    "city_id": 3151,
+    "region_id": 4,
+    "name_ar": "حي المنتزه",
+    "name_en": "Al Muntazah Dist."
+  },
+  {
+    "district_id": 10403151006,
+    "city_id": 3151,
+    "region_id": 4,
+    "name_ar": "حي الجزيرة",
+    "name_en": "Al Jazirah Dist."
+  },
+  {
+    "district_id": 10403151007,
+    "city_id": 3151,
+    "region_id": 4,
+    "name_ar": "حي الملك عبدالله",
+    "name_en": "King Abdullah Dist."
+  },
+  {
+    "district_id": 10403151008,
+    "city_id": 3151,
+    "region_id": 4,
+    "name_ar": "حي غرناطة",
+    "name_en": "Ghirnatah Dist."
+  },
+  {
+    "district_id": 10403151009,
+    "city_id": 3151,
+    "region_id": 4,
+    "name_ar": "حي ج1",
+    "name_en": "C1 Dist."
+  },
+  {
+    "district_id": 10403151010,
+    "city_id": 3151,
+    "region_id": 4,
+    "name_ar": "حي المحمدية",
+    "name_en": "Al Muhammadiyah Dist."
+  },
+  {
+    "district_id": 10403151011,
+    "city_id": 3151,
+    "region_id": 4,
+    "name_ar": "حي الريان",
+    "name_en": "Ar Rayan Dist."
+  },
+  {
+    "district_id": 10403151012,
+    "city_id": 3151,
+    "region_id": 4,
+    "name_ar": "حي الرمثية",
+    "name_en": "Ar Ramthyah Dist."
+  },
+  {
+    "district_id": 10403151013,
+    "city_id": 3151,
+    "region_id": 4,
+    "name_ar": "حي الغربية",
+    "name_en": "Al Gharbiyyah Dist."
+  },
+  {
+    "district_id": 10403151014,
+    "city_id": 3151,
+    "region_id": 4,
+    "name_ar": "حي الصفا",
+    "name_en": "As Safa Dist."
+  },
+  {
+    "district_id": 10403151015,
+    "city_id": 3151,
+    "region_id": 4,
+    "name_ar": "حي القادسية",
+    "name_en": "Al Qadisiyah Dist."
+  },
+  {
+    "district_id": 10403151016,
+    "city_id": 3151,
+    "region_id": 4,
+    "name_ar": "حي حطين",
+    "name_en": "Hiteen Dist."
+  },
+  {
+    "district_id": 10403151017,
+    "city_id": 3151,
+    "region_id": 4,
+    "name_ar": "حي الوادي",
+    "name_en": "Al Wadi Dist."
+  },
+  {
+    "district_id": 10403151018,
+    "city_id": 3151,
+    "region_id": 4,
+    "name_ar": "حي اليرموك",
+    "name_en": "Al Yarmuk Dist."
   },
   {
     "district_id": 10410872001,
@@ -9776,7 +12891,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي الورود الثاني",
-    "name_en": "Al Wurud 2Nd Dist."
+    "name_en": "Al Wurud 2nd Dist."
   },
   {
     "district_id": 10500012006,
@@ -9825,7 +12940,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي المعلمين",
-    "name_en": "Al Muallimeen  Dist."
+    "name_en": "Al Muallimeen Dist."
   },
   {
     "district_id": 10500012013,
@@ -9853,14 +12968,14 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي العزيزية الثاني",
-    "name_en": "Al Aziziyah 2Nd Dist."
+    "name_en": "Al Aziziyah 2nd Dist."
   },
   {
     "district_id": 10500012017,
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي الحمراء الثالث",
-    "name_en": "Al Hamra 3Rd Dist."
+    "name_en": "Al Hamra 3rd Dist."
   },
   {
     "district_id": 10500012018,
@@ -9912,13 +13027,6 @@
     "name_en": "As Sahafah Dist."
   },
   {
-    "district_id": 10500012025,
-    "city_id": 12,
-    "region_id": 5,
-    "name_ar": "حي الزهراء",
-    "name_en": "Az Zahra Dist."
-  },
-  {
     "district_id": 10500012026,
     "city_id": 12,
     "region_id": 5,
@@ -9937,7 +13045,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي الحمراء الثاني",
-    "name_en": "Al Hamra 2Nd Dist."
+    "name_en": "Al Hamra 2nd Dist."
   },
   {
     "district_id": 10500012029,
@@ -9972,21 +13080,21 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي مجمع الدوائر الحكومية الثاني",
-    "name_en": "Government Departments Complex 2Nd  Dist."
+    "name_en": "Government Departments Complex 2nd  Dist."
   },
   {
     "district_id": 10500012034,
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي المزروع الثاني",
-    "name_en": "Al Mazrooa 2Nd Dist."
+    "name_en": "Al Mazrooa 2nd Dist."
   },
   {
     "district_id": 10500012035,
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي الورود الثالث",
-    "name_en": "Al Wurud 3Rd Dist."
+    "name_en": "Al Wurud 3rd Dist."
   },
   {
     "district_id": 10500012036,
@@ -10028,7 +13136,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي المزروع الاول",
-    "name_en": "Al Mazrooa 1St Dist."
+    "name_en": "Al Mazrooa 1st Dist."
   },
   {
     "district_id": 10500012042,
@@ -10049,7 +13157,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي المروج الجنوبي",
-    "name_en": "Al Muruj Al Junubi Dist."
+    "name_en": "Al Muruj Southern Dist."
   },
   {
     "district_id": 10500012045,
@@ -10063,7 +13171,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي الحمراء الأول",
-    "name_en": "Al Hamra 1St Dist."
+    "name_en": "Al Hamra 1st Dist."
   },
   {
     "district_id": 10500012047,
@@ -10077,14 +13185,14 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي العزيزية الأول",
-    "name_en": "Al Aziziyah 1St Dist."
+    "name_en": "Al Aziziyah 1st Dist."
   },
   {
     "district_id": 10500012049,
     "city_id": 12,
     "region_id": 5,
-    "name_ar": "جامعة الملك فيصل الأول",
-    "name_en": "King Faisal University 1St"
+    "name_ar": "حي جامعة الملك فيصل الأول",
+    "name_en": "King Faisal University 1st Dist."
   },
   {
     "district_id": 10500012050,
@@ -10105,7 +13213,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي منسوبي التعليم الأول",
-    "name_en": "Mansubi Al Taleem 1St Dist."
+    "name_en": "Mansubi Al Taleem 1st Dist."
   },
   {
     "district_id": 10500012053,
@@ -10182,7 +13290,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي السلمانية الثاني",
-    "name_en": "Al Salmaniyah Second Dist."
+    "name_en": "Al Salmaniyah 2nd Dist."
   },
   {
     "district_id": 10500012064,
@@ -10195,15 +13303,15 @@
     "district_id": 10500012065,
     "city_id": 12,
     "region_id": 5,
-    "name_ar": "جامعة الملك فيصل الثالث",
-    "name_en": "King Faisal University 3Rd"
+    "name_ar": "حي جامعة الملك فيصل الثالث",
+    "name_en": "King Faisal University 3rd Dist."
   },
   {
     "district_id": 10500012066,
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي الإسكان الأول",
-    "name_en": "Al Iskan 1St Dist."
+    "name_en": "Al Iskan 1st Dist."
   },
   {
     "district_id": 10500012067,
@@ -10224,28 +13332,28 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي السلمانية الرابع",
-    "name_en": "Al Salmaniyah Forth Dist."
+    "name_en": "Al Salmaniyah 4th Dist."
   },
   {
     "district_id": 10500012070,
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي منسوبي التعليم الثاني",
-    "name_en": "Mansubi Al Taleem 2Nd Dist."
+    "name_en": "Mansubi Al Taleem 2nd Dist."
   },
   {
     "district_id": 10500012071,
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي الورود الأول",
-    "name_en": "Al Wurud 1St Dist."
+    "name_en": "Al Wurud 1st Dist."
   },
   {
     "district_id": 10500012072,
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي الفيصلية الثاني",
-    "name_en": "Al Faisaliyah 2Nd Dist."
+    "name_en": "Al Faisaliyah 2nd Dist."
   },
   {
     "district_id": 10500012073,
@@ -10273,7 +13381,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي السلمانية الثالث",
-    "name_en": "Al Salmaniyah Third Dist."
+    "name_en": "Al Salmaniyah 3rd Dist."
   },
   {
     "district_id": 10500012077,
@@ -10336,7 +13444,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي السلمانية الأول",
-    "name_en": "Al Salmaniyah First Dist."
+    "name_en": "Al Salmaniyah 1st Dist."
   },
   {
     "district_id": 10500012086,
@@ -10364,28 +13472,28 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي الفيصلية الأول",
-    "name_en": "Al Faisaliyah 1St Dist."
+    "name_en": "Al Faisaliyah 1st Dist."
   },
   {
     "district_id": 10500012090,
     "city_id": 12,
     "region_id": 5,
-    "name_ar": "حي وسط الهفوف التاريخي",
-    "name_en": "Historical Center Hafuf Dist."
+    "name_ar": "حي الرفعة الجنوبية",
+    "name_en": "Ar Refah Southern Dist."
   },
   {
     "district_id": 10500012091,
     "city_id": 12,
     "region_id": 5,
-    "name_ar": "جامعة الملك فيصل الثاني",
-    "name_en": "King Faisal University 2Nd"
+    "name_ar": "حي جامعة الملك فيصل الثاني",
+    "name_en": "King Faisal University 2nd Dist."
   },
   {
     "district_id": 10500012092,
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي الإسكان الثاني",
-    "name_en": "Al Iskan 2Nd Dist."
+    "name_en": "Al Iskan 2nd Dist."
   },
   {
     "district_id": 10500012093,
@@ -10399,7 +13507,7 @@
     "city_id": 12,
     "region_id": 5,
     "name_ar": "حي المروج الشمالي",
-    "name_en": "Al Muruj Al Shimali Dist."
+    "name_en": "Al Muruj Northern Dist."
   },
   {
     "district_id": 10500012095,
@@ -10412,8 +13520,43 @@
     "district_id": 10500012096,
     "city_id": 12,
     "region_id": 5,
-    "name_ar": "المنيزله",
-    "name_en": "Al Munaizilah"
+    "name_ar": "حي الطالعية",
+    "name_en": "Al Talayah Dist."
+  },
+  {
+    "district_id": 10500012097,
+    "city_id": 12,
+    "region_id": 5,
+    "name_ar": "حي النعاثل",
+    "name_en": "Al Naathel Dist."
+  },
+  {
+    "district_id": 10500012098,
+    "city_id": 12,
+    "region_id": 5,
+    "name_ar": "حي الكوت",
+    "name_en": "Al Koot Dist."
+  },
+  {
+    "district_id": 10500012099,
+    "city_id": 12,
+    "region_id": 5,
+    "name_ar": "حي الرفعة الشمالية",
+    "name_en": "Ar Refah Northern Dist."
+  },
+  {
+    "district_id": 10500012100,
+    "city_id": 12,
+    "region_id": 5,
+    "name_ar": "حي الزهراء",
+    "name_en": "Az Zahra Dist."
+  },
+  {
+    "district_id": 10500012101,
+    "city_id": 12,
+    "region_id": 5,
+    "name_ar": "حي العسيلة",
+    "name_en": "Al Aseelah Dist."
   },
   {
     "district_id": 10500013001,
@@ -10434,7 +13577,7 @@
     "city_id": 13,
     "region_id": 5,
     "name_ar": "حي الصناعية الاولى",
-    "name_en": "1St Industrial Dist."
+    "name_en": "1st Industrial Dist."
   },
   {
     "district_id": 10500013004,
@@ -10700,7 +13843,7 @@
     "city_id": 13,
     "region_id": 5,
     "name_ar": "المدينة الصناعية الثانية",
-    "name_en": "2Nd Industrial City"
+    "name_en": "2nd Industrial City"
   },
   {
     "district_id": 10500013042,
@@ -10987,7 +14130,7 @@
     "city_id": 13,
     "region_id": 5,
     "name_ar": "المدينة الصناعية الثالثة",
-    "name_en": "3Rd Industrial City"
+    "name_en": "3rd Industrial City"
   },
   {
     "district_id": 10500013084,
@@ -10995,6 +14138,34 @@
     "region_id": 5,
     "name_ar": "مدينة الملك سلمان للطاقة",
     "name_en": "King Salman Energy Park"
+  },
+  {
+    "district_id": 10500013085,
+    "city_id": 13,
+    "region_id": 5,
+    "name_ar": "حي الإسكان الجنوبي",
+    "name_en": "Al Iskan Al Janubi Dist."
+  },
+  {
+    "district_id": 10500013086,
+    "city_id": 13,
+    "region_id": 5,
+    "name_ar": "حي العروبة",
+    "name_en": "Al Urubah Dist."
+  },
+  {
+    "district_id": 10500013087,
+    "city_id": 13,
+    "region_id": 5,
+    "name_ar": "حي الاسكان الشمالي",
+    "name_en": "Al Iskan Northren Dist."
+  },
+  {
+    "district_id": 10500013088,
+    "city_id": 13,
+    "region_id": 5,
+    "name_ar": "حي الجود",
+    "name_en": "Al Jud Dist."
   },
   {
     "district_id": 10500031001,
@@ -11557,11 +14728,81 @@
     "name_en": "Al Wurud Dist."
   },
   {
+    "district_id": 10500055001,
+    "city_id": 55,
+    "region_id": 5,
+    "name_ar": "حي الروضة",
+    "name_en": "Ar Rawdah Dist."
+  },
+  {
+    "district_id": 10500055002,
+    "city_id": 55,
+    "region_id": 5,
+    "name_ar": "حي الفيصلية",
+    "name_en": "Al Faisaliyah Dist."
+  },
+  {
+    "district_id": 10500055003,
+    "city_id": 55,
+    "region_id": 5,
+    "name_ar": "حي المحمدية",
+    "name_en": "Al Muhammadiyah Dist."
+  },
+  {
+    "district_id": 10500055004,
+    "city_id": 55,
+    "region_id": 5,
+    "name_ar": "حي النسيم",
+    "name_en": "Al Naseem Dist."
+  },
+  {
+    "district_id": 10500055005,
+    "city_id": 55,
+    "region_id": 5,
+    "name_ar": "حي الشفاء",
+    "name_en": "Ash Shifa Dist."
+  },
+  {
+    "district_id": 10500055006,
+    "city_id": 55,
+    "region_id": 5,
+    "name_ar": "حي الأندلس",
+    "name_en": "Al Andalus Dist."
+  },
+  {
+    "district_id": 10500055007,
+    "city_id": 55,
+    "region_id": 5,
+    "name_ar": "حي العزيزية",
+    "name_en": "Al Aziziyah Dist."
+  },
+  {
+    "district_id": 10500055008,
+    "city_id": 55,
+    "region_id": 5,
+    "name_ar": "حي الهداية",
+    "name_en": "Al Hidaya Dist."
+  },
+  {
+    "district_id": 10500055009,
+    "city_id": 55,
+    "region_id": 5,
+    "name_ar": "حي الصناعية",
+    "name_en": "As Sinaiyah Dist."
+  },
+  {
+    "district_id": 10500055010,
+    "city_id": 55,
+    "region_id": 5,
+    "name_ar": "حي الخالدية",
+    "name_en": "Al Khalidiyah Dist."
+  },
+  {
     "district_id": 10500067003,
     "city_id": 67,
     "region_id": 5,
     "name_ar": "حي البديع",
-    "name_en": "Al Badia Dist."
+    "name_en": "Al Badi Dist."
   },
   {
     "district_id": 10500067004,
@@ -12163,7 +15404,7 @@
     "city_id": 113,
     "region_id": 5,
     "name_ar": "حي غرناطة",
-    "name_en": "Granada Dist."
+    "name_en": "Ghirnatah Dist."
   },
   {
     "district_id": 10500113017,
@@ -12177,7 +15418,7 @@
     "city_id": 113,
     "region_id": 5,
     "name_ar": "حي الربوة",
-    "name_en": "Al Rabwah Dist."
+    "name_en": "Ar Rabwah Dist."
   },
   {
     "district_id": 10500113019,
@@ -12240,7 +15481,7 @@
     "city_id": 113,
     "region_id": 5,
     "name_ar": "المنطقة الصناعية الاولى",
-    "name_en": "1St Industrial Area"
+    "name_en": "1st Industrial Area"
   },
   {
     "district_id": 10500113028,
@@ -12268,14 +15509,14 @@
     "city_id": 113,
     "region_id": 5,
     "name_ar": "المنطقة الصناعية الثانية",
-    "name_en": "2Nd Industrial Area"
+    "name_en": "2nd Industrial Area"
   },
   {
     "district_id": 10500113032,
     "city_id": 113,
     "region_id": 5,
     "name_ar": "المنطقة الصناعية الثالثة",
-    "name_en": "3Rd Industrial Area"
+    "name_en": "3rd Industrial Area"
   },
   {
     "district_id": 10500113033,
@@ -12404,6 +15645,13 @@
     "name_en": "Al Aziziyah Dist."
   },
   {
+    "district_id": 10500115006,
+    "city_id": 115,
+    "region_id": 5,
+    "name_ar": "حي ج4",
+    "name_en": "C4 Dist."
+  },
+  {
     "district_id": 10500115007,
     "city_id": 115,
     "region_id": 5,
@@ -12509,11 +15757,18 @@
     "name_en": "King Fahd University Of Petroleum And Minerals"
   },
   {
+    "district_id": 10500227013,
+    "city_id": 227,
+    "region_id": 5,
+    "name_ar": "أجيال",
+    "name_en": "Ajyal"
+  },
+  {
     "district_id": 10500243001,
     "city_id": 243,
     "region_id": 5,
     "name_ar": "حي الربوة",
-    "name_en": "Al Rabwah Dist."
+    "name_en": "Ar Rabwah Dist."
   },
   {
     "district_id": 10500243002,
@@ -12829,6 +16084,223 @@
     "region_id": 5,
     "name_ar": "حي الجبل",
     "name_en": "Al Jabal Dist."
+  },
+  {
+    "district_id": 10502038001,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "بلدة المطيرفي",
+    "name_en": "Al Mutayrifi"
+  },
+  {
+    "district_id": 10502038002,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "بلدة الشقيق الغربية",
+    "name_en": "Ash Shaqiq Western"
+  },
+  {
+    "district_id": 10502038003,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "بلدة الوزية",
+    "name_en": "Al Wazyah"
+  },
+  {
+    "district_id": 10502038004,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "الحي الرابع",
+    "name_en": "Al Rabea Dist."
+  },
+  {
+    "district_id": 10502038005,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "الحي الاول",
+    "name_en": "Al Awal Dist.\r\nAl Awal Dist."
+  },
+  {
+    "district_id": 10502038006,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "الحي الثاني",
+    "name_en": "Al Thani Dist."
+  },
+  {
+    "district_id": 10502038007,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "الحي الثالث",
+    "name_en": "Al Thalith Dist."
+  },
+  {
+    "district_id": 10502038008,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "حي البساتين",
+    "name_en": "Al Basatin Dist."
+  },
+  {
+    "district_id": 10502038009,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "بلدة القرين",
+    "name_en": "Al Qaren"
+  },
+  {
+    "district_id": 10502038010,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "حي اشبيلية",
+    "name_en": "Ishbiliyah Dist."
+  },
+  {
+    "district_id": 10502038011,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "بلدة جليجلة",
+    "name_en": "Julijlah"
+  },
+  {
+    "district_id": 10502038012,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "حي القادسية",
+    "name_en": "Al Qadisiyah Dist."
+  },
+  {
+    "district_id": 10502038013,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "حي اليرموك",
+    "name_en": "Al Yarmuk Dist."
+  },
+  {
+    "district_id": 10502038014,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "حي الصفا الرابع",
+    "name_en": "As Safa 4th Dist."
+  },
+  {
+    "district_id": 10502038015,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "حي الندى",
+    "name_en": "An Nada Dist."
+  },
+  {
+    "district_id": 10502038016,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "حي الاسكان",
+    "name_en": "Al Iskan Dist."
+  },
+  {
+    "district_id": 10502038017,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "حي الصفا الثاني",
+    "name_en": "As Safa 2nd Dist."
+  },
+  {
+    "district_id": 10502038018,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "حي الصفا الثالث",
+    "name_en": "As Safa 3rd Dist."
+  },
+  {
+    "district_id": 10502038019,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "حي الصفا الاول",
+    "name_en": "As Safa 1st Dist."
+  },
+  {
+    "district_id": 10502038020,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "بلدة الجرن",
+    "name_en": "Al Jarn"
+  },
+  {
+    "district_id": 10502038021,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "حي الصناعية",
+    "name_en": "As Sinaiyah Dist."
+  },
+  {
+    "district_id": 10502038022,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "حي الرابية",
+    "name_en": "Ar Rabiyah Dist."
+  },
+  {
+    "district_id": 10502038023,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "حي ضاحية الامير سلطان الجنوبية",
+    "name_en": "Dahiyat Prince Sultan Southern Dist."
+  },
+  {
+    "district_id": 10502038024,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "مجمع الدوائر الحكومية",
+    "name_en": "Government Departments Complex"
+  },
+  {
+    "district_id": 10502038025,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "حي العيون الشمالية",
+    "name_en": "Al Oyon Southern Dist."
+  },
+  {
+    "district_id": 10502038026,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "بلدة العوضية",
+    "name_en": "Al Awadhyah"
+  },
+  {
+    "district_id": 10502038027,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "وسط العيون",
+    "name_en": "Wassat Al Oyon"
+  },
+  {
+    "district_id": 10502038028,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "بلدة المراح",
+    "name_en": "Al Marah"
+  },
+  {
+    "district_id": 10502038029,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "حي ضاحية الامير سلطان الشمالية",
+    "name_en": "Dahiyat Prince Sultan Northern Dist."
+  },
+  {
+    "district_id": 10502038030,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "حي العيون الجنوبية",
+    "name_en": "Al Oyon Southern Dist."
+  },
+  {
+    "district_id": 10502038031,
+    "city_id": 2038,
+    "region_id": 5,
+    "name_ar": "بلدة الشقيق الشرقية",
+    "name_en": "Ash Shaqiq Eastern"
   },
   {
     "district_id": 10502167001,
@@ -13164,14 +16636,14 @@
     "city_id": 2464,
     "region_id": 5,
     "name_ar": "المنطقة الصناعية الاولى",
-    "name_en": "1St Industrial Area"
+    "name_en": "1st Industrial Area"
   },
   {
     "district_id": 10502464014,
     "city_id": 2464,
     "region_id": 5,
     "name_ar": "المنطقة الصناعية الثانية",
-    "name_en": "2Nd Industrial Area"
+    "name_en": "2nd Industrial Area"
   },
   {
     "district_id": 10502464015,
@@ -13342,6 +16814,279 @@
     "name_en": "Najmah Dist."
   },
   {
+    "district_id": 10502643001,
+    "city_id": 2643,
+    "region_id": 5,
+    "name_ar": "حي الشروق",
+    "name_en": "Ash Shuruq Dist."
+  },
+  {
+    "district_id": 10502643002,
+    "city_id": 2643,
+    "region_id": 5,
+    "name_ar": "حي يبرين",
+    "name_en": "Yebrin Dist."
+  },
+  {
+    "district_id": 10502643003,
+    "city_id": 2643,
+    "region_id": 5,
+    "name_ar": "حي الياسمين",
+    "name_en": "Al Yasmin Dist."
+  },
+  {
+    "district_id": 10502643004,
+    "city_id": 2643,
+    "region_id": 5,
+    "name_ar": "حي الدوائر الحكوميه",
+    "name_en": "Government Departments Dist."
+  },
+  {
+    "district_id": 10502643005,
+    "city_id": 2643,
+    "region_id": 5,
+    "name_ar": "حي الربيع",
+    "name_en": "Ar Rabie Dist."
+  },
+  {
+    "district_id": 10502643006,
+    "city_id": 2643,
+    "region_id": 5,
+    "name_ar": "حي المروج",
+    "name_en": "Al Muruj Dist."
+  },
+  {
+    "district_id": 10502643007,
+    "city_id": 2643,
+    "region_id": 5,
+    "name_ar": "حي الاخاء",
+    "name_en": "Al Akha Dist."
+  },
+  {
+    "district_id": 10502653001,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "بلدة البطالية",
+    "name_en": "Al Battaliyah"
+  },
+  {
+    "district_id": 10502653002,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "بلدة الجبيل",
+    "name_en": "Al Jubail"
+  },
+  {
+    "district_id": 10502653003,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "حي الشروق",
+    "name_en": "Ash Shuruq Dist."
+  },
+  {
+    "district_id": 10502653004,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "حي السلام",
+    "name_en": "As Salam Dist."
+  },
+  {
+    "district_id": 10502653005,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "حي التمور",
+    "name_en": "At Tamor Dist."
+  },
+  {
+    "district_id": 10502653006,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "بلدة القارة",
+    "name_en": "Al Qarah"
+  },
+  {
+    "district_id": 10502653007,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "حي المنتزه",
+    "name_en": "Al Muntazah Dist."
+  },
+  {
+    "district_id": 10502653008,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "بلدة بني معن",
+    "name_en": "Bani Maan"
+  },
+  {
+    "district_id": 10502653009,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "حي القارة",
+    "name_en": "Al Qarah Dist."
+  },
+  {
+    "district_id": 10502653010,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "بلدة الطريبيل",
+    "name_en": "At Tarbil"
+  },
+  {
+    "district_id": 10502653011,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "حي التويثير",
+    "name_en": "Al Tuwaythir Dist."
+  },
+  {
+    "district_id": 10502653012,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "قرية العمران الغربية",
+    "name_en": "Al Umran Western"
+  },
+  {
+    "district_id": 10502653013,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "قرية الحوطة",
+    "name_en": "Al Hotah"
+  },
+  {
+    "district_id": 10502653014,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "قرية السيايرة",
+    "name_en": "As Syayrah"
+  },
+  {
+    "district_id": 10502653015,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "بلدة أبو ثور",
+    "name_en": "Abu Ath Thoor"
+  },
+  {
+    "district_id": 10502653016,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "حي الروابي",
+    "name_en": "Ar Rawabi Dist."
+  },
+  {
+    "district_id": 10502653017,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "حي النرجس",
+    "name_en": "An Narjis Dist."
+  },
+  {
+    "district_id": 10502653018,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "قرية الرميلة",
+    "name_en": "Ar Rumaylah"
+  },
+  {
+    "district_id": 10502653019,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "بلدة غمسي",
+    "name_en": "Gamsy"
+  },
+  {
+    "district_id": 10502653020,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "قرية العرامية",
+    "name_en": "Al Aramiyah"
+  },
+  {
+    "district_id": 10502653021,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "حي المحار",
+    "name_en": "Al Mahar Dist."
+  },
+  {
+    "district_id": 10502653022,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "قرية العمران الشرقية",
+    "name_en": "Al Umran Eastern"
+  },
+  {
+    "district_id": 10502653023,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "بلدة الصبايخ",
+    "name_en": "As Sabaiykh"
+  },
+  {
+    "district_id": 10502653024,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "حي العقيق",
+    "name_en": "Al Aqiq  Dist."
+  },
+  {
+    "district_id": 10502653025,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "قرية العمران الجنوبي",
+    "name_en": "Al Umran Southern"
+  },
+  {
+    "district_id": 10502653026,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "بلدة التويثير",
+    "name_en": "Al Tuwaythir"
+  },
+  {
+    "district_id": 10502653027,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "حي الثريا",
+    "name_en": "Ath Thuraiya Dist."
+  },
+  {
+    "district_id": 10502653028,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "حي الزهراء",
+    "name_en": "Az Zahra Dist."
+  },
+  {
+    "district_id": 10502653029,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "بلدة أبو الحصى",
+    "name_en": "Abu Al Hasa"
+  },
+  {
+    "district_id": 10502653030,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "بلدة التهيمية",
+    "name_en": "At Tahemah"
+  },
+  {
+    "district_id": 10502653031,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "حي البدور",
+    "name_en": "Al Budur Dist."
+  },
+  {
+    "district_id": 10502653032,
+    "city_id": 2653,
+    "region_id": 5,
+    "name_ar": "بلدة الدالوة",
+    "name_en": "Al Dalwah"
+  },
+  {
     "district_id": 10502748001,
     "city_id": 2748,
     "region_id": 5,
@@ -13381,20 +17126,20 @@
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي محاسن الثاني",
-    "name_en": "Mahasin 2Nd Dist."
+    "name_en": "Mahasin 2nd Dist."
   },
   {
     "district_id": 10502748007,
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي الراشدية الثاني",
-    "name_en": "Ar Rashidyah 2Nd Dist."
+    "name_en": "Ar Rashidyah 2nd Dist."
   },
   {
     "district_id": 10502748008,
     "city_id": 2748,
     "region_id": 5,
-    "name_ar": "حي الحي الأكاديمي",
+    "name_ar": "الحي الأكاديمي",
     "name_en": "Academic Quarter Dist."
   },
   {
@@ -13402,7 +17147,7 @@
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي محاسن ارامكو الخامس",
-    "name_en": "Mahasin Aramco 5Th  Dist."
+    "name_en": "Mahasin Aramco 5th  Dist."
   },
   {
     "district_id": 10502748010,
@@ -13416,7 +17161,7 @@
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي الراشدية الأول",
-    "name_en": "Ar Rashidyah 1St Dist."
+    "name_en": "Ar Rashidyah 1st Dist."
   },
   {
     "district_id": 10502748012,
@@ -13465,7 +17210,7 @@
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي محاسن الأول",
-    "name_en": "Mahasin 1St Dist."
+    "name_en": "Mahasin 1st Dist."
   },
   {
     "district_id": 10502748019,
@@ -13479,7 +17224,7 @@
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي مجمع الدوائر الحكومية الأول",
-    "name_en": "Government Departments Complex 1St  Dist."
+    "name_en": "Government Departments Complex 1st  Dist."
   },
   {
     "district_id": 10502748021,
@@ -13514,14 +17259,14 @@
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي السلام الأول",
-    "name_en": "As Salam 1St Dist."
+    "name_en": "As Salam 1st Dist."
   },
   {
     "district_id": 10502748026,
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي محاسن ارامكو الأول",
-    "name_en": "Mahasin Aramco 1St Dist."
+    "name_en": "Mahasin Aramco 1st Dist."
   },
   {
     "district_id": 10502748027,
@@ -13535,7 +17280,7 @@
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي الحزم الجنوبي",
-    "name_en": "Al Hazm Al Junubi Dist."
+    "name_en": "Al Hazm Southern Dist."
   },
   {
     "district_id": 10502748029,
@@ -13584,7 +17329,7 @@
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي السلام الثاني",
-    "name_en": "As Salam 2Nd Dist."
+    "name_en": "As Salam 2nd Dist."
   },
   {
     "district_id": 10502748036,
@@ -13612,7 +17357,7 @@
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي بو سحبل الأول",
-    "name_en": "Abu Sahbal 1St Dist."
+    "name_en": "Abu Sahbal 1st Dist."
   },
   {
     "district_id": 10502748040,
@@ -13626,28 +17371,28 @@
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي محاسن ارامكو الثاني",
-    "name_en": "Mahasin Aramco 2Nd Dist."
+    "name_en": "Mahasin Aramco 2nd Dist."
   },
   {
     "district_id": 10502748042,
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي الراشدية الثالث",
-    "name_en": "Ar Rashidyah 3Rd Dist."
+    "name_en": "Ar Rashidyah 3rd Dist."
   },
   {
     "district_id": 10502748043,
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي بو سحبل الثاني",
-    "name_en": "Abu Sahbal 3Rd Dist."
+    "name_en": "Abu Sahbal 3rd Dist."
   },
   {
     "district_id": 10502748044,
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي محاسن ارامكو الرابع",
-    "name_en": "Mahasin Aramco 4Th  Dist."
+    "name_en": "Mahasin Aramco 4th  Dist."
   },
   {
     "district_id": 10502748045,
@@ -13661,14 +17406,14 @@
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي الشراع الجنوبي",
-    "name_en": "Ash Shara Al Junubi Dist."
+    "name_en": "Ash Shara Southern Dist."
   },
   {
     "district_id": 10502748047,
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي الشراع الشمالي",
-    "name_en": "Ash Shara Al Shimali Dist."
+    "name_en": "Ash Shara Northern Dist."
   },
   {
     "district_id": 10502748048,
@@ -13696,91 +17441,532 @@
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي الحزم الشمالي",
-    "name_en": "Al Hazm Al Shimali Dist."
+    "name_en": "Al Hazm Northern Dist."
   },
   {
     "district_id": 10502748052,
     "city_id": 2748,
     "region_id": 5,
     "name_ar": "حي محاسن ارامكو الثالث",
-    "name_en": "Mahasin Aramco 3Rd Dist."
+    "name_en": "Mahasin Aramco 3rd Dist."
   },
   {
-    "district_id": 10503677001,
-    "city_id": 3677,
+    "district_id": 10502748053,
+    "city_id": 2748,
     "region_id": 5,
-    "name_ar": "حي المطيرفي",
-    "name_en": "Al Mutayrifi Dist."
+    "name_ar": "حي العليا",
+    "name_en": "Al Olaya Dist."
   },
   {
-    "district_id": 10503677002,
-    "city_id": 3677,
+    "district_id": 10502764002,
+    "city_id": 2764,
     "region_id": 5,
-    "name_ar": "اسكان الكلابية",
-    "name_en": "Al Kilabiyah Housing"
+    "name_ar": "حي قباء",
+    "name_en": "Quba Dist."
   },
   {
-    "district_id": 10503677003,
-    "city_id": 3677,
+    "district_id": 10502764003,
+    "city_id": 2764,
     "region_id": 5,
-    "name_ar": "البطالية",
-    "name_en": "Al Battaliyah"
+    "name_ar": "حي المدينة المنورة",
+    "name_en": "Al Madinah Al Munawwarah Dist."
   },
   {
-    "district_id": 10503677004,
-    "city_id": 3677,
+    "district_id": 10502764004,
+    "city_id": 2764,
     "region_id": 5,
-    "name_ar": "مخطط جواثا",
-    "name_en": "Juwatha Subdivision Plan"
+    "name_ar": "حي مثلث الشرقية",
+    "name_en": "Muthalath Asharqiyah Dist."
   },
   {
-    "district_id": 10503677005,
-    "city_id": 3677,
+    "district_id": 10502764005,
+    "city_id": 2764,
     "region_id": 5,
-    "name_ar": "الكلابية",
+    "name_ar": "بلدة المنيزلة",
+    "name_en": "Al Munaizlah"
+  },
+  {
+    "district_id": 10502764006,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "بلدة المنصورة",
+    "name_en": "Al Mansurah"
+  },
+  {
+    "district_id": 10502764007,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي بدر",
+    "name_en": "Badr Dist."
+  },
+  {
+    "district_id": 10502764008,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "بلدة الشهارين",
+    "name_en": "Ash Shaharin"
+  },
+  {
+    "district_id": 10502764009,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "بلدة المركز",
+    "name_en": "Al Markaz"
+  },
+  {
+    "district_id": 10502764010,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي الاسكان",
+    "name_en": "Al Iskan Dist."
+  },
+  {
+    "district_id": 10502764011,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي الرياض الثاني",
+    "name_en": "Ar Riyadh 2nd Dist."
+  },
+  {
+    "district_id": 10502764012,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "بلدة الفضول",
+    "name_en": "Al Fudul"
+  },
+  {
+    "district_id": 10502764013,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "بلدة الطرف",
+    "name_en": "At Tarf"
+  },
+  {
+    "district_id": 10502764014,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "بلدة العقار",
+    "name_en": "Al Aqar"
+  },
+  {
+    "district_id": 10502764015,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "بلدة الجفر",
+    "name_en": "Al Jafr"
+  },
+  {
+    "district_id": 10502764016,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي النزهة",
+    "name_en": "An Nuzhah Dist."
+  },
+  {
+    "district_id": 10502764017,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي هجر الأول",
+    "name_en": "Hajr 1st Dist."
+  },
+  {
+    "district_id": 10502764018,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي مدينة الحجاج",
+    "name_en": "Madina Al Hojaj Dist."
+  },
+  {
+    "district_id": 10502764019,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي هجر الثاني",
+    "name_en": "Hajr 2nd Dist."
+  },
+  {
+    "district_id": 10502764020,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي الزهور",
+    "name_en": "Az Zuhur Dist."
+  },
+  {
+    "district_id": 10502764021,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي هجر الثامن",
+    "name_en": "Hajr 8th Dist."
+  },
+  {
+    "district_id": 10502764022,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي هجر الحادي عشر",
+    "name_en": "Hajr 11th Dist."
+  },
+  {
+    "district_id": 10502764023,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي الجبل",
+    "name_en": "Al Jabal Dist."
+  },
+  {
+    "district_id": 10502764024,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي الركاز",
+    "name_en": "Ar Rekaz Dist."
+  },
+  {
+    "district_id": 10502764025,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "بلدة الجشة",
+    "name_en": "Al Jishah"
+  },
+  {
+    "district_id": 10502764026,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي هجر الثالث",
+    "name_en": "Hajr 3rd Dist."
+  },
+  {
+    "district_id": 10502764027,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي هجر التاسع",
+    "name_en": "Hajr 9th Dist."
+  },
+  {
+    "district_id": 10502764028,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي الوادي",
+    "name_en": "Al Wadi Dist."
+  },
+  {
+    "district_id": 10502764029,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي أحد",
+    "name_en": "Ahad Dist."
+  },
+  {
+    "district_id": 10502764030,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي هجر الرابع",
+    "name_en": "Hajr 4th Dist."
+  },
+  {
+    "district_id": 10502764031,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي الخزامى",
+    "name_en": "Al Khuzama Dist."
+  },
+  {
+    "district_id": 10502764032,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي الديرة",
+    "name_en": "Ad Dirah Dist."
+  },
+  {
+    "district_id": 10502764033,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي المجصة",
+    "name_en": "Al Magassah Dist."
+  },
+  {
+    "district_id": 10502764034,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي النور",
+    "name_en": "An Noor Dist."
+  },
+  {
+    "district_id": 10502764035,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي التلال",
+    "name_en": "At Talal Dist."
+  },
+  {
+    "district_id": 10502764036,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي هجر السادس",
+    "name_en": "Hajr 6th Dist."
+  },
+  {
+    "district_id": 10502764037,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي الرياض الاول",
+    "name_en": "Ar Riyadh 1st Dist."
+  },
+  {
+    "district_id": 10502764038,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي الواحة الطبية",
+    "name_en": "Al Wahah Medical  Dist."
+  },
+  {
+    "district_id": 10502764039,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي الربيع",
+    "name_en": "Ar Rabie Dist."
+  },
+  {
+    "district_id": 10502764040,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي النخيل",
+    "name_en": "Al Nakheel Dist."
+  },
+  {
+    "district_id": 10502764041,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي هجر السابع",
+    "name_en": "Hajr 7th Dist."
+  },
+  {
+    "district_id": 10502764042,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي هجر الخامس",
+    "name_en": "Hajr 5th Dist."
+  },
+  {
+    "district_id": 10502764043,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "بلدة المزاوي",
+    "name_en": "Al Mazawi"
+  },
+  {
+    "district_id": 10502764044,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي برزان",
+    "name_en": "Barzan Dist."
+  },
+  {
+    "district_id": 10502764045,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي الرياض الرابع",
+    "name_en": "Ar Riyadh 4th Dist."
+  },
+  {
+    "district_id": 10502764046,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي الخيام",
+    "name_en": "Al Khyam Dist."
+  },
+  {
+    "district_id": 10502764047,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي العدوة",
+    "name_en": "Al Adwah Dist."
+  },
+  {
+    "district_id": 10502764048,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي المستشفى الجا",
+    "name_en": "Al Ja Hospital Dist."
+  },
+  {
+    "district_id": 10502764049,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "بلدة السباط",
+    "name_en": "As Sabat"
+  },
+  {
+    "district_id": 10502764050,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي الروضة",
+    "name_en": "Ar Rawdah Dist."
+  },
+  {
+    "district_id": 10502764051,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي البساتين",
+    "name_en": "Al Basatin Dist."
+  },
+  {
+    "district_id": 10502764052,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي هجر العاشر",
+    "name_en": "Hajr 10th Dist."
+  },
+  {
+    "district_id": 10502764053,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي السهلة",
+    "name_en": "As Sahlah Dist."
+  },
+  {
+    "district_id": 10502764054,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي نادي الفروسية",
+    "name_en": "Nadi Al Forosiyah Dist."
+  },
+  {
+    "district_id": 10502764055,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي ابوحريف",
+    "name_en": "Abu Hareef Dist."
+  },
+  {
+    "district_id": 10502764056,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي الجفر الشمالي",
+    "name_en": "Al Jafer Northern Dist."
+  },
+  {
+    "district_id": 10502764057,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي الرياض الثالث",
+    "name_en": "Ar Riyadh 3rd Dist."
+  },
+  {
+    "district_id": 10502764058,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي المعامرة",
+    "name_en": "Al Maamrah Dist."
+  },
+  {
+    "district_id": 10502764059,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي هجر الثاني عشر",
+    "name_en": "Hajr 12th Dist."
+  },
+  {
+    "district_id": 10502764060,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي مدينة التمور",
+    "name_en": "Madina At Tomor Dist."
+  },
+  {
+    "district_id": 10502764061,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي مجمع الدوائر الحكومية",
+    "name_en": "Government Departments Complex Dist."
+  },
+  {
+    "district_id": 10502764096,
+    "city_id": 2764,
+    "region_id": 5,
+    "name_ar": "حي المنيزله",
+    "name_en": "Al Munaizilah Dist."
+  },
+  {
+    "district_id": 10503700001,
+    "city_id": 3700,
+    "region_id": 5,
+    "name_ar": "حي الدوائر الحكومية",
+    "name_en": "Goverment Departments Dist."
+  },
+  {
+    "district_id": 10503700002,
+    "city_id": 3700,
+    "region_id": 5,
+    "name_ar": "حي اسكان الكلابية",
+    "name_en": "Al Kilabiyah Housing Dist."
+  },
+  {
+    "district_id": 10503700003,
+    "city_id": 3700,
+    "region_id": 5,
+    "name_ar": "بلدة الكلابية",
     "name_en": "Al Kilabiyah"
   },
   {
-    "district_id": 10503677006,
-    "city_id": 3677,
+    "district_id": 10503700004,
+    "city_id": 3700,
     "region_id": 5,
-    "name_ar": "الجبيل",
-    "name_en": "Al Jubail"
+    "name_ar": "حي جواثا",
+    "name_en": "Juwatha Dist."
   },
   {
-    "district_id": 10503677007,
-    "city_id": 3677,
+    "district_id": 10503700005,
+    "city_id": 3700,
     "region_id": 5,
-    "name_ar": "الحليلة",
-    "name_en": "Al Hulaylah"
+    "name_ar": "حي الكلابية",
+    "name_en": "Al Kilabiyah Dist."
   },
   {
-    "district_id": 10503677008,
-    "city_id": 3677,
+    "district_id": 10503700006,
+    "city_id": 3700,
     "region_id": 5,
-    "name_ar": "المقدام",
-    "name_en": "Al Megdam"
+    "name_ar": "حي الواحة",
+    "name_en": "Al Wahah Dist."
   },
   {
-    "district_id": 10503677009,
-    "city_id": 3677,
+    "district_id": 10503700007,
+    "city_id": 3700,
     "region_id": 5,
-    "name_ar": "القارة",
-    "name_en": "Al Qarah"
+    "name_ar": "بلدة الحليلة",
+    "name_en": "Al Halilah"
   },
   {
-    "district_id": 10503677010,
-    "city_id": 3677,
+    "district_id": 10503700008,
+    "city_id": 3700,
     "region_id": 5,
-    "name_ar": "جواثا",
-    "name_en": "Juwatha"
+    "name_ar": "بلدة المقدام",
+    "name_en": "Al Miqdam"
   },
   {
-    "district_id": 10503677011,
-    "city_id": 3677,
+    "district_id": 10503700009,
+    "city_id": 3700,
     "region_id": 5,
-    "name_ar": "التويثير",
-    "name_en": "Al Tuwaythir"
+    "name_ar": "حي البستان",
+    "name_en": "Al Bustan Dist."
+  },
+  {
+    "district_id": 10503700010,
+    "city_id": 3700,
+    "region_id": 5,
+    "name_ar": "حي الرفاع",
+    "name_en": "Ar Rifaa Dist."
+  },
+  {
+    "district_id": 10503700011,
+    "city_id": 3700,
+    "region_id": 5,
+    "name_ar": "حي الفيصلية",
+    "name_en": "Al Faisaliyah Dist."
+  },
+  {
+    "district_id": 10503700012,
+    "city_id": 3700,
+    "region_id": 5,
+    "name_ar": "حي الروضة",
+    "name_en": "Ar Rawdah Dist."
   },
   {
     "district_id": 10511075001,
@@ -13788,6 +17974,13 @@
     "region_id": 5,
     "name_ar": "حي الانوار",
     "name_en": "Al Anwar Dist."
+  },
+  {
+    "district_id": 10511075002,
+    "city_id": 11075,
+    "region_id": 5,
+    "name_ar": "حي ام الحمام",
+    "name_en": "Um Al Hamam Dist."
   },
   {
     "district_id": 10600015001,
@@ -13865,13 +18058,6 @@
     "region_id": 6,
     "name_ar": "حي الاندلس",
     "name_en": "Al Andalus Dist."
-  },
-  {
-    "district_id": 10600015012,
-    "city_id": 15,
-    "region_id": 6,
-    "name_ar": "حي ابها الجديدة",
-    "name_en": "Abha Al Jadidah Dist."
   },
   {
     "district_id": 10600015013,
@@ -13986,11 +18172,130 @@
     "name_en": "Al Safa Dist."
   },
   {
+    "district_id": 10600015029,
+    "city_id": 15,
+    "region_id": 6,
+    "name_ar": "حي ج 35",
+    "name_en": "C 35 Dist."
+  },
+  {
+    "district_id": 10600015030,
+    "city_id": 15,
+    "region_id": 6,
+    "name_ar": "حي المقضى",
+    "name_en": "Al Magda Dist."
+  },
+  {
+    "district_id": 10600015031,
+    "city_id": 15,
+    "region_id": 6,
+    "name_ar": "حي التعاون",
+    "name_en": "At Taawun Dist."
+  },
+  {
+    "district_id": 10600015032,
+    "city_id": 15,
+    "region_id": 6,
+    "name_ar": "حي الوادي",
+    "name_en": "Al Wadi Dist."
+  },
+  {
+    "district_id": 10600015033,
+    "city_id": 15,
+    "region_id": 6,
+    "name_ar": "حي الروضة",
+    "name_en": "Al Rawdah Dist."
+  },
+  {
+    "district_id": 10600015034,
+    "city_id": 15,
+    "region_id": 6,
+    "name_ar": "حي الفل",
+    "name_en": "Al Fal Dist."
+  },
+  {
+    "district_id": 10600015035,
+    "city_id": 15,
+    "region_id": 6,
+    "name_ar": "حي الروابي",
+    "name_en": "Ar Rawabi Dist."
+  },
+  {
+    "district_id": 10600015036,
+    "city_id": 15,
+    "region_id": 6,
+    "name_ar": "حي المطار",
+    "name_en": "Airport Dist."
+  },
+  {
+    "district_id": 10600015037,
+    "city_id": 15,
+    "region_id": 6,
+    "name_ar": "حي المصيف",
+    "name_en": "Al Masif Dist."
+  },
+  {
+    "district_id": 10600015038,
+    "city_id": 15,
+    "region_id": 6,
+    "name_ar": "حي سلطانة",
+    "name_en": "Sultanah Dist."
+  },
+  {
+    "district_id": 10600015039,
+    "city_id": 15,
+    "region_id": 6,
+    "name_ar": "حي الصناعية",
+    "name_en": "As Sinaiyah Dist."
+  },
+  {
+    "district_id": 10600015040,
+    "city_id": 15,
+    "region_id": 6,
+    "name_ar": "حي البحيره",
+    "name_en": "Al Bhira Dist."
+  },
+  {
+    "district_id": 10600015041,
+    "city_id": 15,
+    "region_id": 6,
+    "name_ar": "حي العقيق",
+    "name_en": "Al Aqiq  Dist."
+  },
+  {
+    "district_id": 10600015042,
+    "city_id": 15,
+    "region_id": 6,
+    "name_ar": "حي السلام",
+    "name_en": "As Salam Dist."
+  },
+  {
+    "district_id": 10600015043,
+    "city_id": 15,
+    "region_id": 6,
+    "name_ar": "حي الزهور",
+    "name_en": "Az Zuhur Dist."
+  },
+  {
+    "district_id": 10600015044,
+    "city_id": 15,
+    "region_id": 6,
+    "name_ar": "حي المسك",
+    "name_en": "Al Misk Dist."
+  },
+  {
     "district_id": 10600062001,
     "city_id": 62,
     "region_id": 6,
     "name_ar": "حي الراقي",
     "name_en": "Al Raqi Dist."
+  },
+  {
+    "district_id": 10600062002,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي الأسواق",
+    "name_en": "Al Aswaq Dist."
   },
   {
     "district_id": 10600062003,
@@ -14269,8 +18574,8 @@
     "district_id": 10600062042,
     "city_id": 62,
     "region_id": 6,
-    "name_ar": "حي الرصراص",
-    "name_en": "Ar Rasras Dist."
+    "name_ar": "حي الرصراص 2",
+    "name_en": "Ar Rasras 2 Dist."
   },
   {
     "district_id": 10600062043,
@@ -14284,14 +18589,7 @@
     "city_id": 62,
     "region_id": 6,
     "name_ar": "سكن مجموعة اللواء الرابع عشر",
-    "name_en": "14Th Brigade Housing"
-  },
-  {
-    "district_id": 10600062045,
-    "city_id": 62,
-    "region_id": 6,
-    "name_ar": "حي الهر ير",
-    "name_en": "Al Harir Dist."
+    "name_en": "14th Brigade Housing"
   },
   {
     "district_id": 10600062046,
@@ -14299,6 +18597,188 @@
     "region_id": 6,
     "name_ar": "حي الجامعيين",
     "name_en": "Al Jamiyin Dist."
+  },
+  {
+    "district_id": 10600062047,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي الوسام",
+    "name_en": "Al Wasam Dist."
+  },
+  {
+    "district_id": 10600062048,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي اليرموك",
+    "name_en": "Al Yarmuk Dist."
+  },
+  {
+    "district_id": 10600062049,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي الحرابى",
+    "name_en": "Al Harabi Dist."
+  },
+  {
+    "district_id": 10600062050,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي شكر",
+    "name_en": "Shokor Dist."
+  },
+  {
+    "district_id": 10600062051,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي الحمراء",
+    "name_en": "Al Hamra Dist."
+  },
+  {
+    "district_id": 10600062052,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي الهرير الغربى",
+    "name_en": "Al Harir Western Dist."
+  },
+  {
+    "district_id": 10600062053,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي المراث",
+    "name_en": "Al Marath Dist."
+  },
+  {
+    "district_id": 10600062054,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي الظرفة",
+    "name_en": "Al Dhurfah Dist."
+  },
+  {
+    "district_id": 10600062055,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي تارة",
+    "name_en": "Tara Dist."
+  },
+  {
+    "district_id": 10600062056,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي النجاح",
+    "name_en": "An Najah Dist."
+  },
+  {
+    "district_id": 10600062057,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي الجبل",
+    "name_en": "Al Jabal Dist."
+  },
+  {
+    "district_id": 10600062058,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي شمال التضامن",
+    "name_en": "Shamal At Tadamun Dist."
+  },
+  {
+    "district_id": 10600062059,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي نشوان",
+    "name_en": "Nashwan Dist."
+  },
+  {
+    "district_id": 10600062060,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي المصيف",
+    "name_en": "Al Masif Dist."
+  },
+  {
+    "district_id": 10600062061,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي الصناعية",
+    "name_en": "As Sinaiyah Dist."
+  },
+  {
+    "district_id": 10600062062,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي الوفاء",
+    "name_en": "Al Wafa Dist."
+  },
+  {
+    "district_id": 10600062063,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي التعاون",
+    "name_en": "At Taawun Dist."
+  },
+  {
+    "district_id": 10600062064,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي أحد",
+    "name_en": "Uhud Dist."
+  },
+  {
+    "district_id": 10600062065,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي شعب ذهبان",
+    "name_en": "Shaab Dhahban Dist."
+  },
+  {
+    "district_id": 10600062066,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي ذهبان الغربى",
+    "name_en": "Western Dhahban Dist."
+  },
+  {
+    "district_id": 10600062067,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي ذهبان الشرقى",
+    "name_en": "Eastern Dhahban Dist."
+  },
+  {
+    "district_id": 10600062068,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي الرصراص 1",
+    "name_en": "Ar Rasras 1 Dist."
+  },
+  {
+    "district_id": 10600062069,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي الوقواق",
+    "name_en": "Al Waqwaq Dist."
+  },
+  {
+    "district_id": 10600062070,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي الهرير الشرقى",
+    "name_en": "Al Harir Al Sharqi Dist."
+  },
+  {
+    "district_id": 10600062071,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي الوقبة",
+    "name_en": "Al Waqba Dist."
+  },
+  {
+    "district_id": 10600062072,
+    "city_id": 62,
+    "region_id": 6,
+    "name_ar": "حي مصلوم",
+    "name_en": "Masloum Dist."
   },
   {
     "district_id": 10600065001,
@@ -14397,6 +18877,13 @@
     "region_id": 6,
     "name_ar": "المدينة العسكرية",
     "name_en": "Military City"
+  },
+  {
+    "district_id": 10600065015,
+    "city_id": 65,
+    "region_id": 6,
+    "name_ar": "حي الروضه 1",
+    "name_en": "Ar Rawdah 1 Dist."
   },
   {
     "district_id": 10600256001,
@@ -14718,7 +19205,7 @@
     "city_id": 1514,
     "region_id": 6,
     "name_ar": "حي الربوة",
-    "name_en": "Al Rabwah Dist."
+    "name_en": "Ar Rabwah Dist."
   },
   {
     "district_id": 10601514006,
@@ -14893,7 +19380,7 @@
     "city_id": 1627,
     "region_id": 6,
     "name_ar": "حي الربوة",
-    "name_en": "Al Rabwah Dist."
+    "name_en": "Ar Rabwah Dist."
   },
   {
     "district_id": 10601627003,
@@ -15099,6 +19586,13 @@
     "name_en": "Ad Dirs Dist."
   },
   {
+    "district_id": 10601801015,
+    "city_id": 1801,
+    "region_id": 6,
+    "name_ar": "حي البديع",
+    "name_en": "Al Badi Dist."
+  },
+  {
     "district_id": 10601801016,
     "city_id": 1801,
     "region_id": 6,
@@ -15125,6 +19619,41 @@
     "region_id": 6,
     "name_ar": "حي الوعد",
     "name_en": "Al Waad Dist."
+  },
+  {
+    "district_id": 10601847001,
+    "city_id": 1847,
+    "region_id": 6,
+    "name_ar": "حي الريحان",
+    "name_en": "Ar Raihan Dist."
+  },
+  {
+    "district_id": 10601847002,
+    "city_id": 1847,
+    "region_id": 6,
+    "name_ar": "حي السودة",
+    "name_en": "As Suda Dist."
+  },
+  {
+    "district_id": 10601847003,
+    "city_id": 1847,
+    "region_id": 6,
+    "name_ar": "حي المقضى",
+    "name_en": "Al Magda Dist."
+  },
+  {
+    "district_id": 10601847004,
+    "city_id": 1847,
+    "region_id": 6,
+    "name_ar": "حي ج 34",
+    "name_en": "C 34 Dist."
+  },
+  {
+    "district_id": 10601847005,
+    "city_id": 1847,
+    "region_id": 6,
+    "name_ar": "حي ج 35",
+    "name_en": "C 35 Dist."
   },
   {
     "district_id": 10602519001,
@@ -15232,6 +19761,104 @@
     "name_en": "Az Zuhur Dist."
   },
   {
+    "district_id": 10602519016,
+    "city_id": 2519,
+    "region_id": 6,
+    "name_ar": "حي اليمامة",
+    "name_en": "Al Yamamah Dist."
+  },
+  {
+    "district_id": 10602968001,
+    "city_id": 2968,
+    "region_id": 6,
+    "name_ar": "حي الريحان",
+    "name_en": "Ar Raihan Dist."
+  },
+  {
+    "district_id": 10603273001,
+    "city_id": 3273,
+    "region_id": 6,
+    "name_ar": "حي الامل",
+    "name_en": "Al Amal Dist."
+  },
+  {
+    "district_id": 10603273002,
+    "city_id": 3273,
+    "region_id": 6,
+    "name_ar": "حي السلام",
+    "name_en": "As Salam Dist."
+  },
+  {
+    "district_id": 10603273003,
+    "city_id": 3273,
+    "region_id": 6,
+    "name_ar": "حي الشفاء",
+    "name_en": "Ash Shifa Dist."
+  },
+  {
+    "district_id": 10603273004,
+    "city_id": 3273,
+    "region_id": 6,
+    "name_ar": "حي الشلال",
+    "name_en": "Al Shlal Dist."
+  },
+  {
+    "district_id": 10603273005,
+    "city_id": 3273,
+    "region_id": 6,
+    "name_ar": "حي الصناعية",
+    "name_en": "As Sinaiyah Dist."
+  },
+  {
+    "district_id": 10603273006,
+    "city_id": 3273,
+    "region_id": 6,
+    "name_ar": "حي الضباب",
+    "name_en": "Ad Dabab Dist."
+  },
+  {
+    "district_id": 10603273007,
+    "city_id": 3273,
+    "region_id": 6,
+    "name_ar": "حي العزيزية",
+    "name_en": "Al Aziziyah Dist."
+  },
+  {
+    "district_id": 10603273008,
+    "city_id": 3273,
+    "region_id": 6,
+    "name_ar": "حي المستقبل",
+    "name_en": "Al Mustaqbal Dist."
+  },
+  {
+    "district_id": 10603273009,
+    "city_id": 3273,
+    "region_id": 6,
+    "name_ar": "حي المصايف",
+    "name_en": "Al Masyaf Dist."
+  },
+  {
+    "district_id": 10603273010,
+    "city_id": 3273,
+    "region_id": 6,
+    "name_ar": "حي النزهة",
+    "name_en": "An Nuzhah Dist."
+  },
+  {
+    "district_id": 10603273011,
+    "city_id": 3273,
+    "region_id": 6,
+    "name_ar": "حي النسيم",
+    "name_en": "Al Naseem Dist."
+  },
+  {
+    "district_id": 10603273012,
+    "city_id": 3273,
+    "region_id": 6,
+    "name_ar": "حي النهضة",
+    "name_en": "An Nahdah Dist."
+  },
+  {
     "district_id": 10603275001,
     "city_id": 3275,
     "region_id": 6,
@@ -15243,7 +19870,7 @@
     "city_id": 3275,
     "region_id": 6,
     "name_ar": "حي الربيع",
-    "name_en": "Ar Rabi Dist."
+    "name_en": "Ar Rabie Dist."
   },
   {
     "district_id": 10603275003,
@@ -15320,7 +19947,7 @@
     "city_id": 3275,
     "region_id": 6,
     "name_ar": "حي الخالدية",
-    "name_en": "Al Khaldiyah Dist."
+    "name_en": "Al Khalidiyah Dist."
   },
   {
     "district_id": 10603275014,
@@ -15393,6 +20020,34 @@
     "name_en": "Al Khalidiyah Dist."
   },
   {
+    "district_id": 10603381001,
+    "city_id": 3381,
+    "region_id": 6,
+    "name_ar": "حي الاطلال",
+    "name_en": "Al Atlal Dist."
+  },
+  {
+    "district_id": 10603381002,
+    "city_id": 3381,
+    "region_id": 6,
+    "name_ar": "حي الورود",
+    "name_en": "Al Woroud Dist."
+  },
+  {
+    "district_id": 10603381003,
+    "city_id": 3381,
+    "region_id": 6,
+    "name_ar": "حي البلد",
+    "name_en": "Al Balad Dist."
+  },
+  {
+    "district_id": 10603383001,
+    "city_id": 3383,
+    "region_id": 6,
+    "name_ar": "حي الربوه",
+    "name_en": "Ar Rabwah Dist."
+  },
+  {
     "district_id": 10603678001,
     "city_id": 3678,
     "region_id": 6,
@@ -15412,6 +20067,13 @@
     "region_id": 6,
     "name_ar": "حي جنوب تندحة",
     "name_en": "South Tandaha Dist."
+  },
+  {
+    "district_id": 10603689001,
+    "city_id": 3689,
+    "region_id": 6,
+    "name_ar": "حي الفيصلية",
+    "name_en": "Al Faisaliyah Dist."
   },
   {
     "district_id": 10700001001,
@@ -15673,27 +20335,6 @@
     "name_en": "Al Difa Dist."
   },
   {
-    "district_id": 10700001038,
-    "city_id": 1,
-    "region_id": 7,
-    "name_ar": "منطقة الخدمات أ",
-    "name_en": "Services Area A"
-  },
-  {
-    "district_id": 10700001039,
-    "city_id": 1,
-    "region_id": 7,
-    "name_ar": "منطقة الخدمات ب",
-    "name_en": "Services Area B"
-  },
-  {
-    "district_id": 10700001040,
-    "city_id": 1,
-    "region_id": 7,
-    "name_ar": "المدينة الصناعية",
-    "name_en": "Industrial City"
-  },
-  {
     "district_id": 10700001041,
     "city_id": 1,
     "region_id": 7,
@@ -15831,7 +20472,7 @@
     "city_id": 1,
     "region_id": 7,
     "name_ar": "حي الربوة",
-    "name_en": "Al Rabwah  Dist."
+    "name_en": "Ar Rabwah Dist."
   },
   {
     "district_id": 10700001061,
@@ -15860,6 +20501,27 @@
     "region_id": 7,
     "name_ar": "حي العزيزية القديمة",
     "name_en": "Al Aziziyah Al Qadimah Dist."
+  },
+  {
+    "district_id": 10700001065,
+    "city_id": 1,
+    "region_id": 7,
+    "name_ar": "حي العليا",
+    "name_en": "Al Olaya Dist."
+  },
+  {
+    "district_id": 10700001067,
+    "city_id": 1,
+    "region_id": 7,
+    "name_ar": "حي العزيزيه الجديده",
+    "name_en": "Al Aziziyah Al Jadidah Dist."
+  },
+  {
+    "district_id": 10700001068,
+    "city_id": 1,
+    "region_id": 7,
+    "name_ar": "حي السلمان",
+    "name_en": "As Salman Dist."
   },
   {
     "district_id": 10700036001,
@@ -15900,8 +20562,106 @@
     "district_id": 10700036006,
     "city_id": 36,
     "region_id": 7,
-    "name_ar": "حي المروج",
-    "name_en": "Al Muruj Dist."
+    "name_ar": "حي المروج1",
+    "name_en": "Al Muruj 1 Dist."
+  },
+  {
+    "district_id": 10700036007,
+    "city_id": 36,
+    "region_id": 7,
+    "name_ar": "حي القادسية",
+    "name_en": "Al Qadisiyah Dist."
+  },
+  {
+    "district_id": 10700036008,
+    "city_id": 36,
+    "region_id": 7,
+    "name_ar": "حي النهضة",
+    "name_en": "An Nahdah Dist."
+  },
+  {
+    "district_id": 10700036009,
+    "city_id": 36,
+    "region_id": 7,
+    "name_ar": "حي السلطانيه",
+    "name_en": "Al Sultanih Dist."
+  },
+  {
+    "district_id": 10700036010,
+    "city_id": 36,
+    "region_id": 7,
+    "name_ar": "حي الوصل",
+    "name_en": "Al Wasl Dist."
+  },
+  {
+    "district_id": 10700036011,
+    "city_id": 36,
+    "region_id": 7,
+    "name_ar": "حي المروج 2",
+    "name_en": "Al Muruj 2 Dist."
+  },
+  {
+    "district_id": 10700036012,
+    "city_id": 36,
+    "region_id": 7,
+    "name_ar": "حي الفيصلية",
+    "name_en": "Al Faisaliyah Dist."
+  },
+  {
+    "district_id": 10700036013,
+    "city_id": 36,
+    "region_id": 7,
+    "name_ar": "حي جنوب الحميضه",
+    "name_en": "Al Humaydah South Dist."
+  },
+  {
+    "district_id": 10700036014,
+    "city_id": 36,
+    "region_id": 7,
+    "name_ar": "حي الوادي",
+    "name_en": "Al Wadi Dist."
+  },
+  {
+    "district_id": 10700036015,
+    "city_id": 36,
+    "region_id": 7,
+    "name_ar": "حي الورود",
+    "name_en": "Al Wurud Dist."
+  },
+  {
+    "district_id": 10700036016,
+    "city_id": 36,
+    "region_id": 7,
+    "name_ar": "حي الحميضه",
+    "name_en": "Al Humaydah Dist."
+  },
+  {
+    "district_id": 10700036017,
+    "city_id": 36,
+    "region_id": 7,
+    "name_ar": "حي غرب الظهره",
+    "name_en": "Al Dhahra West Dist."
+  },
+  {
+    "district_id": 10700036018,
+    "city_id": 36,
+    "region_id": 7,
+    "name_ar": "حي ج1",
+    "name_en": "C1 Dist."
+  },
+  {
+    "district_id": 10700036019,
+    "city_id": 36,
+    "region_id": 7,
+    "name_ar": "حي ام عنم",
+    "name_en": "Um Anam Dist."
+  },
+  {
+    "district_id": 10700036020,
+    "city_id": 36,
+    "region_id": 7,
+    "name_ar": "حي الجامعه",
+    "name_en": "Al Jamiah Dist."
   },
   {
     "district_id": 10700074001,
@@ -15953,6 +20713,97 @@
     "name_en": "Al Qaa Dist."
   },
   {
+    "district_id": 10700074008,
+    "city_id": 74,
+    "region_id": 7,
+    "name_ar": "حي الفاو",
+    "name_en": "Al Faw Dist."
+  },
+  {
+    "district_id": 10700074009,
+    "city_id": 74,
+    "region_id": 7,
+    "name_ar": "حي عكاظ",
+    "name_en": "Uqaz Dist."
+  },
+  {
+    "district_id": 10700074010,
+    "city_id": 74,
+    "region_id": 7,
+    "name_ar": "حي الخبراء",
+    "name_en": "Al Khobara Dist."
+  },
+  {
+    "district_id": 10700074011,
+    "city_id": 74,
+    "region_id": 7,
+    "name_ar": "حي الشرق",
+    "name_en": "Ash Sharq Dist."
+  },
+  {
+    "district_id": 10700074012,
+    "city_id": 74,
+    "region_id": 7,
+    "name_ar": "حي الرحمانية",
+    "name_en": "Ar Rahmaniyah Dist."
+  },
+  {
+    "district_id": 10700074013,
+    "city_id": 74,
+    "region_id": 7,
+    "name_ar": "حي غرناطة",
+    "name_en": "Ghirnatah Dist."
+  },
+  {
+    "district_id": 10700074014,
+    "city_id": 74,
+    "region_id": 7,
+    "name_ar": "حي الشفاء",
+    "name_en": "Ash Shifa Dist."
+  },
+  {
+    "district_id": 10700074015,
+    "city_id": 74,
+    "region_id": 7,
+    "name_ar": "حي قريان",
+    "name_en": "Qaryan Dist."
+  },
+  {
+    "district_id": 10700074016,
+    "city_id": 74,
+    "region_id": 7,
+    "name_ar": "حي النسيم",
+    "name_en": "Al Naseem Dist."
+  },
+  {
+    "district_id": 10700074017,
+    "city_id": 74,
+    "region_id": 7,
+    "name_ar": "حي المروج",
+    "name_en": "Al Muruj Dist."
+  },
+  {
+    "district_id": 10700074018,
+    "city_id": 74,
+    "region_id": 7,
+    "name_ar": "حي الاندلس",
+    "name_en": "Al Andalus Dist."
+  },
+  {
+    "district_id": 10700074019,
+    "city_id": 74,
+    "region_id": 7,
+    "name_ar": "حي الورود",
+    "name_en": "Al Wurud Dist."
+  },
+  {
+    "district_id": 10700074020,
+    "city_id": 74,
+    "region_id": 7,
+    "name_ar": "حي الحمراء",
+    "name_en": "Al Hamra Dist."
+  },
+  {
     "district_id": 10700233001,
     "city_id": 233,
     "region_id": 7,
@@ -15993,6 +20844,13 @@
     "region_id": 7,
     "name_ar": "حي الفريعة",
     "name_en": "Al Fareah Dist."
+  },
+  {
+    "district_id": 10700233007,
+    "city_id": 233,
+    "region_id": 7,
+    "name_ar": "حي الورود",
+    "name_en": "Al Wurud Dist."
   },
   {
     "district_id": 10700323001,
@@ -16226,6 +21084,13 @@
     "name_en": "As Suwayfilah Dist."
   },
   {
+    "district_id": 10800010017,
+    "city_id": 10,
+    "region_id": 8,
+    "name_ar": "حي ج2",
+    "name_en": "2 C Dist."
+  },
+  {
     "district_id": 10800010018,
     "city_id": 10,
     "region_id": 8,
@@ -16261,6 +21126,20 @@
     "name_en": "Al Buhayrah Dist."
   },
   {
+    "district_id": 10800010023,
+    "city_id": 10,
+    "region_id": 8,
+    "name_ar": "حي المدائن",
+    "name_en": "Al Madaen Dist."
+  },
+  {
+    "district_id": 10800010024,
+    "city_id": 10,
+    "region_id": 8,
+    "name_ar": "حي النقرة قفار",
+    "name_en": "An Naqrah Qafar Dist."
+  },
+  {
     "district_id": 10800010025,
     "city_id": 10,
     "region_id": 8,
@@ -16287,13 +21166,6 @@
     "region_id": 8,
     "name_ar": "حي السويفلة",
     "name_en": "As Suwayfilah Dist."
-  },
-  {
-    "district_id": 10800010030,
-    "city_id": 10,
-    "region_id": 8,
-    "name_ar": "حي النسية",
-    "name_en": "An Nasiyah Dist."
   },
   {
     "district_id": 10800010031,
@@ -16343,6 +21215,55 @@
     "region_id": 8,
     "name_ar": "حي الشفا",
     "name_en": "Al Shifa Dist."
+  },
+  {
+    "district_id": 10800010038,
+    "city_id": 10,
+    "region_id": 8,
+    "name_ar": "حي ضاحية الملك فهد",
+    "name_en": "Dahiyat King Fahd Dist"
+  },
+  {
+    "district_id": 10800010039,
+    "city_id": 10,
+    "region_id": 8,
+    "name_ar": "حي البادية",
+    "name_en": "Al Badiyah Dist."
+  },
+  {
+    "district_id": 10800010040,
+    "city_id": 10,
+    "region_id": 8,
+    "name_ar": "حي الورود",
+    "name_en": "Al Wurud Dist."
+  },
+  {
+    "district_id": 10800010041,
+    "city_id": 10,
+    "region_id": 8,
+    "name_ar": "حي صلاح الدين الشرقي",
+    "name_en": "Salahuddin Al Sharqi Dist."
+  },
+  {
+    "district_id": 10800010042,
+    "city_id": 10,
+    "region_id": 8,
+    "name_ar": "حي الطريفي",
+    "name_en": "Al Turaifi Dist."
+  },
+  {
+    "district_id": 10800010043,
+    "city_id": 10,
+    "region_id": 8,
+    "name_ar": "حي النيصية",
+    "name_en": "An Nasiyah Dist."
+  },
+  {
+    "district_id": 10800010044,
+    "city_id": 10,
+    "region_id": 8,
+    "name_ar": "حي قفار",
+    "name_en": "Qfaar Dist."
   },
   {
     "district_id": 10801228001,
@@ -16422,6 +21343,328 @@
     "name_en": "As Sinaiyah Dist."
   },
   {
+    "district_id": 10802332001,
+    "city_id": 2332,
+    "region_id": 8,
+    "name_ar": "حي النخيل الغربي",
+    "name_en": "Al Nakhil Al Gharbi Dist."
+  },
+  {
+    "district_id": 10802332002,
+    "city_id": 2332,
+    "region_id": 8,
+    "name_ar": "حي الوادي",
+    "name_en": "Al Wadi Dist."
+  },
+  {
+    "district_id": 10802332003,
+    "city_id": 2332,
+    "region_id": 8,
+    "name_ar": "حي النهضة",
+    "name_en": "An Nahdah Dist."
+  },
+  {
+    "district_id": 10802332004,
+    "city_id": 2332,
+    "region_id": 8,
+    "name_ar": "حي الجامعة الغربي",
+    "name_en": "Al Jamiah Al Gharbi Dist."
+  },
+  {
+    "district_id": 10802332005,
+    "city_id": 2332,
+    "region_id": 8,
+    "name_ar": "حي الحفيرة الغربي",
+    "name_en": "Al Hafira Al Gharbi Dist."
+  },
+  {
+    "district_id": 10802332006,
+    "city_id": 2332,
+    "region_id": 8,
+    "name_ar": "حي حفيرة السبعة الشمالي",
+    "name_en": "Hafira Al Sabaa Al Shamali Dist."
+  },
+  {
+    "district_id": 10802332007,
+    "city_id": 2332,
+    "region_id": 8,
+    "name_ar": "حي الاستراحات الأوسط",
+    "name_en": "Al Estrahat Al Awsat Dist."
+  },
+  {
+    "district_id": 10802332008,
+    "city_id": 2332,
+    "region_id": 8,
+    "name_ar": "حي الريان الغربي",
+    "name_en": "Al Rayan Al Gharbi Dist."
+  },
+  {
+    "district_id": 10802332009,
+    "city_id": 2332,
+    "region_id": 8,
+    "name_ar": "حي الحفيرة الشرقي",
+    "name_en": "Al Hafira Al Sharqi Dist."
+  },
+  {
+    "district_id": 10802332010,
+    "city_id": 2332,
+    "region_id": 8,
+    "name_ar": "حي حفيرة السبعة الغربي",
+    "name_en": "Hafira Al Sabaa Al Gharbi Dist."
+  },
+  {
+    "district_id": 10802332011,
+    "city_id": 2332,
+    "region_id": 8,
+    "name_ar": "حي حفاير العهين الغربي",
+    "name_en": "Hafair Al Eahin Al Gharbi Dist."
+  },
+  {
+    "district_id": 10802332012,
+    "city_id": 2332,
+    "region_id": 8,
+    "name_ar": "حي حفيرة السبعة الشرقي",
+    "name_en": "Hafira Al Sabaa Al Shamali Dist."
+  },
+  {
+    "district_id": 10802332013,
+    "city_id": 2332,
+    "region_id": 8,
+    "name_ar": "حي الواحة",
+    "name_en": "Al Wahah Dist."
+  },
+  {
+    "district_id": 10802332014,
+    "city_id": 2332,
+    "region_id": 8,
+    "name_ar": "حي الرفيعة",
+    "name_en": "Al Rafiea Dist."
+  },
+  {
+    "district_id": 10802332015,
+    "city_id": 2332,
+    "region_id": 8,
+    "name_ar": "حي الريان الشرقي",
+    "name_en": "Al Rayan Al Sharqi Dist."
+  },
+  {
+    "district_id": 10802332016,
+    "city_id": 2332,
+    "region_id": 8,
+    "name_ar": "حي الصناعية",
+    "name_en": "As Sinaiyah Dist."
+  },
+  {
+    "district_id": 10802332017,
+    "city_id": 2332,
+    "region_id": 8,
+    "name_ar": "حي البلدية",
+    "name_en": "Al Baladiyah Dist."
+  },
+  {
+    "district_id": 10802332018,
+    "city_id": 2332,
+    "region_id": 8,
+    "name_ar": "حي التعاون",
+    "name_en": "At Taawun Dist."
+  },
+  {
+    "district_id": 10802332019,
+    "city_id": 2332,
+    "region_id": 8,
+    "name_ar": "حي الديرة",
+    "name_en": "Ad Dirah Dist."
+  },
+  {
+    "district_id": 10802332020,
+    "city_id": 2332,
+    "region_id": 8,
+    "name_ar": "حي الاستراحات الغربي",
+    "name_en": "Al Estrahat Al Gharbi Dist."
+  },
+  {
+    "district_id": 10802332021,
+    "city_id": 2332,
+    "region_id": 8,
+    "name_ar": "حي الجامعة الشرقي",
+    "name_en": "Al Jamiah Al Sharqi Dist."
+  },
+  {
+    "district_id": 10802332022,
+    "city_id": 2332,
+    "region_id": 8,
+    "name_ar": "حي الاستراحات الشرقي",
+    "name_en": "Al Estrahat  Al Sharqi  Dist."
+  },
+  {
+    "district_id": 10802332023,
+    "city_id": 2332,
+    "region_id": 8,
+    "name_ar": "حي الجامعة الاوسط",
+    "name_en": "Al Jamiah Al Awsat Dist."
+  },
+  {
+    "district_id": 10802332024,
+    "city_id": 2332,
+    "region_id": 8,
+    "name_ar": "حي النخيل الشرقي",
+    "name_en": "Al Nakhil Al Sharqi Dist."
+  },
+  {
+    "district_id": 10802332025,
+    "city_id": 2332,
+    "region_id": 8,
+    "name_ar": "حي حفاير العهين الشرقي",
+    "name_en": "Hafair Al Eahin Al Sharqi Dist."
+  },
+  {
+    "district_id": 10802370001,
+    "city_id": 2370,
+    "region_id": 8,
+    "name_ar": "حي بقعاء الشرقيه",
+    "name_en": "Baqa Al Sharqia Dist."
+  },
+  {
+    "district_id": 10802370002,
+    "city_id": 2370,
+    "region_id": 8,
+    "name_ar": "حي صلاح الدين",
+    "name_en": "Salahuddin Dist."
+  },
+  {
+    "district_id": 10802370003,
+    "city_id": 2370,
+    "region_id": 8,
+    "name_ar": "حي الظهيره",
+    "name_en": "Al Dhahira Dist."
+  },
+  {
+    "district_id": 10802370004,
+    "city_id": 2370,
+    "region_id": 8,
+    "name_ar": "حي الحفل",
+    "name_en": "Al Hafil Dist."
+  },
+  {
+    "district_id": 10802370005,
+    "city_id": 2370,
+    "region_id": 8,
+    "name_ar": "حي ج9",
+    "name_en": "C9 Dist."
+  },
+  {
+    "district_id": 10802370006,
+    "city_id": 2370,
+    "region_id": 8,
+    "name_ar": "حي ج8",
+    "name_en": "C8 Dist."
+  },
+  {
+    "district_id": 10802370007,
+    "city_id": 2370,
+    "region_id": 8,
+    "name_ar": "حي ج7",
+    "name_en": "C7 Dist."
+  },
+  {
+    "district_id": 10802370008,
+    "city_id": 2370,
+    "region_id": 8,
+    "name_ar": "حي ج6",
+    "name_en": "C6 Dist."
+  },
+  {
+    "district_id": 10802370009,
+    "city_id": 2370,
+    "region_id": 8,
+    "name_ar": "حي ج5",
+    "name_en": "C5 Dist."
+  },
+  {
+    "district_id": 10802370010,
+    "city_id": 2370,
+    "region_id": 8,
+    "name_ar": "حي ج4",
+    "name_en": "C4 Dist."
+  },
+  {
+    "district_id": 10802370011,
+    "city_id": 2370,
+    "region_id": 8,
+    "name_ar": "حي ج3",
+    "name_en": "C3 Dist."
+  },
+  {
+    "district_id": 10802370012,
+    "city_id": 2370,
+    "region_id": 8,
+    "name_ar": "حي ج2",
+    "name_en": "C2 Dist."
+  },
+  {
+    "district_id": 10802370013,
+    "city_id": 2370,
+    "region_id": 8,
+    "name_ar": "حي ج16",
+    "name_en": "C16 Dist."
+  },
+  {
+    "district_id": 10802370014,
+    "city_id": 2370,
+    "region_id": 8,
+    "name_ar": "حي ج15",
+    "name_en": "C15 Dist."
+  },
+  {
+    "district_id": 10802370015,
+    "city_id": 2370,
+    "region_id": 8,
+    "name_ar": "حي ج13",
+    "name_en": "C13 Dist."
+  },
+  {
+    "district_id": 10802370016,
+    "city_id": 2370,
+    "region_id": 8,
+    "name_ar": "حي ج12",
+    "name_en": "C12 Dist."
+  },
+  {
+    "district_id": 10802370017,
+    "city_id": 2370,
+    "region_id": 8,
+    "name_ar": "حي ج11",
+    "name_en": "C11 Dist."
+  },
+  {
+    "district_id": 10802370018,
+    "city_id": 2370,
+    "region_id": 8,
+    "name_ar": "حي ج10",
+    "name_en": "C10 Dist."
+  },
+  {
+    "district_id": 10802370019,
+    "city_id": 2370,
+    "region_id": 8,
+    "name_ar": "حي بقعاء القديمه",
+    "name_en": "Baqa Al Qadima Dist."
+  },
+  {
+    "district_id": 10802370020,
+    "city_id": 2370,
+    "region_id": 8,
+    "name_ar": "حي بقعاء الشرقيه القديمه",
+    "name_en": "Baqa Al Sharqia Al Qadima Dist."
+  },
+  {
+    "district_id": 10802370021,
+    "city_id": 2370,
+    "region_id": 8,
+    "name_ar": "حي الوسطى",
+    "name_en": "Al Wusta Dist."
+  },
+  {
     "district_id": 10902208001,
     "city_id": 2208,
     "region_id": 9,
@@ -16429,18 +21672,11 @@
     "name_en": "Al Wurud Dist."
   },
   {
-    "district_id": 10902208002,
-    "city_id": 2208,
-    "region_id": 9,
-    "name_ar": "حي الفيصلية",
-    "name_en": "Al Faisaliyah Dist."
-  },
-  {
     "district_id": 10902208003,
     "city_id": 2208,
     "region_id": 9,
-    "name_ar": "حي سلطانة",
-    "name_en": "Sultanah Dist."
+    "name_ar": "حي السلطانة",
+    "name_en": "Al Sultanah Dist."
   },
   {
     "district_id": 10902208004,
@@ -16492,53 +21728,137 @@
     "name_en": "Al Yarmuk Dist."
   },
   {
+    "district_id": 10902208011,
+    "city_id": 2208,
+    "region_id": 9,
+    "name_ar": "حي الواحة",
+    "name_en": "Al Wahah Dist."
+  },
+  {
+    "district_id": 10902208012,
+    "city_id": 2208,
+    "region_id": 9,
+    "name_ar": "حي النهضة",
+    "name_en": "An Nahdah Dist."
+  },
+  {
+    "district_id": 10902208013,
+    "city_id": 2208,
+    "region_id": 9,
+    "name_ar": "حي الربوة",
+    "name_en": "Ar Rabwah Dist."
+  },
+  {
+    "district_id": 10902208014,
+    "city_id": 2208,
+    "region_id": 9,
+    "name_ar": "حي المنتزه",
+    "name_en": "Al Muntazah Dist."
+  },
+  {
+    "district_id": 10902208015,
+    "city_id": 2208,
+    "region_id": 9,
+    "name_ar": "حي اسكان قوى الأمن",
+    "name_en": "Security Forces Housing Dist."
+  },
+  {
+    "district_id": 10902208016,
+    "city_id": 2208,
+    "region_id": 9,
+    "name_ar": "حي الروابي",
+    "name_en": "Ar Rawabi Dist."
+  },
+  {
+    "district_id": 10902208017,
+    "city_id": 2208,
+    "region_id": 9,
+    "name_ar": "حي الفيصلية شرق",
+    "name_en": "East Al Faisaliyah Dist."
+  },
+  {
+    "district_id": 10902208018,
+    "city_id": 2208,
+    "region_id": 9,
+    "name_ar": "حي الصناعي",
+    "name_en": "Industrial Dist."
+  },
+  {
+    "district_id": 10902208019,
+    "city_id": 2208,
+    "region_id": 9,
+    "name_ar": "حي الصناعية القديمة",
+    "name_en": "Old Industrial Dist."
+  },
+  {
+    "district_id": 10902208020,
+    "city_id": 2208,
+    "region_id": 9,
+    "name_ar": "حي الصناعية الجديدة",
+    "name_en": "New Industrial Dist."
+  },
+  {
+    "district_id": 10902208021,
+    "city_id": 2208,
+    "region_id": 9,
+    "name_ar": "حي الشفا",
+    "name_en": "Ash Shifa Dist."
+  },
+  {
+    "district_id": 10902208022,
+    "city_id": 2208,
+    "region_id": 9,
+    "name_ar": "حي الفيصلية غرب",
+    "name_en": "West Al Faisaliyah Dist."
+  },
+  {
     "district_id": 10902213001,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "حي غرناطة",
-    "name_en": "Ghirnatah Dist."
+    "name_ar": "حي غرناطة الشرقي",
+    "name_en": "Ghirnatah Eastern Dist."
   },
   {
     "district_id": 10902213002,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "حي ارض الحرس الوطني",
-    "name_en": "National Guard Land Dist."
+    "name_ar": "أملاك الحرس الوطني",
+    "name_en": "National Guard Property"
   },
   {
     "district_id": 10902213003,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "حي الشروق",
-    "name_en": "Ash Shuruq Dist."
+    "name_ar": "حي الشروق الاداري",
+    "name_en": "Ash Shuruq Administrative Dist."
   },
   {
     "district_id": 10902213004,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "حي القدس",
-    "name_en": "Al Quds Dist."
+    "name_ar": "حي القدس الشرقي",
+    "name_en": "Al Quds Eastern Dist."
   },
   {
     "district_id": 10902213005,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "حي النخيل",
-    "name_en": "Al Nakhil Dist."
+    "name_ar": "حي النخيل الشمالي",
+    "name_en": "Al Nakheel Northern Dist."
   },
   {
     "district_id": 10902213006,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "حي الضاحية",
-    "name_en": "Ad Dahiyah Dist."
+    "name_ar": "حي ضاحية الملك فهد",
+    "name_en": "Dahiyat King Fahd Dist"
   },
   {
     "district_id": 10902213007,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "حي المروج",
-    "name_en": "Al Muruj Dist."
+    "name_ar": "حي المروج الشرقي",
+    "name_en": "Al Muruj Eastern Dist."
   },
   {
     "district_id": 10902213008,
@@ -16551,92 +21871,92 @@
     "district_id": 10902213009,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "حي إشبيليه",
-    "name_en": "Ishbiliyah Dist."
+    "name_ar": "حي اشبيلية الشمالي",
+    "name_en": "Ishbiliyah Northern Dist."
   },
   {
     "district_id": 10902213010,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "مخطط استراحات طريق طريف",
-    "name_en": "Turaif Road Rest House Subdivision Plan"
+    "name_ar": "حي الشامل",
+    "name_en": "Ash Shamel Dist."
   },
   {
     "district_id": 10902213011,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "حي معارض السيارات",
-    "name_en": "Car Showrooms Dist."
+    "name_ar": "حي الصناعية الاولى",
+    "name_en": "1st Industrial Dist."
   },
   {
     "district_id": 10902213012,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "حي الصناعية طريق طريف",
-    "name_en": "Turaif Road Industrial Dist."
+    "name_ar": "مدينة الانعام",
+    "name_en": "Al Anam City"
   },
   {
     "district_id": 10902213013,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "مخطط المستوداعات ومصانع البلك والخرسانة",
-    "name_en": "Warehouse And Factories Subdivision Plan"
+    "name_ar": "حي الصقًار",
+    "name_en": "As Saqar Dist."
   },
   {
     "district_id": 10902213014,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "حي تابع حرس الحدود",
-    "name_en": "Boarder Security Force Land Dist."
+    "name_ar": "حي تشليح السيارات",
+    "name_en": "Auto Shredder Dist."
   },
   {
     "district_id": 10902213015,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "مخطط استراحات طريق الجديدة",
-    "name_en": "Al Jadidah Road Rest House Subdivision Plan"
+    "name_ar": "حي البساتين الاداري الغربي",
+    "name_en": "Al Basatin Administrative Western Dist."
   },
   {
     "district_id": 10902213016,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "حي الناصرية",
-    "name_en": "An Nasriyah Dist."
+    "name_ar": "حي الشذا",
+    "name_en": "Ash Shatha Dist."
   },
   {
     "district_id": 10902213017,
     "city_id": 2213,
     "region_id": 9,
     "name_ar": "حي تلال عرعر",
-    "name_en": "Talal Arar Dist."
+    "name_en": "Telal Arar Dist."
   },
   {
     "district_id": 10902213018,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "مخطط سوق الماشية وبيع الاعلاف",
-    "name_en": "Cattle Market Subdivision Plan"
+    "name_ar": "حي النهضة",
+    "name_en": "An Nahdah Dist."
   },
   {
     "district_id": 10902213019,
     "city_id": 2213,
     "region_id": 9,
     "name_ar": "حي الرفاع",
-    "name_en": "Ar Rifa Dist."
+    "name_en": "Ar Rifaa Dist."
   },
   {
     "district_id": 10902213020,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "حي الصناعية الجديدة",
-    "name_en": "New Industrial Dist."
+    "name_ar": "حي الفنار",
+    "name_en": "Al Fanar Dist."
   },
   {
     "district_id": 10902213021,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "حي الخليج",
-    "name_en": "Al Khalij Dist."
+    "name_ar": "حي الخليج الشرقي",
+    "name_en": "Al Khaleej Eastern Dist."
   },
   {
     "district_id": 10902213022,
@@ -16656,8 +21976,15 @@
     "district_id": 10902213024,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "مخطط الاسكان طريق الجديدة",
-    "name_en": "Al Jadidah Road Housing Plan"
+    "name_ar": "حي الارجوان الغربي",
+    "name_en": "Al Orjwan Wesrtern Dist."
+  },
+  {
+    "district_id": 10902213025,
+    "city_id": 2213,
+    "region_id": 9,
+    "name_ar": "حي السعادة",
+    "name_en": "As Saadah Dist."
   },
   {
     "district_id": 10902213026,
@@ -16671,20 +21998,20 @@
     "city_id": 2213,
     "region_id": 9,
     "name_ar": "حي الريان",
-    "name_en": "Ar Rayyan Dist."
+    "name_en": "Ar Rayaan Dist."
   },
   {
     "district_id": 10902213028,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "حي احواش الاغنام",
-    "name_en": "Ahwash Al Aghnam Dist."
+    "name_ar": "حي النور",
+    "name_en": "An Noor Dist."
   },
   {
     "district_id": 10902213029,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "حي الأمانه",
+    "name_ar": "حي الأمانه الاداري",
     "name_en": "Al Amanah Dist."
   },
   {
@@ -16706,27 +22033,27 @@
     "city_id": 2213,
     "region_id": 9,
     "name_ar": "حي بدنة",
-    "name_en": "Al Badanah Dist."
+    "name_en": "Badanah Dist."
   },
   {
     "district_id": 10902213033,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "حي المطار القديم",
-    "name_en": "Old Airport Dist."
+    "name_ar": "حي المطار",
+    "name_en": "Al Matar Dist."
   },
   {
     "district_id": 10902213034,
     "city_id": 2213,
     "region_id": 9,
     "name_ar": "حي مشرف",
-    "name_en": "Al Mushrif Dist."
+    "name_en": "Mshrif Dist."
   },
   {
     "district_id": 10902213035,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "حي جوهرة",
+    "name_ar": "حي الجوهرة",
     "name_en": "Al Jawharah Dist."
   },
   {
@@ -16754,22 +22081,22 @@
     "district_id": 10902213039,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "مخطط المنتزه العام",
-    "name_en": "Public Park Plan"
+    "name_ar": "حي الوئام",
+    "name_en": "Al Weaam Dist."
   },
   {
     "district_id": 10902213040,
     "city_id": 2213,
     "region_id": 9,
     "name_ar": "حي النسيم",
-    "name_en": "Al Naseem Dist."
+    "name_en": "An Naseem Dist."
   },
   {
     "district_id": 10902213041,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "حي احواش الديديب",
-    "name_en": "Ahwash Ad Daydeeb Dist."
+    "name_ar": "حي المهندسين",
+    "name_en": "Al Muhandisin Dist."
   },
   {
     "district_id": 10902213042,
@@ -16783,49 +22110,49 @@
     "city_id": 2213,
     "region_id": 9,
     "name_ar": "حي الربوة",
-    "name_en": "Ar Rabwa Dist."
+    "name_en": "Ar Rabwah Dist."
   },
   {
     "district_id": 10902213044,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "مخطط تشليح السيارات",
-    "name_en": "Vehicle Scrap Subdivision Plan"
+    "name_ar": "حي النزهة",
+    "name_en": "An Nuzhah Dist."
   },
   {
     "district_id": 10902213045,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "مخطط استثمارى",
-    "name_en": "Ivestment Subdivision Plan"
+    "name_ar": "حي النخيل الجنوبي",
+    "name_en": "Al Nakheel Southern Dist."
   },
   {
     "district_id": 10902213046,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "حي الصناعية القديمة",
-    "name_en": "Old Industrial Dist."
+    "name_ar": "حي الجامعة",
+    "name_en": "Al Jamiah Dist."
   },
   {
     "district_id": 10902213047,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "حي البساتين",
-    "name_en": "Al Basatin Dist."
+    "name_ar": "حي البساتين الاداري الشرقي",
+    "name_en": "Al Basatin Administrative Eastern Dist."
   },
   {
     "district_id": 10902213048,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "حي الوادى",
-    "name_en": "Al Wadi Dist."
+    "name_ar": "حي البراعم",
+    "name_en": "Al Baraam Dist."
   },
   {
     "district_id": 10902213049,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "حي استثماري هواة الصيد بالصقور",
-    "name_en": "Fishing With Falcon Investment Area"
+    "name_ar": "حي معيلة",
+    "name_en": "Maaelah Dist."
   },
   {
     "district_id": 10902213050,
@@ -16838,8 +22165,218 @@
     "district_id": 10902213051,
     "city_id": 2213,
     "region_id": 9,
-    "name_ar": "حي المساعدية الشرقية",
-    "name_en": "Al Musaidiyah Ash Sharqiyyah Dist."
+    "name_ar": "حي هجرة ابن سعيد",
+    "name_en": "Hijrat Bin Saeed Dist."
+  },
+  {
+    "district_id": 10902213052,
+    "city_id": 2213,
+    "region_id": 9,
+    "name_ar": "حي الصناعية الثانية",
+    "name_en": "2nd Industrial Dist."
+  },
+  {
+    "district_id": 10902213053,
+    "city_id": 2213,
+    "region_id": 9,
+    "name_ar": "حي الهلالي",
+    "name_en": "Al Helali Dist."
+  },
+  {
+    "district_id": 10902213054,
+    "city_id": 2213,
+    "region_id": 9,
+    "name_ar": "حي الفروسية",
+    "name_en": "Al Frosyah Dist."
+  },
+  {
+    "district_id": 10902213055,
+    "city_id": 2213,
+    "region_id": 9,
+    "name_ar": "حي اشبيلية الجنوبي",
+    "name_en": "Ishbiliyah Southern Dist."
+  },
+  {
+    "district_id": 10902213056,
+    "city_id": 2213,
+    "region_id": 9,
+    "name_ar": "حي القدس الغربي",
+    "name_en": "Al Quds Wesrtern Dist."
+  },
+  {
+    "district_id": 10902213057,
+    "city_id": 2213,
+    "region_id": 9,
+    "name_ar": "محجوزات ارمكو",
+    "name_en": "Aramco Property"
+  },
+  {
+    "district_id": 10902213058,
+    "city_id": 2213,
+    "region_id": 9,
+    "name_ar": "حي التقنية",
+    "name_en": "Al Taqniyah Dist."
+  },
+  {
+    "district_id": 10902213059,
+    "city_id": 2213,
+    "region_id": 9,
+    "name_ar": "حي ام الضيان",
+    "name_en": "Um Al Dayan Dist."
+  },
+  {
+    "district_id": 10902213060,
+    "city_id": 2213,
+    "region_id": 9,
+    "name_ar": "حي غرناطة الغربي",
+    "name_en": "Ghirnatah Wesrtern Dist."
+  },
+  {
+    "district_id": 10902213061,
+    "city_id": 2213,
+    "region_id": 9,
+    "name_ar": "حي الارجوان الشرقي",
+    "name_en": "Al Orjwan Eastern Dist."
+  },
+  {
+    "district_id": 10902213062,
+    "city_id": 2213,
+    "region_id": 9,
+    "name_ar": "حي الخليج الغربي",
+    "name_en": "Al Khaleej Wesrtern Dist."
+  },
+  {
+    "district_id": 10902213063,
+    "city_id": 2213,
+    "region_id": 9,
+    "name_ar": "حي الياسمين",
+    "name_en": "Al Yasmin Dist."
+  },
+  {
+    "district_id": 10902213064,
+    "city_id": 2213,
+    "region_id": 9,
+    "name_ar": "حي الزهور",
+    "name_en": "Az Zuhur Dist."
+  },
+  {
+    "district_id": 10902213065,
+    "city_id": 2213,
+    "region_id": 9,
+    "name_ar": "حي الاصداف",
+    "name_en": "Al Asdaf Dist."
+  },
+  {
+    "district_id": 10902213066,
+    "city_id": 2213,
+    "region_id": 9,
+    "name_ar": "حي المروج الغربي",
+    "name_en": "Al Muruj Wesrtern Dist."
+  },
+  {
+    "district_id": 10902215001,
+    "city_id": 2215,
+    "region_id": 9,
+    "name_ar": "حي المصيف",
+    "name_en": "Al Masif Dist."
+  },
+  {
+    "district_id": 10902215002,
+    "city_id": 2215,
+    "region_id": 9,
+    "name_ar": "مخطط المنطقة الصناعية",
+    "name_en": "Industrial Area"
+  },
+  {
+    "district_id": 10902215003,
+    "city_id": 2215,
+    "region_id": 9,
+    "name_ar": "مهاجع حرس الحدود",
+    "name_en": "Border Guard Housing"
+  },
+  {
+    "district_id": 10902215004,
+    "city_id": 2215,
+    "region_id": 9,
+    "name_ar": "حي المنار",
+    "name_en": "Al Manar Dist."
+  },
+  {
+    "district_id": 10902215005,
+    "city_id": 2215,
+    "region_id": 9,
+    "name_ar": "حي ج1",
+    "name_en": "C1 Dist."
+  },
+  {
+    "district_id": 10902215006,
+    "city_id": 2215,
+    "region_id": 9,
+    "name_ar": "حي الأندلس",
+    "name_en": "Al Andalus Dist."
+  },
+  {
+    "district_id": 10902215007,
+    "city_id": 2215,
+    "region_id": 9,
+    "name_ar": "حي الروضة",
+    "name_en": "Ar Rawdah Dist."
+  },
+  {
+    "district_id": 10902215008,
+    "city_id": 2215,
+    "region_id": 9,
+    "name_ar": "حي الخليج",
+    "name_en": "Al Khalij Dist."
+  },
+  {
+    "district_id": 10902215009,
+    "city_id": 2215,
+    "region_id": 9,
+    "name_ar": "مخطط  شرق مدينة العويقيلة",
+    "name_en": "East Al Uwayqilah City Subdivision Plan"
+  },
+  {
+    "district_id": 10902215010,
+    "city_id": 2215,
+    "region_id": 9,
+    "name_ar": "حي الصناعية",
+    "name_en": "As Sinaiyah Dist."
+  },
+  {
+    "district_id": 10902215011,
+    "city_id": 2215,
+    "region_id": 9,
+    "name_ar": "المربع الخدمي",
+    "name_en": "Al Murabba Al Khadamy"
+  },
+  {
+    "district_id": 10902215012,
+    "city_id": 2215,
+    "region_id": 9,
+    "name_ar": "حي ج4",
+    "name_en": "C4 Dist."
+  },
+  {
+    "district_id": 10902215013,
+    "city_id": 2215,
+    "region_id": 9,
+    "name_ar": "ادارة التعليم",
+    "name_en": "Education Administration"
+  },
+  {
+    "district_id": 10902215014,
+    "city_id": 2215,
+    "region_id": 9,
+    "name_ar": "حي النسيم",
+    "name_en": "Al Naseem Dist."
+  },
+  {
+    "district_id": 10902215015,
+    "city_id": 2215,
+    "region_id": 9,
+    "name_ar": "حي الورود",
+    "name_en": "Al Wurud Dist."
   },
   {
     "district_id": 10902256001,
@@ -16958,7 +22495,7 @@
     "city_id": 2256,
     "region_id": 9,
     "name_ar": "حي الخالدية",
-    "name_en": "Al Khaldiyah Dist."
+    "name_en": "Al Khalidiyah Dist."
   },
   {
     "district_id": 10902256024,
@@ -16980,6 +22517,13 @@
     "region_id": 9,
     "name_ar": "حي السلام",
     "name_en": "As Salam Dist."
+  },
+  {
+    "district_id": 10902256027,
+    "city_id": 2256,
+    "region_id": 9,
+    "name_ar": "حي إسكان حرس الحدود",
+    "name_en": "Border Guard Iskan Dist."
   },
   {
     "district_id": 10902256028,
@@ -18270,6 +23814,13 @@
     "name_en": "Al Wasit"
   },
   {
+    "district_id": 11003542009,
+    "city_id": 3542,
+    "region_id": 10,
+    "name_ar": "حي الزاوية",
+    "name_en": "Al Zawiyah Dist."
+  },
+  {
     "district_id": 11003597001,
     "city_id": 3597,
     "region_id": 10,
@@ -18435,7 +23986,7 @@
     "city_id": 2522,
     "region_id": 11,
     "name_ar": "حي جنوب يدمة",
-    "name_en": "Janub Yadamah  Dist."
+    "name_en": "Janub Yadamah Dist."
   },
   {
     "district_id": 11102522004,
@@ -18527,6 +24078,20 @@
     "region_id": 11,
     "name_ar": "حي الروضة الجنوبية",
     "name_en": "Ar Rawdah Al Janubiyyah Dist."
+  },
+  {
+    "district_id": 11103347012,
+    "city_id": 3347,
+    "region_id": 11,
+    "name_ar": "حي النزهة",
+    "name_en": "An Nuzhah Dist."
+  },
+  {
+    "district_id": 11103396001,
+    "city_id": 3396,
+    "region_id": 11,
+    "name_ar": "حي حبونا",
+    "name_en": "Hubuna Dist."
   },
   {
     "district_id": 11103417001,
@@ -18907,6 +24472,13 @@
     "name_en": "Aba Al Rashash Dist."
   },
   {
+    "district_id": 11103417056,
+    "city_id": 3417,
+    "region_id": 11,
+    "name_ar": "حي العريسة",
+    "name_en": "Al Uraysah Dist."
+  },
+  {
     "district_id": 11103417057,
     "city_id": 3417,
     "region_id": 11,
@@ -19026,6 +24598,20 @@
     "name_en": "North Shurfah Dist."
   },
   {
+    "district_id": 11103417074,
+    "city_id": 3417,
+    "region_id": 11,
+    "name_ar": "حي المخيم",
+    "name_en": "Al Mukheem Dist."
+  },
+  {
+    "district_id": 11201531001,
+    "city_id": 1531,
+    "region_id": 12,
+    "name_ar": "حي الشطيبة",
+    "name_en": "Shateebah Dist."
+  },
+  {
     "district_id": 11201542001,
     "city_id": 1542,
     "region_id": 12,
@@ -19086,7 +24672,7 @@
     "city_id": 1542,
     "region_id": 12,
     "name_ar": "حي الربوة",
-    "name_en": "Al Rabwah Dist."
+    "name_en": "Ar Rabwah Dist."
   },
   {
     "district_id": 11201542010,
@@ -19166,18 +24752,25 @@
     "name_en": "At Tafeer Dist."
   },
   {
+    "district_id": 11202819001,
+    "city_id": 2819,
+    "region_id": 12,
+    "name_ar": "مخطط المطار",
+    "name_en": "Al Matar Subdivision Plan"
+  },
+  {
+    "district_id": 11202819002,
+    "city_id": 2819,
+    "region_id": 12,
+    "name_ar": "حي الغوث",
+    "name_en": "Al Goth Dist."
+  },
+  {
     "district_id": 11302226001,
     "city_id": 2226,
     "region_id": 13,
     "name_ar": "حي حصيدة",
     "name_en": "Husaydah Dist."
-  },
-  {
-    "district_id": 11302226002,
-    "city_id": 2226,
-    "region_id": 13,
-    "name_ar": "حي العليا",
-    "name_en": "Al Olaya Dist."
   },
   {
     "district_id": 11302226003,
@@ -19194,53 +24787,11 @@
     "name_en": "Al Faisaliyah Dist."
   },
   {
-    "district_id": 11302226005,
-    "city_id": 2226,
-    "region_id": 13,
-    "name_ar": "حي الغزالي",
-    "name_en": "Al Ghzali Dist."
-  },
-  {
     "district_id": 11302226006,
     "city_id": 2226,
     "region_id": 13,
     "name_ar": "حي الصناعية",
     "name_en": "As Sinaiyah Dist."
-  },
-  {
-    "district_id": 11302226007,
-    "city_id": 2226,
-    "region_id": 13,
-    "name_ar": "حي الخالدية",
-    "name_en": "Al Khalidiyah Dist."
-  },
-  {
-    "district_id": 11302226008,
-    "city_id": 2226,
-    "region_id": 13,
-    "name_ar": "حي السديرية",
-    "name_en": "As Sadiriyyah Dist."
-  },
-  {
-    "district_id": 11302226009,
-    "city_id": 2226,
-    "region_id": 13,
-    "name_ar": "حي الدفاع",
-    "name_en": "Ad Difa Dist."
-  },
-  {
-    "district_id": 11302226010,
-    "city_id": 2226,
-    "region_id": 13,
-    "name_ar": "حي التحلية",
-    "name_en": "At Tahliyyah Dist."
-  },
-  {
-    "district_id": 11302226011,
-    "city_id": 2226,
-    "region_id": 13,
-    "name_ar": "حي النسيم",
-    "name_en": "Al Naseem Dist."
   },
   {
     "district_id": 11302226012,
@@ -19250,25 +24801,333 @@
     "name_en": "Ash Shifa Dist."
   },
   {
-    "district_id": 11302226013,
-    "city_id": 2226,
-    "region_id": 13,
-    "name_ar": "حي المطار",
-    "name_en": "Al Matar Dist."
-  },
-  {
-    "district_id": 11302226014,
-    "city_id": 2226,
-    "region_id": 13,
-    "name_ar": "حي الحميدية",
-    "name_en": "Al Hamidiyyah Dist."
-  },
-  {
     "district_id": 11302226015,
     "city_id": 2226,
     "region_id": 13,
     "name_ar": "حي المروج",
     "name_en": "Al Muruj Dist."
+  },
+  {
+    "district_id": 11302226016,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الورود",
+    "name_en": "Al Wurud Dist."
+  },
+  {
+    "district_id": 11302226017,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الرحمة",
+    "name_en": "Ar Rahmah Dist."
+  },
+  {
+    "district_id": 11302226018,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي العزيزية",
+    "name_en": "Al Aziziyah Dist."
+  },
+  {
+    "district_id": 11302226019,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي السلام",
+    "name_en": "As Salam Dist."
+  },
+  {
+    "district_id": 11302226020,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الجوهرة",
+    "name_en": "Al Jawharah  Dist."
+  },
+  {
+    "district_id": 11302226021,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي النرجس",
+    "name_en": "An Narjis Dist."
+  },
+  {
+    "district_id": 11302226022,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الازدهار",
+    "name_en": "Al Izdihar Dist."
+  },
+  {
+    "district_id": 11302226023,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي النفل",
+    "name_en": "Al Nafl Dist."
+  },
+  {
+    "district_id": 11302226024,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الريحان",
+    "name_en": "Ar Raihan Dist."
+  },
+  {
+    "district_id": 11302226025,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الدانة",
+    "name_en": "Ad Danah Dist."
+  },
+  {
+    "district_id": 11302226026,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي النخيل",
+    "name_en": "Al Nakhil Dist."
+  },
+  {
+    "district_id": 11302226027,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الريان",
+    "name_en": "Ar Rayan Dist."
+  },
+  {
+    "district_id": 11302226028,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الياسمين",
+    "name_en": "Al Yasmin Dist."
+  },
+  {
+    "district_id": 11302226029,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الرسالة",
+    "name_en": "Al Risalah Dist."
+  },
+  {
+    "district_id": 11302226030,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الاندلس",
+    "name_en": "Al Andalus Dist."
+  },
+  {
+    "district_id": 11302226031,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الروضة",
+    "name_en": "Ar Rawdah Dist."
+  },
+  {
+    "district_id": 11302226032,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الشروق",
+    "name_en": "Ash Shuruq Dist."
+  },
+  {
+    "district_id": 11302226033,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الوادي",
+    "name_en": "Al Wadi Dist."
+  },
+  {
+    "district_id": 11302226034,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الخزامى",
+    "name_en": "Al Khuzama Dist."
+  },
+  {
+    "district_id": 11302226035,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الرواد",
+    "name_en": "Ar Ruwad Dist."
+  },
+  {
+    "district_id": 11302226036,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الروابي",
+    "name_en": "Ar Rawabi Dist."
+  },
+  {
+    "district_id": 11302226037,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الفرسان",
+    "name_en": "Al Fursan Dist."
+  },
+  {
+    "district_id": 11302226038,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي البادية",
+    "name_en": "Al Badiyah Dist."
+  },
+  {
+    "district_id": 11302226039,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي المنار",
+    "name_en": "Al Manar Dist."
+  },
+  {
+    "district_id": 11302226040,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الامير عبدالاله بن عبدالعزيز",
+    "name_en": "Prince Abdulellah Bin Abdulaziz Dist."
+  },
+  {
+    "district_id": 11302226041,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الواحة",
+    "name_en": "Al Wahah Dist."
+  },
+  {
+    "district_id": 11302226042,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الغدير",
+    "name_en": "Al Ghadir Dist."
+  },
+  {
+    "district_id": 11302226043,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الرحاب",
+    "name_en": "Al Rehab Dist."
+  },
+  {
+    "district_id": 11302226044,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الندى",
+    "name_en": "An Nada Dist."
+  },
+  {
+    "district_id": 11302226045,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الربيع",
+    "name_en": "Ar Rabie Dist."
+  },
+  {
+    "district_id": 11302226046,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الامل",
+    "name_en": "Al Amal Dist."
+  },
+  {
+    "district_id": 11302226047,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الزيتون",
+    "name_en": "Az Zaytun Dist."
+  },
+  {
+    "district_id": 11302226048,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي النهضة",
+    "name_en": "An Nahdah Dist."
+  },
+  {
+    "district_id": 11302226049,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الرفاع",
+    "name_en": "Ar Rifaa Dist."
+  },
+  {
+    "district_id": 11302226050,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الصفاء",
+    "name_en": "Al Safa Dist."
+  },
+  {
+    "district_id": 11302226051,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي النزهة",
+    "name_en": "An Nuzhah Dist."
+  },
+  {
+    "district_id": 11302226052,
+    "city_id": 2226,
+    "region_id": 13,
+    "name_ar": "حي الزمرد",
+    "name_en": "Az Zumorud Dist."
+  },
+  {
+    "district_id": 11302229001,
+    "city_id": 2229,
+    "region_id": 13,
+    "name_ar": "حي الفيصلية",
+    "name_en": "Al Faisaliyah Dist."
+  },
+  {
+    "district_id": 11302229002,
+    "city_id": 2229,
+    "region_id": 13,
+    "name_ar": "حي السلام",
+    "name_en": "As Salam Dist."
+  },
+  {
+    "district_id": 11302229003,
+    "city_id": 2229,
+    "region_id": 13,
+    "name_ar": "حي المنار",
+    "name_en": "Al Manar Dist."
+  },
+  {
+    "district_id": 11302229004,
+    "city_id": 2229,
+    "region_id": 13,
+    "name_ar": "حي الربوة",
+    "name_en": "Ar Rabwah Dist."
+  },
+  {
+    "district_id": 11302229005,
+    "city_id": 2229,
+    "region_id": 13,
+    "name_ar": "حي العزيزية",
+    "name_en": "Al Aziziyah Dist."
+  },
+  {
+    "district_id": 11302229006,
+    "city_id": 2229,
+    "region_id": 13,
+    "name_ar": "حي الجوهرة",
+    "name_en": "Al Jawharah  Dist."
+  },
+  {
+    "district_id": 11302229007,
+    "city_id": 2229,
+    "region_id": 13,
+    "name_ar": "حي الاندلس",
+    "name_en": "Al Andalus Dist."
+  },
+  {
+    "district_id": 11302229008,
+    "city_id": 2229,
+    "region_id": 13,
+    "name_ar": "حي السليمانية",
+    "name_en": "As Sulimaniyah Dist."
+  },
+  {
+    "district_id": 11302229009,
+    "city_id": 2229,
+    "region_id": 13,
+    "name_ar": "حي البستان",
+    "name_en": "Al Bustan Dist."
   },
   {
     "district_id": 11302234001,
@@ -19380,7 +25239,7 @@
     "city_id": 2237,
     "region_id": 13,
     "name_ar": "حي الرحمانية",
-    "name_en": "Ar Rahmanyah Dist."
+    "name_en": "Ar Rahmaniyah Dist."
   },
   {
     "district_id": 11302237006,
@@ -19877,7 +25736,7 @@
     "city_id": 2240,
     "region_id": 13,
     "name_ar": "حي الرحمانية",
-    "name_en": "Al Rahmanyah Dist."
+    "name_en": "Ar Rahmaniyah Dist."
   },
   {
     "district_id": 11302240005,
@@ -19898,7 +25757,7 @@
     "city_id": 2240,
     "region_id": 13,
     "name_ar": "حي الربيع",
-    "name_en": "Al Rabie Dist."
+    "name_en": "Ar Rabie Dist."
   },
   {
     "district_id": 11302240008,
@@ -20024,7 +25883,7 @@
     "city_id": 2240,
     "region_id": 13,
     "name_ar": "حي الربوة",
-    "name_en": "Al Rabwah Dist."
+    "name_en": "Ar Rabwah Dist."
   },
   {
     "district_id": 11302240026,
@@ -20206,7 +26065,7 @@
     "city_id": 2268,
     "region_id": 13,
     "name_ar": "حي الصناعي",
-    "name_en": "Industry Dist."
+    "name_en": "Industrial Dist."
   },
   {
     "district_id": 11302268026,
